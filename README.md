@@ -11,6 +11,18 @@ Once we have these representative codebases being built using all possible tools
 
 We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each of these codebases with Maven, then installed Gradle, and performed automatic conversion using the Gradle init tool [4]. We are using Java 1.8 and Maven 3.6 for these tasks. We plan next to play around with Bazel and convert the Commons Math library first, since it is the smallest and likely easiest to get started with.
 
+Maven Builds:
+Maven-/maven-master/apache-maven
+Commons Math-/commons-math-master/target
+Guava-
+Tensorflow-
+
+Gradle Builds:
+Maven-
+Commons Math-
+Guava-
+Tensorflow-
+
 ### References
 1. https://docs.bazel.build/versions/master/migrate-maven.html
 2. https://medium.com/wix-engineering/migrating-to-bazel-from-maven-or-gradle-part-1-how-to-choose-the-right-build-unit-granularity-a58a8142c549
