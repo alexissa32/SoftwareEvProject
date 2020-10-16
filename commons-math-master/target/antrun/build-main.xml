@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <jar destfile="C:\Users\Alex Issa\Desktop\SoftwareEvProject\commons-math-master\target/commons-math4-4.0-SNAPSHOT-tools.jar">
+    <metainf includes="NOTICE.txt,LICENSE.txt" dir="C:\Users\Alex Issa\Desktop\SoftwareEvProject\commons-math-master"/>
+    <manifest>
+      <attribute name="Specification-Title" value="Apache Commons Math Tools"/>
+      <attribute name="Implementation-Title" value="Apache Commons Math Tools"/>
+      <attribute name="Implementation-Vendor" value="The Apache Software Foundation"/>
+      <attribute name="Implementation-Version" value="4.0-SNAPSHOT"/>
+      <attribute name="Implementation-Vendor-Id" value="org.apache"/>
+      <attribute name="Implementation-Build" value="${git.revision}; 2020-10-14 02:21:30+0000"/>
+      <attribute name="X-Compile-Source-JDK" value="1.8"/>
+      <attribute name="X-Compile-Target-JDK" value="1.8"/>
+    </manifest>
+    <fileset includes="org/apache/commons/math4/PerfTestUtils*" dir="C:\Users\Alex Issa\Desktop\SoftwareEvProject\commons-math-master\target/test-classes"/>
+  </jar>
+</target>
+</project>

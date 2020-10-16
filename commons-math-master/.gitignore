@@ -3,7 +3,6 @@
 .settings
 .checkstyle
 bin
-target
 /build
 /lib
 /site-content
