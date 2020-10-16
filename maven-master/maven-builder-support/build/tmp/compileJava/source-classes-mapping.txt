@@ -1,0 +1,19 @@
+org/apache/maven/building/ProblemCollector.java
+ org.apache.maven.building.ProblemCollector
+org/apache/maven/building/StringSource.java
+ org.apache.maven.building.StringSource
+org/apache/maven/building/DefaultProblemCollector.java
+ org.apache.maven.building.DefaultProblemCollector
+org/apache/maven/building/UrlSource.java
+ org.apache.maven.building.UrlSource
+org/apache/maven/building/Source.java
+ org.apache.maven.building.Source
+org/apache/maven/building/FileSource.java
+ org.apache.maven.building.FileSource
+org/apache/maven/building/DefaultProblem.java
+ org.apache.maven.building.DefaultProblem
+org/apache/maven/building/Problem.java
+ org.apache.maven.building.Problem
+ org.apache.maven.building.Problem$Severity
+org/apache/maven/building/ProblemCollectorFactory.java
+ org.apache.maven.building.ProblemCollectorFactory
