@@ -14,14 +14,14 @@ We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each 
 #### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
 ##### Maven-/maven-master/apache-maven
 ##### Commons Math-/commons-math-master/target
-##### Guava-
-##### Tensorflow-
+##### Guava-/guava-master/guava/target
+##### Tensorflow-N/A
 
 #### Gradle Builds (with slight adjustments):
-##### Maven-
-##### Commons Math-
-##### Guava-
-##### Tensorflow-
+##### Maven-???
+##### Commons Math-success
+##### Guava-success
+##### Tensorflow-N/A
 
 ### References
 1. https://docs.bazel.build/versions/master/migrate-maven.html
