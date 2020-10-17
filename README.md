@@ -13,12 +13,14 @@ We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each 
 
 #### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
 ##### Maven-/maven-master/apache-maven
+##### Gradle-
 ##### Commons Math-/commons-math-master/target
 ##### Guava-/guava-master/guava/target
 ##### Tensorflow-N/A
 
 #### Gradle Builds (with slight adjustments):
-##### Maven-???
+##### Maven-not possible?
+##### Gradle-success
 ##### Commons Math-success
 ##### Guava-success
 ##### Tensorflow-N/A
