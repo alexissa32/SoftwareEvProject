@@ -1,0 +1,58 @@
+Aether Repository - artifactResolving: ut.simple:artifact:pom:0
+Aether Repository - artifactDownloading: ut.simple:artifact:pom:0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Transfer - transferInitiated: Downloading: file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/0/artifact-0.pom
+
+Aether Transfer - transferFailed: class org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact ut.simple:artifact:pom:0 in repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/)
+Aether Repository - artifactDownloaded: ut.simple:artifact:pom:0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolved: ut.simple:artifact:pom:0 from null
+Aether Repository - artifactResolving: ut.simple:artifact:pom:0
+Aether Repository - artifactDownloading: ut.simple:artifact:pom:0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Transfer - transferInitiated: Downloading: file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/0/artifact-0.pom
+
+Aether Transfer - transferFailed: class org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact ut.simple:artifact:pom:0 in repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/)
+Aether Repository - artifactDownloaded: ut.simple:artifact:pom:0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolved: ut.simple:artifact:pom:0 from null
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactDownloading: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Transfer - transferInitiated: Downloading: file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/1.0/artifact-1.0.pom
+Aether Transfer - transferProgressed: 2/2 KB   [main] WARN org.eclipse.aether.internal.impl.WarnChecksumPolicy - Could not validate integrity of download from file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/1.0/artifact-1.0.pom: Checksum validation failed, no checksums available
+Aether Transfer - transferCorrupted: class org.eclipse.aether.transfer.ChecksumFailureException: Checksum validation failed, no checksums available
+         
+Aether Transfer - transferSucceeded: Downloaded: file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/1.0/artifact-1.0.pom (2 KB at 236.6 KB/sec)
+Aether Repository - artifactDownloaded: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Transfer - transferInitiated: Downloading: file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/maven-metadata.xml
+Aether Transfer - transferProgressed: 2/2 KB   [main] WARN org.eclipse.aether.internal.impl.WarnChecksumPolicy - Could not validate integrity of download from file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/maven-metadata.xml: Checksum validation failed, no checksums available
+Aether Transfer - transferCorrupted: class org.eclipse.aether.transfer.ChecksumFailureException: Checksum validation failed, no checksums available
+         
+Aether Transfer - transferSucceeded: Downloaded: file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/ut/simple/artifact/maven-metadata.xml (2 KB at 225.6 KB/sec)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - artifactResolving: ut.simple:artifact:pom:1.0
+Aether Repository - artifactResolved: ut.simple:artifact:pom:1.0 from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-resolver-provider\target\local-repo (enhanced)
+Aether Repository - metadataResolving: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)
+Aether Repository - metadataResolved: ut.simple:artifact/maven-metadata.xml from repo (file:/C:/Users/dfbra/Documents/SoftwareEvProject/maven/apache-maven-3.6.3/maven-resolver-provider/target/test-classes/repo/, default, releases+snapshots)

@@ -1,0 +1,3 @@
+org/apache/maven/project/AbstractMavenProjectTestCase.xml
+Local repository is at: C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-compat\src\test\resources\inheritance-repo\t02
+Location of project-4's POM: C:\Users\dfbra\Documents\SoftwareEvProject\maven\apache-maven-3.6.3\maven-compat\src\test\resources\inheritance-repo\t02\p0\p1\p2\p3\p4\pom.xml

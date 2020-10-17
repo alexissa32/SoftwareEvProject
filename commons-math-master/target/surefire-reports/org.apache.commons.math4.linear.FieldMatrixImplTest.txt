@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.apache.commons.math4.linear.FieldMatrixImplTest
--------------------------------------------------------------------------------
-Tests run: 37, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.015 s - in org.apache.commons.math4.linear.FieldMatrixImplTest

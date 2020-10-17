@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.apache.commons.math4.util.FastMathTest
--------------------------------------------------------------------------------
-Tests run: 72, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 8.804 s - in org.apache.commons.math4.util.FastMathTest

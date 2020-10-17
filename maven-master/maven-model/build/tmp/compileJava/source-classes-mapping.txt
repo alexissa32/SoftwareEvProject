@@ -1,6 +1,0 @@
-org/apache/maven/model/io/xpp3/package-info.java
- org.apache.maven.model.io.xpp3.package-info
-org/apache/maven/model/merge/package-info.java
- org.apache.maven.model.merge.package-info
-org/apache/maven/model/package-info.java
- org.apache.maven.model.package-info

@@ -1,0 +1,1 @@
+[ERROR] [ERROR] The projects in the reactor contain a cyclic reference: Edge between 'Vertex{label='cyclic-reference:module-b:1.0-SNAPSHOT'}' and 'Vertex{label='cyclic-reference:module-a:1.0-SNAPSHOT'}' introduces to cycle in the graph cyclic-reference:module-a:1.0-SNAPSHOT --> cyclic-reference:module-b:1.0-SNAPSHOT --> cyclic-reference:module-a:1.0-SNAPSHOT @ 

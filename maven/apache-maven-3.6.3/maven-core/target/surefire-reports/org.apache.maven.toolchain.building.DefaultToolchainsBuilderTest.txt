@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.maven.toolchain.building.DefaultToolchainsBuilderTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.064 s - in org.apache.maven.toolchain.building.DefaultToolchainsBuilderTest

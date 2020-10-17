@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>inheritance</groupId>
+  <artifactId>child</artifactId>
+  <version>12-SNAPSHOT</version>
+  <description>Model inheritance description</description>
+  <url>http://www.apache.org/child/</url>
+  <mailingLists>
+    <mailingList>
+      <name>parent</name>
+      <subscribe>subscribe@mailing.list.com</subscribe>
+      <unsubscribe>unsubscribe@mailing.list.com</unsubscribe>
+      <post>post@mailing.list.com</post>
+    </mailingList>
+  </mailingLists>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>inheritance.configuration</groupId>
+        <artifactId>default</artifactId>
+        <version>3.0</version>
+        <configuration>
+          <defaults>
+            <parent>child</parent>
+            <child>child</child>
+            <parent-only>parent</parent-only>
+          </defaults>
+          <appends combine.children="append">
+            <parent-only>parent</parent-only>
+            <parent>parent</parent>
+            <parent>child</parent>
+            <child>child</child>
+          </appends>
+          <overrides combine.self="override">
+            <parent>child</parent>
+            <child>child</child>
+          </overrides>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  <reporting>
+    <plugins>
+      <plugin>
+        <artifactId>MNG-5115</artifactId>
+        <reportSets>
+          <reportSet>
+            <id>default-inherited</id>
+            <reports>
+              <report>to-be-inherited</report>
+            </reports>
+          </reportSet>
+        </reportSets>
+      </plugin>
+    </plugins>
+  </reporting>
+</project>

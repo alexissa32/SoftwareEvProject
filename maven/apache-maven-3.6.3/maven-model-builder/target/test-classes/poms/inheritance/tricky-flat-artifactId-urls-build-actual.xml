@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>inheritance</groupId>
+    <artifactId>parent</artifactId>
+    <version>11-SNAPSHOT</version>
+  </parent>
+  <groupId>inheritance</groupId>
+  <artifactId>child-artifact-id</artifactId>
+  <version>11-SNAPSHOT</version>
+  <name>Model urls inheritance test child</name>
+  <description>Flat directory structure case: module = ../child-artifact-id + child directory path != child-artifact-id</description>
+  <url>http://www.apache.org/path/to/parent/../child-artifact-id/</url>
+  <scm>
+    <connection>scm:my-scm:http://domain.org/base/../child-artifact-id</connection>
+    <developerConnection>scm:my-scm:https://domain.org/base/../child-artifact-id/</developerConnection>
+    <url>https://domain.org/base/../child-artifact-id</url>
+  </scm>
+  <distributionManagement>
+    <site>
+      <url>scp://scp.domain.org/base/../child-artifact-id/</url>
+    </site>
+  </distributionManagement>
+</project>

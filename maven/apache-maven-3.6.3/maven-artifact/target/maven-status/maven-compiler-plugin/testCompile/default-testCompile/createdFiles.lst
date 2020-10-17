@@ -1,0 +1,8 @@
+org\apache\maven\artifact\versioning\ComparableVersionIT$1.class
+org\apache\maven\artifact\versioning\ComparableVersionIT.class
+org\apache\maven\artifact\versioning\VersionRangeTest.class
+org\apache\maven\artifact\DefaultArtifactTest.class
+org\apache\maven\artifact\ArtifactUtilsTest.class
+org\apache\maven\artifact\handler\ArtifactHandlerMock.class
+org\apache\maven\artifact\versioning\DefaultArtifactVersionTest.class
+org\apache\maven\artifact\versioning\ComparableVersionTest.class
