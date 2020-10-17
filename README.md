@@ -12,11 +12,16 @@ Once we have these representative codebases being built using all possible tools
 We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each of these codebases with Maven, then installed Gradle, and performed automatic conversion using the Gradle init tool [4]. We are using Java 1.8, Maven 3.6, and Gradle 6.6.1 for these tasks. We plan next to play around with Bazel and convert the Commons Math library first, since it is the smallest and likely easiest to get started with.
 
 #### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
-##### Maven-/maven-master/apache-maven
-##### Gradle-
-##### Commons Math-/commons-math-master/target
-##### Guava-/guava-master/guava/target
-##### Tensorflow-N/A
+##### Maven (built from scratch using mvn package)
+  maven/apache-maven-3.6.3/maven-[component]/target
+##### Commons Math (built from scratch using mvn package)
+  maven/commons-math3-3.6.1-src/target
+##### Gradle
+  TBD
+##### Guava (built from scratch using mvn install -DskipTests then mvn package -DskipTests)
+  maven/guava-30.0/guava/target
+##### Tensorflow
+  N/A
 
 #### Gradle Builds (with slight adjustments):
 ##### Maven-not possible?
