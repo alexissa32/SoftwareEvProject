@@ -13,34 +13,34 @@ We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each 
 
 #### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
 ##### Maven (built from scratch using mvn package)
-  maven/apache-maven-3.6.3/maven-[component]/target
+  maven/apache-maven-3.6.3/maven-[component]/target\
 ##### Commons Math (built from scratch using mvn package)
-  maven/commons-math3-3.6.1-src/target
+  maven/commons-math3-3.6.1-src/target\
 ##### Gradle
-  TBD
+  TBD\
 ##### Guava (built from scratch using mvn install -DskipTests then mvn package -DskipTests)
-  maven/guava-30.0/guava/target
+  maven/guava-30.0/guava/target\
 ##### Tensorflow
-  N/A
+  N/A\
 
 #### Gradle Builds (with slight adjustments):
 ##### Maven
-  not possible?
+  not possible?\
 ##### Gradle
-  gradle build
-  needs Java 9-11 (ugh)
+  gradle build\
+  needs Java 9-11 (ugh)\
 ##### Commons Math
-  gradle init
-  gradle build
-  success!
-  gradle/commons-math3-3.6.1-src/build
+  gradle init\
+  gradle build\
+  success!\
+  gradle/commons-math3-3.6.1-src/build\
   
 ##### Guava
-  gradle init
-  remove line "system 'jdk:srczip:999'" from gradle/guava-30.0/guava/build.gradle
-  gradle build
-  success!
-  gradle/guava-30.0/guava/build
+  gradle init\
+  remove line "system 'jdk:srczip:999'" from gradle/guava-30.0/guava/build.gradle\
+  gradle build\
+  success!\
+  gradle/guava-30.0/guava/build\
   
 ##### Tensorflow-N/A
 
