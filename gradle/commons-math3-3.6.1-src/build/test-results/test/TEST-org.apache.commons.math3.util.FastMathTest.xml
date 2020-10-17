@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.util.FastMathTest" tests="71" skipped="1" failures="0" errors="0" timestamp="2020-10-17T21:42:58" hostname="DYLAN-DESKTOP" time="6.837">
+  <properties/>
+  <testcase name="testLogSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.001"/>
+  <testcase name="testToIntExactTooHigh" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testDoubleNextAfterSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testIncrementExactInt" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testFloorDivInt" classname="org.apache.commons.math3.util.FastMathTest" time="0.039"/>
+  <testcase name="testIndicatorDouble" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testFloorModInt" classname="org.apache.commons.math3.util.FastMathTest" time="0.039"/>
+  <testcase name="testSubtractExactInt" classname="org.apache.commons.math3.util.FastMathTest" time="0.002"/>
+  <testcase name="testAtan2SpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testCbrtAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.9"/>
+  <testcase name="testAtan2" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testIntPowSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.006"/>
+  <testcase name="checkMissingFastMathClasses" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testLogAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.073"/>
+  <testcase name="testLog1pSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testAcosAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.806"/>
+  <testcase name="testMinMaxDouble" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testAcosSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testPowSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testDoubleScalbSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testToIntExactTooLow" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testTanhAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="1.417"/>
+  <testcase name="testMath905LargePositive" classname="org.apache.commons.math3.util.FastMathTest" time="0.005"/>
+  <testcase name="testPowAllSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.354"/>
+  <testcase name="testMath905LargeNegative" classname="org.apache.commons.math3.util.FastMathTest" time="0.001"/>
+  <testcase name="testFloorDivModInt" classname="org.apache.commons.math3.util.FastMathTest" time="0.013"/>
+  <testcase name="testToIntExact" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testToRadians" classname="org.apache.commons.math3.util.FastMathTest" time="0.021"/>
+  <testcase name="testMultiplyExactLong" classname="org.apache.commons.math3.util.FastMathTest" time="0.003"/>
+  <testcase name="testLogWithBase" classname="org.apache.commons.math3.util.FastMathTest" time="0.001"/>
+  <testcase name="testDecrementExactInt" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testConstants" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testAddExactInt" classname="org.apache.commons.math3.util.FastMathTest" time="0.001"/>
+  <testcase name="testTanAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.063"/>
+  <testcase name="testMath904" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testIntPowHuge" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testFloatScalbSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testAddExactLong" classname="org.apache.commons.math3.util.FastMathTest" time="0.002"/>
+  <testcase name="testToDegrees" classname="org.apache.commons.math3.util.FastMathTest" time="0.018"/>
+  <testcase name="testMultiplyExactInt" classname="org.apache.commons.math3.util.FastMathTest" time="0.004"/>
+  <testcase name="testSignumFloat" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testIntPowLongMinValue" classname="org.apache.commons.math3.util.FastMathTest" time="0.001"/>
+  <testcase name="testSinAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.038"/>
+  <testcase name="testAtan2Accuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.07"/>
+  <testcase name="testFloatNextAfterSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testExpm1Accuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.044"/>
+  <testcase name="testMath1269" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testSignumDouble" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testPowLargeIntegralDouble" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testMinMaxFloat" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testHyperbolic" classname="org.apache.commons.math3.util.FastMathTest" time="0.027"/>
+  <testcase name="testFloorModLong" classname="org.apache.commons.math3.util.FastMathTest" time="0.017"/>
+  <testcase name="testCoshAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.731"/>
+  <testcase name="testSubtractExactLong" classname="org.apache.commons.math3.util.FastMathTest" time="0.001"/>
+  <testcase name="testIntPow" classname="org.apache.commons.math3.util.FastMathTest" time="0.009"/>
+  <testcase name="testIndicatorFloat" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testPowAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.127"/>
+  <testcase name="testFloorDivModLong" classname="org.apache.commons.math3.util.FastMathTest" time="0.017"/>
+  <testcase name="testFloorDivLong" classname="org.apache.commons.math3.util.FastMathTest" time="0.021"/>
+  <testcase name="testExpSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testLog10Accuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.118"/>
+  <testcase name="testAtanAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.054"/>
+  <testcase name="testNextAfter" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testLog1pAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.051"/>
+  <testcase name="testHyperbolicInverses" classname="org.apache.commons.math3.util.FastMathTest" time="0.006"/>
+  <testcase name="checkExtraFastMathClasses" classname="org.apache.commons.math3.util.FastMathTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAsinSpecialCases" classname="org.apache.commons.math3.util.FastMathTest" time="0.0"/>
+  <testcase name="testAsinAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.828"/>
+  <testcase name="testCosAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.037"/>
+  <testcase name="testExpAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.089"/>
+  <testcase name="testSinhAccuracy" classname="org.apache.commons.math3.util.FastMathTest" time="0.775"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

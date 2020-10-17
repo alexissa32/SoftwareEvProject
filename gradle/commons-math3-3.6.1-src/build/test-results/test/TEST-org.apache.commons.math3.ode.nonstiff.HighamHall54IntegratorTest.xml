@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:30" hostname="DYLAN-DESKTOP" time="0.022">
+  <properties/>
+  <testcase name="testBackward" classname="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" time="0.001"/>
+  <testcase name="testWrongDerivative" classname="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" time="0.002"/>
+  <testcase name="testMinStep" classname="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" time="0.0"/>
+  <testcase name="testEvents" classname="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" time="0.002"/>
+  <testcase name="testEventsErrors" classname="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" time="0.002"/>
+  <testcase name="testKepler" classname="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" time="0.01"/>
+  <testcase name="testIncreasingTolerance" classname="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" time="0.003"/>
+  <testcase name="testEventsNoConvergence" classname="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" time="0.002"/>
+  <testcase name="testSanityChecks" classname="org.apache.commons.math3.ode.nonstiff.HighamHall54IntegratorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

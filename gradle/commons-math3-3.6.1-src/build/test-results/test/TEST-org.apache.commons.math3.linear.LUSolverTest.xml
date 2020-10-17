@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.linear.LUSolverTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:26" hostname="DYLAN-DESKTOP" time="0.001">
+  <properties/>
+  <testcase name="testSolve" classname="org.apache.commons.math3.linear.LUSolverTest" time="0.0"/>
+  <testcase name="testThreshold" classname="org.apache.commons.math3.linear.LUSolverTest" time="0.0"/>
+  <testcase name="testDeterminant" classname="org.apache.commons.math3.linear.LUSolverTest" time="0.0"/>
+  <testcase name="testSolveDimensionErrors" classname="org.apache.commons.math3.linear.LUSolverTest" time="0.0"/>
+  <testcase name="testSolveSingularityErrors" classname="org.apache.commons.math3.linear.LUSolverTest" time="0.0"/>
+  <testcase name="testSingular" classname="org.apache.commons.math3.linear.LUSolverTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

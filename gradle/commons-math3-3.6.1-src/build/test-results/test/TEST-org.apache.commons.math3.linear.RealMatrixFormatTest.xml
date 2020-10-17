@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.linear.RealMatrixFormatTest" tests="29" skipped="1" failures="0" errors="0" timestamp="2020-10-17T21:41:26" hostname="DYLAN-DESKTOP" time="0.005">
+  <properties/>
+  <testcase name="testNegativeComponent2" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testConstructorSingleFormat" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseSimpleWithDecimals" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testForgottenSeparator" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testDefaultFormat" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testNan" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testSimpleWithDecimalsTrunc" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseNegativeAll" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.001"/>
+  <testcase name="testForgottenPrefix" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testForgottenSuffix" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseSimpleWithClosingRowSeparator" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testParseIgnoredWhitespace" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseSimpleWithDecimalsTrunc" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseNoComponents" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseManyComponents" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="tesNegativeInfinity" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseNegativeInfinity" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testNegativeComponent" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testNonDefaultSetting" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testSimpleNoDecimals" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseZeroComponent" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testNegativeSecondRow" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseSimpleNoDecimals" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testPositiveInfinity" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.001"/>
+  <testcase name="testParseNegativeComponent" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseNonDefaultSetting" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParseNan" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testParsePositiveInfinity" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.0"/>
+  <testcase name="testSimpleWithDecimals" classname="org.apache.commons.math3.linear.RealMatrixFormatTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

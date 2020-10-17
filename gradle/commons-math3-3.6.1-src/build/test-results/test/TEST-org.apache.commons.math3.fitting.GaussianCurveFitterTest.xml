@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.fitting.GaussianCurveFitterTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:13" hostname="DYLAN-DESKTOP" time="0.051">
+  <properties/>
+  <testcase name="testWithStartPoint" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.021"/>
+  <testcase name="testFit01" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.002"/>
+  <testcase name="testFit02" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.0"/>
+  <testcase name="testFit03" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.0"/>
+  <testcase name="testFit04" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.001"/>
+  <testcase name="testFit05" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.001"/>
+  <testcase name="testFit06" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.0"/>
+  <testcase name="testFit07" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.0"/>
+  <testcase name="testMath519" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.022"/>
+  <testcase name="testMath798" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.0"/>
+  <testcase name="testWithMaxIterations1" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.002"/>
+  <testcase name="testWithMaxIterations2" classname="org.apache.commons.math3.fitting.GaussianCurveFitterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

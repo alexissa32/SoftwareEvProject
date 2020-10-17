@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.random.GaussianRandomGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:09" hostname="DYLAN-DESKTOP" time="0.001">
+  <properties/>
+  <testcase name="testMeanAndStandardDeviation" classname="org.apache.commons.math3.random.GaussianRandomGeneratorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

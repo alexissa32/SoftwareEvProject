@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.transform.FastFourierTransformerTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.036">
+  <properties/>
+  <testcase name="testAdHocData" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.0"/>
+  <testcase name="testTransformComplex" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.022"/>
+  <testcase name="testTransformFunctionNotStrictlyPositiveNumberOfSamples" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.0"/>
+  <testcase name="test2DDataUnitary" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.002"/>
+  <testcase name="testSinFunction" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.001"/>
+  <testcase name="testTransformFunctionSizeNotAPowerOfTwo" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.0"/>
+  <testcase name="testStandardTransformReal" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.007"/>
+  <testcase name="testTransformComplexSizeNotAPowerOfTwo" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.0"/>
+  <testcase name="testTransformFunctionInvalidBounds" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.0"/>
+  <testcase name="test2DData" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.001"/>
+  <testcase name="testTransformRealSizeNotAPowerOfTwo" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.0"/>
+  <testcase name="testStandardTransformFunction" classname="org.apache.commons.math3.transform.FastFourierTransformerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

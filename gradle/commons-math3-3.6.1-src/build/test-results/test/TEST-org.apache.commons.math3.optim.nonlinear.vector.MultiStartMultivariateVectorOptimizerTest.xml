@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.optim.nonlinear.vector.MultiStartMultivariateVectorOptimizerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:44" hostname="DYLAN-DESKTOP" time="0.007">
+  <properties/>
+  <testcase name="testGetOptimaBeforeOptimize" classname="org.apache.commons.math3.optim.nonlinear.vector.MultiStartMultivariateVectorOptimizerTest" time="0.002"/>
+  <testcase name="testTrivial" classname="org.apache.commons.math3.optim.nonlinear.vector.MultiStartMultivariateVectorOptimizerTest" time="0.003"/>
+  <testcase name="testNoOptimum" classname="org.apache.commons.math3.optim.nonlinear.vector.MultiStartMultivariateVectorOptimizerTest" time="0.001"/>
+  <testcase name="testIssue914" classname="org.apache.commons.math3.optim.nonlinear.vector.MultiStartMultivariateVectorOptimizerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

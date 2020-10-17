@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:43" hostname="DYLAN-DESKTOP" time="0.002">
+  <properties/>
+  <testcase name="testInsufficientData" classname="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" time="0.002"/>
+  <testcase name="testVarianceDecompNonMeanCutoff" classname="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" time="0.0"/>
+  <testcase name="testNoVariance" classname="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" time="0.0"/>
+  <testcase name="testSingleDown" classname="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" time="0.0"/>
+  <testcase name="testNonMeanCutoffs" classname="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" time="0.0"/>
+  <testcase name="testSingleUp" classname="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" time="0.0"/>
+  <testcase name="testPopulation" classname="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" time="0.0"/>
+  <testcase name="testVarianceDecompMeanCutoff" classname="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" time="0.0"/>
+  <testcase name="testSample" classname="org.apache.commons.math3.stat.descriptive.moment.SemiVarianceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

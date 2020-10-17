@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.linear.EigenDecompositionTest" tests="30" skipped="2" failures="0" errors="0" timestamp="2020-10-17T21:41:25" hostname="DYLAN-DESKTOP" time="0.18">
+  <properties/>
+  <testcase name="testNormalDistributionUnsymmetricMatrix" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTinyValues" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.001"/>
+  <testcase name="testSquareRootNonSymmetric" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.005"/>
+  <testcase name="testDimension4WithoutSplit" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testUnsymmetric" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.003"/>
+  <testcase name="testEigenvectors" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testTridiagonal" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.012"/>
+  <testcase name="testDimension1" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testDimension2" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testDimension3" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testDimensions" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testSquareRootNonPositiveDefinite" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.001"/>
+  <testcase name="testEigenvalues" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testRepeatedEigenvalue" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testAEqualVDVt" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testMath308" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testMath848" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.002"/>
+  <testcase name="testDiagonal" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testSymmetric" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.001"/>
+  <testcase name="testDistinctEigenvalues" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testVOrthogonal" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testMath1051" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testSquareRoot" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testDimension3MultipleRoot" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testMathpbx02" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testMathpbx03" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testBigMatrix" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.152"/>
+  <testcase name="testDimension4WithSplit" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testZeroDivide" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0"/>
+  <testcase name="testRandomUnsymmetricMatrix" classname="org.apache.commons.math3.linear.EigenDecompositionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

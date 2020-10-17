@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.geometry.euclidean.twod.DiskGeneratorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:24" hostname="DYLAN-DESKTOP" time="0.06">
+  <properties/>
+  <testcase name="testSupport2Points" classname="org.apache.commons.math3.geometry.euclidean.twod.DiskGeneratorTest" time="0.001"/>
+  <testcase name="testSupport3Points" classname="org.apache.commons.math3.geometry.euclidean.twod.DiskGeneratorTest" time="0.0"/>
+  <testcase name="testSupport0Point" classname="org.apache.commons.math3.geometry.euclidean.twod.DiskGeneratorTest" time="0.0"/>
+  <testcase name="testSupport1Point" classname="org.apache.commons.math3.geometry.euclidean.twod.DiskGeneratorTest" time="0.0"/>
+  <testcase name="testRandom" classname="org.apache.commons.math3.geometry.euclidean.twod.DiskGeneratorTest" time="0.059"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

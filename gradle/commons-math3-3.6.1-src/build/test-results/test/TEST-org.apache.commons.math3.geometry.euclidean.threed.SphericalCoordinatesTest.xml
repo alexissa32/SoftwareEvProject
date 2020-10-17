@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.SphericalCoordinatesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:24" hostname="DYLAN-DESKTOP" time="0.319">
+  <properties/>
+  <testcase name="testCoordinatesCtoS" classname="org.apache.commons.math3.geometry.euclidean.threed.SphericalCoordinatesTest" time="0.002"/>
+  <testcase name="testCoordinatesStoC" classname="org.apache.commons.math3.geometry.euclidean.threed.SphericalCoordinatesTest" time="0.0"/>
+  <testcase name="testSerialization" classname="org.apache.commons.math3.geometry.euclidean.threed.SphericalCoordinatesTest" time="0.001"/>
+  <testcase name="testHessian" classname="org.apache.commons.math3.geometry.euclidean.threed.SphericalCoordinatesTest" time="0.169"/>
+  <testcase name="testGradient" classname="org.apache.commons.math3.geometry.euclidean.threed.SphericalCoordinatesTest" time="0.147"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

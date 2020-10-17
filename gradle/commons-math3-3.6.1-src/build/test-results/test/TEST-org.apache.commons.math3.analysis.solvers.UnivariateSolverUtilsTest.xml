@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:10" hostname="DYLAN-DESKTOP" time="0.003">
+  <properties/>
+  <testcase name="testSolveNoRoot" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testSolveSin" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBracketLinear" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.001"/>
+  <testcase name="testNullFunction" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testSolveAccuracySin" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testSolveBadAccuracy" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testMisc" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBracketHigh" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testIterationExceeded" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBracketCentered" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testSolveNull" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBracketLow" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBracketSin" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBadInitial" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBracketExponential" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBadMaximumIterations" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBadAdditive" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBadEndpoints" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBracketEndpointRoot" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testBracketLoopConditionForB" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testSolveAccuracyNull" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <testcase name="testSolveBadEndpoints" classname="org.apache.commons.math3.analysis.solvers.UnivariateSolverUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

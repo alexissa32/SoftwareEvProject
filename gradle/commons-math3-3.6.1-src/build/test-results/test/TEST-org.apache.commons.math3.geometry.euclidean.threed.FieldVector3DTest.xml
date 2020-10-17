@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:24" hostname="DYLAN-DESKTOP" time="0.075">
+  <properties/>
+  <testcase name="testVectorialProducts" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testAccurateCrossProduct" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testCrossProductCancellation" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testAdd" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testNaN" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testDistanceInf" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testSubtract" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testAngular" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testAngle" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.001"/>
+  <testcase name="testNorm1" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testWrongDimension" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testHash" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testNorm" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testToString" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.001"/>
+  <testcase name="testConstructors" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testScalarProduct" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testDotProduct" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.025"/>
+  <testcase name="testCrossProduct" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.047"/>
+  <testcase name="testOrthogonal" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testAngularSeparation" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testInfinite" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testNormalize" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testDistance" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testDistance1" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testCoordinates" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testEquals" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testAccurateDotProduct" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testNegate" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testNormSq" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testDistanceSq" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <testcase name="testNormInf" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldVector3DTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

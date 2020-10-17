@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.fitting.WeightedObservedPointsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:15" hostname="DYLAN-DESKTOP" time="0.0">
+  <properties/>
+  <testcase name="testClear" classname="org.apache.commons.math3.fitting.WeightedObservedPointsTest" time="0.0"/>
+  <testcase name="testAdd1" classname="org.apache.commons.math3.fitting.WeightedObservedPointsTest" time="0.0"/>
+  <testcase name="testAdd2" classname="org.apache.commons.math3.fitting.WeightedObservedPointsTest" time="0.0"/>
+  <testcase name="testAdd3" classname="org.apache.commons.math3.fitting.WeightedObservedPointsTest" time="0.0"/>
+  <testcase name="testToListCopy" classname="org.apache.commons.math3.fitting.WeightedObservedPointsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

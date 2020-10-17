@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.genetics.FitnessCachingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:15" hostname="DYLAN-DESKTOP" time="0.01">
+  <properties/>
+  <testcase name="testFitnessCaching" classname="org.apache.commons.math3.genetics.FitnessCachingTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

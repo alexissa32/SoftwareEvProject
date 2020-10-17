@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.analysis.solvers.SecantSolverTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:10" hostname="DYLAN-DESKTOP" time="0.002">
+  <properties/>
+  <testcase name="testSolutionRightSide" classname="org.apache.commons.math3.analysis.solvers.SecantSolverTest" time="0.001"/>
+  <testcase name="testSolutionAboveSide" classname="org.apache.commons.math3.analysis.solvers.SecantSolverTest" time="0.0"/>
+  <testcase name="testSolutionBelowSide" classname="org.apache.commons.math3.analysis.solvers.SecantSolverTest" time="0.001"/>
+  <testcase name="testSolutionLeftSide" classname="org.apache.commons.math3.analysis.solvers.SecantSolverTest" time="0.0"/>
+  <testcase name="testBadEndpoints" classname="org.apache.commons.math3.analysis.solvers.SecantSolverTest" time="0.0"/>
+  <testcase name="testRootEndpoints" classname="org.apache.commons.math3.analysis.solvers.SecantSolverTest" time="0.0"/>
+  <testcase name="testQuinticZero" classname="org.apache.commons.math3.analysis.solvers.SecantSolverTest" time="0.0"/>
+  <testcase name="testSinZero" classname="org.apache.commons.math3.analysis.solvers.SecantSolverTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

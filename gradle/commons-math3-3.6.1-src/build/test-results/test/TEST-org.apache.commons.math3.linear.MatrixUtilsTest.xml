@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.linear.MatrixUtilsTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:26" hostname="DYLAN-DESKTOP" time="0.006">
+  <properties/>
+  <testcase name="testCheckSymmetric1" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testCheckSymmetric2" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testInverseSingular" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testBlockInverse" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.001"/>
+  <testcase name="testFractionConverter" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.001"/>
+  <testcase name="testcreateFieldIdentityMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testCreateRealMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testCreateRowRealMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testcreateFieldMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.001"/>
+  <testcase name="testBigFractionConverter" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.001"/>
+  <testcase name="testBlockInverseNonInvertible" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testIsSymmetricTolerance" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testIsSymmetric" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testSolveUpperTriangularSystem" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testInverseDiagonalMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testCreateIdentityMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testInverseNonSquare" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testCreateColumnRealMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testCreateRowFieldMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testInverseRealMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <testcase name="testCreateColumnFieldMatrix" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.001"/>
+  <testcase name="testSolveLowerTriangularSystem" classname="org.apache.commons.math3.linear.MatrixUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.stat.inference.GTestTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:52" hostname="DYLAN-DESKTOP" time="0.002">
+  <properties/>
+  <testcase name="testBadAlpha" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testUnmatchedArrays" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testRootLogLikelihood" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testNegativeObservedCounts" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testGTestIndependance1" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testGTestIndependance2" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testGTestIndependance3" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testGTestSetsComparisonBadCounts" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testZeroExpectedCounts" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testGTestGoodnesOfFit1" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testGTestGoodnesOfFit2" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testGTestGoodnesOfFit3" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.0"/>
+  <testcase name="testScaling" classname="org.apache.commons.math3.stat.inference.GTestTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

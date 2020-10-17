@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.linear.ArrayFieldVectorTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:25" hostname="DYLAN-DESKTOP" time="0.024">
+  <properties/>
+  <testcase name="testWalkInOptimizedOrderChangingVisitor1" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.003"/>
+  <testcase name="testWalkInOptimizedOrderChangingVisitor2" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testWalkInOptimizedOrderChangingVisitor3" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testZeroVectors" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.0"/>
+  <testcase name="testWalkInDefaultOrderChangingVisitor1" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testWalkInDefaultOrderChangingVisitor2" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.002"/>
+  <testcase name="testWalkInDefaultOrderChangingVisitor3" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testMisc" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.0"/>
+  <testcase name="testConstructors" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.002"/>
+  <testcase name="testBasicFunctions" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testDataInOut" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.0"/>
+  <testcase name="testMapFunctions" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.0"/>
+  <testcase name="testWalkInDefaultOrderPreservingVisitor1" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testWalkInDefaultOrderPreservingVisitor2" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testWalkInDefaultOrderPreservingVisitor3" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testOuterProduct" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.0"/>
+  <testcase name="testWalkInOptimizedOrderPreservingVisitor1" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testWalkInOptimizedOrderPreservingVisitor2" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testWalkInOptimizedOrderPreservingVisitor3" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.001"/>
+  <testcase name="testSerial" classname="org.apache.commons.math3.linear.ArrayFieldVectorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

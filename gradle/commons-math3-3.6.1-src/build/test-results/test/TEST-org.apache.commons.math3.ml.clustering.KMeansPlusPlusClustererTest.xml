@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.ml.clustering.KMeansPlusPlusClustererTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:27" hostname="DYLAN-DESKTOP" time="0.025">
+  <properties/>
+  <testcase name="testPerformClusterAnalysisDegenerate" classname="org.apache.commons.math3.ml.clustering.KMeansPlusPlusClustererTest" time="0.002"/>
+  <testcase name="testCertainSpace" classname="org.apache.commons.math3.ml.clustering.KMeansPlusPlusClustererTest" time="0.016"/>
+  <testcase name="testPerformClusterAnalysisToManyClusters" classname="org.apache.commons.math3.ml.clustering.KMeansPlusPlusClustererTest" time="0.001"/>
+  <testcase name="testSmallDistances" classname="org.apache.commons.math3.ml.clustering.KMeansPlusPlusClustererTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

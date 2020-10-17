@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.optimization.linear.SimplexSolverTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:00" hostname="DYLAN-DESKTOP" time="0.132">
+  <properties/>
+  <testcase name="testRestrictVariablesToNonNegative" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.007"/>
+  <testcase name="testEpsilon" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testUnboundedSolution" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testSingleVariableAndConstraint" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.001"/>
+  <testcase name="testSimplexSolver" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath290GEQ" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.001"/>
+  <testcase name="testMath290LEQ" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testTrivialModel" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testInfeasibleSolution" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath713NegativeVariable" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.001"/>
+  <testcase name="testMath272" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath286" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath288" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath293" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.001"/>
+  <testcase name="testMath781" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath828" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.002"/>
+  <testcase name="testModelWithNoArtificialVars" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.001"/>
+  <testcase name="testMinimization" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath434PivotRowSelection2" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testDegeneracy" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath434PivotRowSelection" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath828Cycle" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.002"/>
+  <testcase name="testLargeModel" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.114"/>
+  <testcase name="testSolutionWithNegativeDecisionVariable" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <testcase name="testMath434UnfeasibleSolution" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.001"/>
+  <testcase name="testMath434NegativeVariable" classname="org.apache.commons.math3.optimization.linear.SimplexSolverTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

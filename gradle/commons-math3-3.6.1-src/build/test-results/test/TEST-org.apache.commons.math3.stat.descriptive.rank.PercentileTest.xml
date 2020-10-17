@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" tests="46" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:43" hostname="DYLAN-DESKTOP" time="0.026">
+  <properties/>
+  <testcase name="testAllTechniquesSingleton" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesSetQuantile" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.001"/>
+  <testcase name="testPercentile" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testMedianOf3" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesHighPercentile" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testNISTExample" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesEvaluateArraySegmentWeighted" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllEstimationTechniquesOnlyForExtremeIndexes" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testNullEstimation" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testSingleton" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testNanStrategyFailed" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.001"/>
+  <testcase name="testLowPercentile" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesLowPercentile" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllEstimationTechniquesOnlyForAllPivotingStrategies" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.002"/>
+  <testcase name="testAllTechniquesEmpty" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testSetQuantile" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="test5" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.001"/>
+  <testcase name="testNanStrategySpecific" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesNullEmpty" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testHighPercentile" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testPercentileWithTechnique" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testReplaceNanInRange" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesEvaluation" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testPercentileWithDataRef" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllEstimationTechniquesOnly" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.001"/>
+  <testcase name="testAllTechniquesEvaluateArraySegment" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesPercentileUsingCentralPivoting" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testPercentileCopy" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testSpecialValues" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesSpecialValuesWithNaNStrategy" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.001"/>
+  <testcase name="testAllTechniquesPercentileUsingRandomPivoting" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllEstimationTechniquesOnlyLimits" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.001"/>
+  <testcase name="testAllTechniquesNISTExample" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesSpecialValues" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllTechniquesWeightedConsistency" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testStoredVsDirect" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.017"/>
+  <testcase name="testAllTechniquesPercentileUsingMedianOf3Pivoting" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testAllEstimationTechniquesOnlyForNullsAndOOR" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.001"/>
+  <testcase name="testAllTechniques5" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testNullEmpty" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testRemoveNan" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testCopy" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testEvaluation" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testEvaluateArraySegment" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testWeightedConsistency" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <testcase name="testEvaluateArraySegmentWeighted" classname="org.apache.commons.math3.stat.descriptive.rank.PercentileTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

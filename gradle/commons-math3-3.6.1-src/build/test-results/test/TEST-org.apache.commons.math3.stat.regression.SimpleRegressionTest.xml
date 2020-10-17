@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.stat.regression.SimpleRegressionTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.004">
+  <properties/>
+  <testcase name="testRemoveMultiplePastEmpty" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testNoInterceot_noint2" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testClear" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testRegressExceptions" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testCorr" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testNaNs" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testPerfect" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testRemoveObsFromEmpty" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testSSENonNegative" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testRemoveObsFromSingle" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testRemoveMultipleToEmpty" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testRegressIfaceMethod" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testRemoveSingle" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testRemoveXY" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testNoIntercept_noint1" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testPerfect2" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testAppend" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.001"/>
+  <testcase name="testPerfectNegative" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testNorris" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testInference" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.001"/>
+  <testcase name="testRandom" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <testcase name="testRemoveMultiple" classname="org.apache.commons.math3.stat.regression.SimpleRegressionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

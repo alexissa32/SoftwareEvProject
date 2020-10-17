@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:37" hostname="DYLAN-DESKTOP" time="6.981">
+  <properties/>
+  <testcase name="testConstrainedRosen" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.45"/>
+  <testcase name="testElliRotated" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.301"/>
+  <testcase name="testEllipse" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.32"/>
+  <testcase name="testTwoAxes" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.579"/>
+  <testcase name="testCigar" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.22"/>
+  <testcase name="testRosen" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.323"/>
+  <testcase name="testInputSigmaOutOfRange" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testInputSigmaNegative" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testInputSigmaDimensionMismatch" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.001"/>
+  <testcase name="testFitAccuracyDependsOnBoundary" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.006"/>
+  <testcase name="testRastrigin" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="2.114"/>
+  <testcase name="testMath864" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.002"/>
+  <testcase name="testDiagonalRosen" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.704"/>
+  <testcase name="testSsDiffPow" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.421"/>
+  <testcase name="testMaximize" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.428"/>
+  <testcase name="testAckley" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.195"/>
+  <testcase name="testCigTab" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.205"/>
+  <testcase name="testDiffPow" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.209"/>
+  <testcase name="testBoundariesDimensionMismatch" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testSphere" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.082"/>
+  <testcase name="testTablet" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.22"/>
+  <testcase name="testInitOutofbounds1" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testInitOutofbounds2" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testCigarWithBoundaries" classname="org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest" time="0.199"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

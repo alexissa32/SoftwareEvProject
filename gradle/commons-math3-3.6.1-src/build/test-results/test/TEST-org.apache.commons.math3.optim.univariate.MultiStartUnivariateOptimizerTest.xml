@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.optim.univariate.MultiStartUnivariateOptimizerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:44" hostname="DYLAN-DESKTOP" time="0.003">
+  <properties/>
+  <testcase name="testQuinticMin" classname="org.apache.commons.math3.optim.univariate.MultiStartUnivariateOptimizerTest" time="0.002"/>
+  <testcase name="testMissingSearchInterval" classname="org.apache.commons.math3.optim.univariate.MultiStartUnivariateOptimizerTest" time="0.0"/>
+  <testcase name="testBadFunction" classname="org.apache.commons.math3.optim.univariate.MultiStartUnivariateOptimizerTest" time="0.001"/>
+  <testcase name="testMissingMaxEval" classname="org.apache.commons.math3.optim.univariate.MultiStartUnivariateOptimizerTest" time="0.0"/>
+  <testcase name="testSinMin" classname="org.apache.commons.math3.optim.univariate.MultiStartUnivariateOptimizerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

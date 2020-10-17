@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:51" hostname="DYLAN-DESKTOP" time="0.003">
+  <properties/>
+  <testcase name="testProductAndGeometricMean" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.001"/>
+  <testcase name="testGetSummary" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testSerialization" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.001"/>
+  <testcase name="testStats" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testCopy" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testToString" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testNaNContracts" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testN0andN1Conditions" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testOverrideMeanWithMathClass" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testOverrideGeoMeanWithMathClass" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testOverrideVarianceWithMathClass" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testSetterInjection" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testSetterIllegalState" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testQuadraticMean" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode" classname="org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatisticsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

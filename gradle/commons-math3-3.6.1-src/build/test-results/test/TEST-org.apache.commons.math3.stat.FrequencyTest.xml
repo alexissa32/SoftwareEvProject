@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.stat.FrequencyTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:51" hostname="DYLAN-DESKTOP" time="0.005">
+  <properties/>
+  <testcase name="testEmptyTable" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testAdd" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.001"/>
+  <testcase name="testMerge" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testMode" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.001"/>
+  <testcase name="testPcts" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testToString" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testIncrement" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.001"/>
+  <testcase name="testNonComparablePct" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testNonComparableCumPct" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testGetUniqueCount" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testModeDoubleNan" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testIntegerValues" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testCounts" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testSerial" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.002"/>
+  <testcase name="testMergeCollection" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <testcase name="testModeFloatNan" classname="org.apache.commons.math3.stat.FrequencyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

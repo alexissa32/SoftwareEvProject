@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.stat.descriptive.summary.SumTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:51" hostname="DYLAN-DESKTOP" time="0.002">
+  <properties/>
+  <testcase name="testSpecialValues" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.001"/>
+  <testcase name="testWeightedSum" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testMomentSmallSamples" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testSerialization" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testIncrementation" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testConsistency" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testCopyConsistency" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testSerial" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testCopy" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testEvaluation" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testEvaluateArraySegment" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testWeightedConsistency" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <testcase name="testEvaluateArraySegmentWeighted" classname="org.apache.commons.math3.stat.descriptive.summary.SumTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

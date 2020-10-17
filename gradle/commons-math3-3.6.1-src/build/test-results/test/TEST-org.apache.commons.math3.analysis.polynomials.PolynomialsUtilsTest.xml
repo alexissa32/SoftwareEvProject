@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:09" hostname="DYLAN-DESKTOP" time="0.351">
+  <properties/>
+  <testcase name="testFirstChebyshevPolynomials" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.003"/>
+  <testcase name="testHighDegreeLegendre" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.006"/>
+  <testcase name="testLaguerreOrthogonality" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.023"/>
+  <testcase name="testHermiteOrthogonality" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.028"/>
+  <testcase name="testLaguerreDifferentials" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.0"/>
+  <testcase name="testHermiteDifferentials" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.0"/>
+  <testcase name="testChebyshevBounds" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.004"/>
+  <testcase name="testShift" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.0"/>
+  <testcase name="testFirstHermitePolynomials" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.0"/>
+  <testcase name="testJacobiOrthogonality" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.045"/>
+  <testcase name="testJacobiLegendre" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.0"/>
+  <testcase name="testFirstLegendrePolynomials" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.0"/>
+  <testcase name="testChebyshevOrthogonality" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.225"/>
+  <testcase name="testChebyshevDifferentials" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.0"/>
+  <testcase name="testFirstLaguerrePolynomials" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.0"/>
+  <testcase name="testJacobiEvaluationAt1" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.013"/>
+  <testcase name="testLegendreOrthogonality" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.001"/>
+  <testcase name="testLegendreDifferentials" classname="org.apache.commons.math3.analysis.polynomials.PolynomialsUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

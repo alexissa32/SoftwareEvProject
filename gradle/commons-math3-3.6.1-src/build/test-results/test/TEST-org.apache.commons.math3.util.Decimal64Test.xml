@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.util.Decimal64Test" tests="63" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.009">
+  <properties/>
+  <testcase name="testAdd" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testSubtract" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testIsInfinite" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testIsNaN" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testReciprocal" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testDivide" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testMultiply" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testNegate" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testDivideField" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testRemainderDouble" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testGetField" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testDivideDouble" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testAbs" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testCos" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testExp" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLog" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testSin" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testTan" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testAcosh" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testAsinh" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testAtan2" classname="org.apache.commons.math3.util.Decimal64Test" time="0.001"/>
+  <testcase name="testAtanh" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testExpm1" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testFloor" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testHypot" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLog1p" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testRootN" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testRound" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testScalb" classname="org.apache.commons.math3.util.Decimal64Test" time="0.001"/>
+  <testcase name="testAcos" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testAsin" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testAtan" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testCbrt" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testCeil" classname="org.apache.commons.math3.util.Decimal64Test" time="0.001"/>
+  <testcase name="testCosh" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testHash" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testRint" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testSinh" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testSqrt" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testTanh" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testAddField" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testMultiplyDouble" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testMultiplyInt" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLinearCombinationDaFa" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLinearCombinationFaFa" classname="org.apache.commons.math3.util.Decimal64Test" time="0.001"/>
+  <testcase name="testAddDouble" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testPowDouble" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testSubtractDouble" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testRemainderField" classname="org.apache.commons.math3.util.Decimal64Test" time="0.001"/>
+  <testcase name="testCopySignDouble" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLinearCombinationDF2" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLinearCombinationDF3" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLinearCombinationDF4" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLinearCombinationFF2" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLinearCombinationFF3" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testLinearCombinationFF4" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testEquals" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testCopySignField" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testPowField" classname="org.apache.commons.math3.util.Decimal64Test" time="0.001"/>
+  <testcase name="testPowInt" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testSignum" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testMultiplyField" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <testcase name="testSubtractField" classname="org.apache.commons.math3.util.Decimal64Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

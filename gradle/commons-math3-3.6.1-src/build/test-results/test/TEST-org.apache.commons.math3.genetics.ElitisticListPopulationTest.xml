@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.genetics.ElitisticListPopulationTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:15" hostname="DYLAN-DESKTOP" time="0.002">
+  <properties/>
+  <testcase name="testChromosomeListConstructorTooLow" classname="org.apache.commons.math3.genetics.ElitisticListPopulationTest" time="0.001"/>
+  <testcase name="testSetElitismRateTooLow" classname="org.apache.commons.math3.genetics.ElitisticListPopulationTest" time="0.0"/>
+  <testcase name="testConstructorTooHigh" classname="org.apache.commons.math3.genetics.ElitisticListPopulationTest" time="0.0"/>
+  <testcase name="testConstructorTooLow" classname="org.apache.commons.math3.genetics.ElitisticListPopulationTest" time="0.0"/>
+  <testcase name="testSetElitismRateTooHigh" classname="org.apache.commons.math3.genetics.ElitisticListPopulationTest" time="0.0"/>
+  <testcase name="testChromosomeListConstructorTooHigh" classname="org.apache.commons.math3.genetics.ElitisticListPopulationTest" time="0.0"/>
+  <testcase name="testSetElitismRate" classname="org.apache.commons.math3.genetics.ElitisticListPopulationTest" time="0.0"/>
+  <testcase name="testNextGeneration" classname="org.apache.commons.math3.genetics.ElitisticListPopulationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

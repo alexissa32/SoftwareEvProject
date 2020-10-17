@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:49" hostname="DYLAN-DESKTOP" time="6.943">
+  <properties/>
+  <testcase name="testConstrainedRosen" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.347"/>
+  <testcase name="testElliRotated" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.295"/>
+  <testcase name="testEllipse" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.29"/>
+  <testcase name="testTwoAxes" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.569"/>
+  <testcase name="testCigar" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.21"/>
+  <testcase name="testRosen" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.277"/>
+  <testcase name="testInputSigmaOutOfRange" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.001"/>
+  <testcase name="testInputSigmaNegative" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testInputSigmaDimensionMismatch" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testFitAccuracyDependsOnBoundary" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.007"/>
+  <testcase name="testRastrigin" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="2.153"/>
+  <testcase name="testMath864" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.002"/>
+  <testcase name="testDiagonalRosen" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.715"/>
+  <testcase name="testSsDiffPow" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.441"/>
+  <testcase name="testMaximize" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.439"/>
+  <testcase name="testAckley" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.198"/>
+  <testcase name="testCigTab" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.257"/>
+  <testcase name="testDiffPow" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.246"/>
+  <testcase name="testBoundariesDimensionMismatch" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testSphere" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.085"/>
+  <testcase name="testTablet" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.221"/>
+  <testcase name="testInitOutofbounds1" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testInitOutofbounds2" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.0"/>
+  <testcase name="testCigarWithBoundaries" classname="org.apache.commons.math3.optimization.direct.CMAESOptimizerTest" time="0.189"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

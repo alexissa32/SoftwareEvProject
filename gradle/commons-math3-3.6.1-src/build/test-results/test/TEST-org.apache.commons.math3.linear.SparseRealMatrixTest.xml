@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.linear.SparseRealMatrixTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:26" hostname="DYLAN-DESKTOP" time="0.008">
+  <properties/>
+  <testcase name="testOperate" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testExamples" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testGetEntry" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testAddFail" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.001"/>
+  <testcase name="testAdd" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testScalarAdd" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testTrace" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testNorm" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testToString" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.001"/>
+  <testcase name="testPlusMinus" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testMultiply2" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testDimensions" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testSubMatrix" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.001"/>
+  <testcase name="testPremultiplyVector" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testCopyFunctions" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testMath209" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testGetVectors" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testGetColumnMatrix" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testGetColumnVector" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testMultiply" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.001"/>
+  <testcase name="testEqualsAndHashCode" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testSerial" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.002"/>
+  <testcase name="testTranspose" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testPremultiply" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testGetRowMatrix" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.001"/>
+  <testcase name="testSetSubMatrix" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <testcase name="testGetRowVector" classname="org.apache.commons.math3.linear.SparseRealMatrixTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

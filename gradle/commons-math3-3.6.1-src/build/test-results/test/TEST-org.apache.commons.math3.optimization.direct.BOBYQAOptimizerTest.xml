@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" tests="19" skipped="1" failures="0" errors="0" timestamp="2020-10-17T21:41:44" hostname="DYLAN-DESKTOP" time="4.726">
+  <properties/>
+  <testcase name="testConstrainedRosen" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="1.106"/>
+  <testcase name="testElliRotated" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="1.733"/>
+  <testcase name="testEllipse" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.067"/>
+  <testcase name="testInitOutOfBounds" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.0"/>
+  <testcase name="testTwoAxes" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.013"/>
+  <testcase name="testProblemDimensionTooSmall" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.0"/>
+  <testcase name="testCigar" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.01"/>
+  <testcase name="testRosen" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.321"/>
+  <testcase name="testRastrigin" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.039"/>
+  <testcase name="testSsDiffPow" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.412"/>
+  <testcase name="testMaximize" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.078"/>
+  <testcase name="testAckley" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.091"/>
+  <testcase name="testConstrainedRosenWithMoreInterpolationPoints" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCigTab" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.01"/>
+  <testcase name="testDiffPow" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.826"/>
+  <testcase name="testBoundariesDimensionMismatch" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.0"/>
+  <testcase name="testSphere" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.009"/>
+  <testcase name="testTablet" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.01"/>
+  <testcase name="testMaxEvaluations" classname="org.apache.commons.math3.optimization.direct.BOBYQAOptimizerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

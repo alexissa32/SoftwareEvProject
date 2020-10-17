@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.ode.JacobianMatricesTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:27" hostname="DYLAN-DESKTOP" time="0.583">
+  <properties/>
+  <testcase name="testLowAccuracyExternalDifferentiation" classname="org.apache.commons.math3.ode.JacobianMatricesTest" time="0.045"/>
+  <testcase name="testHighAccuracyExternalDifferentiation" classname="org.apache.commons.math3.ode.JacobianMatricesTest" time="0.316"/>
+  <testcase name="testAnalyticalDifferentiation" classname="org.apache.commons.math3.ode.JacobianMatricesTest" time="0.083"/>
+  <testcase name="testInternalDifferentiation" classname="org.apache.commons.math3.ode.JacobianMatricesTest" time="0.13"/>
+  <testcase name="testParameterizable" classname="org.apache.commons.math3.ode.JacobianMatricesTest" time="0.006"/>
+  <testcase name="testWrongParameterName" classname="org.apache.commons.math3.ode.JacobianMatricesTest" time="0.0"/>
+  <testcase name="testFinalResult" classname="org.apache.commons.math3.ode.JacobianMatricesTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

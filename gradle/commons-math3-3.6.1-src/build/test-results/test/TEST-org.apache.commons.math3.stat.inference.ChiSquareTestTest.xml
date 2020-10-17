@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.stat.inference.ChiSquareTestTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:52" hostname="DYLAN-DESKTOP" time="0.001">
+  <properties/>
+  <testcase name="testChiSquareDataSetsComparisonEqualCounts" classname="org.apache.commons.math3.stat.inference.ChiSquareTestTest" time="0.0"/>
+  <testcase name="testChiSquareIndependence" classname="org.apache.commons.math3.stat.inference.ChiSquareTestTest" time="0.0"/>
+  <testcase name="testChiSquareDataSetsComparisonUnEqualCounts" classname="org.apache.commons.math3.stat.inference.ChiSquareTestTest" time="0.0"/>
+  <testcase name="testChiSquareZeroCount" classname="org.apache.commons.math3.stat.inference.ChiSquareTestTest" time="0.0"/>
+  <testcase name="testChiSquareLargeTestStatistic" classname="org.apache.commons.math3.stat.inference.ChiSquareTestTest" time="0.0"/>
+  <testcase name="testChiSquare" classname="org.apache.commons.math3.stat.inference.ChiSquareTestTest" time="0.001"/>
+  <testcase name="testChiSquareDataSetsComparisonBadCounts" classname="org.apache.commons.math3.stat.inference.ChiSquareTestTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunctionTest" tests="8" skipped="4" failures="0" errors="0" timestamp="2020-10-17T21:41:08" hostname="DYLAN-DESKTOP" time="0.011">
+  <properties/>
+  <testcase name="testPlane" classname="org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunctionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testIsValidPoint" classname="org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunctionTest" time="0.002"/>
+  <testcase name="testPreconditions" classname="org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunctionTest" time="0.0"/>
+  <testcase name="testInterpolation1" classname="org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunctionTest" time="0.004"/>
+  <testcase name="testInterpolation2" classname="org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunctionTest" time="0.003"/>
+  <testcase name="testParaboloid" classname="org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunctionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSplinePartialDerivatives" classname="org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunctionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testMatchingPartialDerivatives" classname="org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunctionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

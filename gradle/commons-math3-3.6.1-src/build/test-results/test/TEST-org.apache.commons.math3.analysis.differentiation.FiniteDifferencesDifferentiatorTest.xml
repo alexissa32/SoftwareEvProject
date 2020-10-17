@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:00" hostname="DYLAN-DESKTOP" time="0.057">
+  <properties/>
+  <testcase name="testBoundedSqrt" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.006"/>
+  <testcase name="testVectorFunction" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.005"/>
+  <testcase name="testSerialization" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.001"/>
+  <testcase name="testGaussian" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.004"/>
+  <testcase name="testStepSizeUnstability" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.004"/>
+  <testcase name="testTooLargeStep" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.001"/>
+  <testcase name="testWrongOrderMatrix" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.002"/>
+  <testcase name="testWrongOrder" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.001"/>
+  <testcase name="testWrongOrderVector" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.001"/>
+  <testcase name="testWrongNumberOfPoints" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.0"/>
+  <testcase name="testConstant" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.002"/>
+  <testcase name="testSeveralFreeParameters" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.019"/>
+  <testcase name="testMatrixFunction" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.005"/>
+  <testcase name="testWrongStepSize" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.0"/>
+  <testcase name="testBounds" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.002"/>
+  <testcase name="testLinear" classname="org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

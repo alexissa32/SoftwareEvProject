@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.stat.ranking.NaturalRankingTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:56" hostname="DYLAN-DESKTOP" time="0.001">
+  <properties/>
+  <testcase name="testNoNaNsFailed" classname="org.apache.commons.math3.stat.ranking.NaturalRankingTest" time="0.0"/>
+  <testcase name="testNaNsMinimalTiesAverage" classname="org.apache.commons.math3.stat.ranking.NaturalRankingTest" time="0.0"/>
+  <testcase name="testNaNsFixedTiesRandom" classname="org.apache.commons.math3.stat.ranking.NaturalRankingTest" time="0.001"/>
+  <testcase name="testNaNsFailed" classname="org.apache.commons.math3.stat.ranking.NaturalRankingTest" time="0.0"/>
+  <testcase name="testNaNsRemovedTiesSequential" classname="org.apache.commons.math3.stat.ranking.NaturalRankingTest" time="0.0"/>
+  <testcase name="testNaNsMinimalTiesMaximum" classname="org.apache.commons.math3.stat.ranking.NaturalRankingTest" time="0.0"/>
+  <testcase name="testDefault" classname="org.apache.commons.math3.stat.ranking.NaturalRankingTest" time="0.0"/>
+  <testcase name="testNaNsAndInfs" classname="org.apache.commons.math3.stat.ranking.NaturalRankingTest" time="0.0"/>
+  <testcase name="testNaNsMaximalTiesMinimum" classname="org.apache.commons.math3.stat.ranking.NaturalRankingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.util.CombinationsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.012">
+  <properties/>
+  <testcase name="testLexicographicIterator" classname="org.apache.commons.math3.util.CombinationsTest" time="0.011"/>
+  <testcase name="testAccessor1" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <testcase name="testAccessor2" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <testcase name="testLexicographicComparator" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <testcase name="testEmptyCombination" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <testcase name="testFullSetCombination" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <testcase name="testCombinationsIteratorFail" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <testcase name="testLexicographicComparatorWrongIterate1" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <testcase name="testLexicographicComparatorWrongIterate2" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <testcase name="testLexicographicComparatorWrongIterate3" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <testcase name="testLexicographicComparatorWrongIterate4" classname="org.apache.commons.math3.util.CombinationsTest" time="0.001"/>
+  <testcase name="testLexicographicComparatorUnsorted" classname="org.apache.commons.math3.util.CombinationsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

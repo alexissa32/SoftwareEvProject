@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:08" hostname="DYLAN-DESKTOP" time="0.769">
+  <properties/>
+  <testcase name="testWikipedia" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.009"/>
+  <testcase name="testEmptySampleDerivative" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.001"/>
+  <testcase name="testOnePointParabola" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.0"/>
+  <testcase name="testSine" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.035"/>
+  <testcase name="testZero" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.001"/>
+  <testcase name="testQuadratic" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.002"/>
+  <testcase name="testDuplicatedAbscissa" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.001"/>
+  <testcase name="testEmptySampleValue" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.0"/>
+  <testcase name="testRandomPolynomialsValuesOnly" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.299"/>
+  <testcase name="testMixedDerivatives" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.001"/>
+  <testcase name="testSquareRoot" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.013"/>
+  <testcase name="testRandomPolynomialsFirstDerivative" classname="org.apache.commons.math3.analysis.interpolation.FieldHermiteInterpolatorTest" time="0.407"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

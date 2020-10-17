@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.util.MathUtilsTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:43:04" hostname="DYLAN-DESKTOP" time="0.009">
+  <properties/>
+  <testcase name="testNormalizeAngle" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.007"/>
+  <testcase name="testIndicatorInt" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testReduceComparedWithNormalizeAngle" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testHash" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testPermutedArrayHash" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.001"/>
+  <testcase name="testCopySignByte" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testArrayHash" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testEqualsDouble" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testCheckFinite" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testSignByte" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testSignLong" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testCopySignByte2" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testIndicatorShort" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testIndicatorByte" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testIndicatorLong" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testCheckNotNull1" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testCheckNotNull2" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testReduce" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testSignInt" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <testcase name="testSignShort" classname="org.apache.commons.math3.util.MathUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

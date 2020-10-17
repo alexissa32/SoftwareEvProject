@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.special.BetaTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:43" hostname="DYLAN-DESKTOP" time="0.006">
+  <properties/>
+  <testcase name="testRegularizedBetaPositiveNanPositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogGammaSumPrecondition1" classname="org.apache.commons.math3.special.BetaTest" time="0.001"/>
+  <testcase name="testLogGammaSumPrecondition2" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogGammaSumPrecondition3" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogGammaSumPrecondition4" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaPositivePositivePositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaPositivePositiveNegative" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaPositiveZeroPositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogBetaPositivePositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogBetaPositiveNegative" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogGammaSum" classname="org.apache.commons.math3.special.BetaTest" time="0.002"/>
+  <testcase name="testLogBetaPositiveNan" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testSumDeltaMinusDeltaSum" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaNegativePositivePositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogBeta" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogGammaMinusLogGammaSumPrecondition1" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogGammaMinusLogGammaSumPrecondition2" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaPositivePositiveNan" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogBetaZeroPositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaPositivePositiveZero" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaPositiveNegativePositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testMath1067" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogGammaMinusLogGammaSum" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogBetaNanPositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaTinyArgument" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogBetaNegativePositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testSumDeltaMinusDeltaSumPrecondition1" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testSumDeltaMinusDeltaSumPrecondition2" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testLogBetaPositiveZero" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaZeroPositivePositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <testcase name="testRegularizedBetaNanPositivePositive" classname="org.apache.commons.math3.special.BetaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

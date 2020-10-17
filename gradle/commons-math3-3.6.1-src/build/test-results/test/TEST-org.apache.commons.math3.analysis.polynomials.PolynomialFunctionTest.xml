@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:09" hostname="DYLAN-DESKTOP" time="0.002">
+  <properties/>
+  <testcase name="testfirstDerivativeComparison" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.001"/>
+  <testcase name="testQuadratic" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.0"/>
+  <testcase name="testMultiplication" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.0"/>
+  <testcase name="testAddition" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.0"/>
+  <testcase name="testConstants" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.0"/>
+  <testcase name="testQuintic" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.0"/>
+  <testcase name="testMath341" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.0"/>
+  <testcase name="testLinear" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.0"/>
+  <testcase name="testSerial" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.001"/>
+  <testcase name="testString" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.0"/>
+  <testcase name="testSubtraction" classname="org.apache.commons.math3.analysis.polynomials.PolynomialFunctionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

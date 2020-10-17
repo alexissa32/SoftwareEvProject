@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.util.IntegerSequenceTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:43:04" hostname="DYLAN-DESKTOP" time="0.003">
+  <properties/>
+  <testcase name="testIncreasingRangeNegativeEnd" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.001"/>
+  <testcase name="testBasicRange" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testEmptyRange" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testRangeMultipleIterations" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testDecreasingRange" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testCanIncrementZeroTimes" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testIncrementZeroTimes" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testEmptyRangeNegativeStart" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testIncrementorCountExceeded" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testIncrementorAlternateException" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testIncrementZeroStep" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testIteratorZeroElement" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <testcase name="testSingleElementRange" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.001"/>
+  <testcase name="testIncreasingRange" classname="org.apache.commons.math3.util.IntegerSequenceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

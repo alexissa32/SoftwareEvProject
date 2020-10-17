@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:29" hostname="DYLAN-DESKTOP" time="0.33">
+  <properties/>
+  <testcase name="testBackward" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.062"/>
+  <testcase name="testDerivativesConsistency" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.029"/>
+  <testcase name="testMissedEndEvent" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.004"/>
+  <testcase name="testSmallStep" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.024"/>
+  <testcase name="testDecreasingSteps" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.158"/>
+  <testcase name="testNonFieldIntegratorConsistency" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.001"/>
+  <testcase name="testBigStep" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.0"/>
+  <testcase name="testSingleStep" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.001"/>
+  <testcase name="testUnstableDerivative" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.001"/>
+  <testcase name="testPartialDerivatives" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.014"/>
+  <testcase name="testKepler" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.032"/>
+  <testcase name="testTooLargeFirstStep" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.001"/>
+  <testcase name="testSanityChecks" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.0"/>
+  <testcase name="testStepSize" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaFieldIntegratorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

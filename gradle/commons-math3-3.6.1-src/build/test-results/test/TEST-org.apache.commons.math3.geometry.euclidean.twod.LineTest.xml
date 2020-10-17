@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.geometry.euclidean.twod.LineTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:25" hostname="DYLAN-DESKTOP" time="0.001">
+  <properties/>
+  <testcase name="testAbscissa" classname="org.apache.commons.math3.geometry.euclidean.twod.LineTest" time="0.0"/>
+  <testcase name="testOriginOffset" classname="org.apache.commons.math3.geometry.euclidean.twod.LineTest" time="0.0"/>
+  <testcase name="testPointAt" classname="org.apache.commons.math3.geometry.euclidean.twod.LineTest" time="0.0"/>
+  <testcase name="testContains" classname="org.apache.commons.math3.geometry.euclidean.twod.LineTest" time="0.0"/>
+  <testcase name="testDistance" classname="org.apache.commons.math3.geometry.euclidean.twod.LineTest" time="0.0"/>
+  <testcase name="testIntersection" classname="org.apache.commons.math3.geometry.euclidean.twod.LineTest" time="0.0"/>
+  <testcase name="testOffset" classname="org.apache.commons.math3.geometry.euclidean.twod.LineTest" time="0.0"/>
+  <testcase name="testTransform" classname="org.apache.commons.math3.geometry.euclidean.twod.LineTest" time="0.001"/>
+  <testcase name="testParallel" classname="org.apache.commons.math3.geometry.euclidean.twod.LineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

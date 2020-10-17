@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:44" hostname="DYLAN-DESKTOP" time="0.048">
+  <properties/>
+  <testcase name="testConstraintsUnsupported" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.001"/>
+  <testcase name="testBevington" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.004"/>
+  <testcase name="testNonInvertible" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testCircleFitting2" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.032"/>
+  <testcase name="testControlParameters" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testCircleFittingGoodInit" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.001"/>
+  <testcase name="testNoDependency" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testRedundantEquations" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testTrivial" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testQRColumnsPermutation" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testInconsistentSizes1" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.001"/>
+  <testcase name="testInconsistentSizes2" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testTwoSets" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testHahn1" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.003"/>
+  <testcase name="testMoreEstimatedParametersSimple" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testMoreEstimatedParametersUnsorted" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testIllConditioned" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testGetIterations" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testInconsistentEquations" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testCircleFitting" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.002"/>
+  <testcase name="testKirby2" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.002"/>
+  <testcase name="testOneSet" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.0"/>
+  <testcase name="testCircleFittingBadInit" classname="org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

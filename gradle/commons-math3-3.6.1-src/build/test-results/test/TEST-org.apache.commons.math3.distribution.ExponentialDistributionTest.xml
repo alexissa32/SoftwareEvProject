@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.distribution.ExponentialDistributionTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:12" hostname="DYLAN-DESKTOP" time="0.008">
+  <properties/>
+  <testcase name="testPreconditions" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.003"/>
+  <testcase name="testCumulativeProbability2" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testCumulativeProbabilityExtremes" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testMoments" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testDensity" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testInverseCumulativeProbabilityExtremes" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testMeanAccessors" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.001"/>
+  <testcase name="testIsSupportLowerBoundInclusive" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testDensities" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testInverseCumulativeProbabilities" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testSampling" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testCumulativeProbabilities" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.001"/>
+  <testcase name="testDistributionClone" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.002"/>
+  <testcase name="testIllegalArguments" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testDensityIntegrals" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.001"/>
+  <testcase name="testConsistency" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testLogDensities" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <testcase name="testIsSupportUpperBoundInclusive" classname="org.apache.commons.math3.distribution.ExponentialDistributionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

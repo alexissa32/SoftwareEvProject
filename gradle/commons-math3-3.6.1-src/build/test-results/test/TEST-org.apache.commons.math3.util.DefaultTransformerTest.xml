@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.commons.math3.util.DefaultTransformerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.001">
+  <properties/>
+  <testcase name="testTransformDouble" classname="org.apache.commons.math3.util.DefaultTransformerTest" time="0.001"/>
+  <testcase name="testTransformBigDecimal" classname="org.apache.commons.math3.util.DefaultTransformerTest" time="0.0"/>
+  <testcase name="testTransformObject" classname="org.apache.commons.math3.util.DefaultTransformerTest" time="0.0"/>
+  <testcase name="testTransformString" classname="org.apache.commons.math3.util.DefaultTransformerTest" time="0.0"/>
+  <testcase name="testTransformInteger" classname="org.apache.commons.math3.util.DefaultTransformerTest" time="0.0"/>
+  <testcase name="testTransformNull" classname="org.apache.commons.math3.util.DefaultTransformerTest" time="0.0"/>
+  <testcase name="testSerial" classname="org.apache.commons.math3.util.DefaultTransformerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
