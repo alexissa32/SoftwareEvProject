@@ -24,10 +24,24 @@ We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each 
   N/A
 
 #### Gradle Builds (with slight adjustments):
-##### Maven-not possible?
-##### Gradle-success
-##### Commons Math-success
-##### Guava-success
+##### Maven
+  not possible?
+##### Gradle
+  gradle build
+  needs Java 9-11 (ugh)
+##### Commons Math
+  gradle init
+  gradle build
+  success!
+  gradle/commons-math3-3.6.1-src/build
+  
+##### Guava
+  gradle init
+  remove line "system 'jdk:srczip:999'" from gradle/guava-30.0/guava/build.gradle
+  gradle build
+  success!
+  gradle/guava-30.0/guava/build
+  
 ##### Tensorflow-N/A
 
 ### References
