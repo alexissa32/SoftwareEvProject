@@ -14,14 +14,14 @@ We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each 
 #### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
 ##### Maven (built from scratch using mvn package)
   maven/apache-maven-3.6.3/maven-[component]/target
-##### Commons Math (built from scratch using mvn package)
-  maven/commons-math3-3.6.1-src/target
 ##### Gradle
   TBD
+##### Commons Math (built from scratch using mvn package)
+  maven/commons-math3-3.6.1-src/target
 ##### Guava (built from scratch using mvn install -DskipTests then mvn package -DskipTests)
   maven/guava-30.0/guava/target
 ##### Tensorflow
-  N/A\
+  N/A
 
 #### Gradle Builds (with slight adjustments):
 ##### Maven
@@ -40,7 +40,8 @@ We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each 
   gradle build\
   success!\
   gradle/guava-30.0/guava/build
-##### Tensorflow-N/A
+##### Tensorflow
+  N/A
 
 ### References
 1. https://docs.bazel.build/versions/master/migrate-maven.html
