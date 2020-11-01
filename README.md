@@ -9,7 +9,38 @@ Once we have these representative codebases being built using all possible tools
 
 ### 11/1 Update
 
-After struggling with a few different things, we are slighlty narowing the focus of our project. We will not be using the Tensorflow repository as a test for Bazel, Gradle, or Maven, as it is such a large repository, we are struggling to build it on our computers and keep having errors [7]. We are unable to build Maven with Gradle, and are unable to build Gradle with Gradle or Maven (there is no documentation on how to build Gradle from source). As a result, we are pivoting to using Apache Math, Guava, and our own base code to test Maven, Gradle, and Bazel.
+After struggling with a few different things, we are slighlty narrowing the focus of our project. We will not be using the Tensorflow repository as a test for Bazel, Gradle, or Maven, as it is such a large repository, we are struggling to build it on our computers and keep having errors [7]. We are unable to build Maven with Gradle or build Gradle with Gradle or Maven (there is no documentation on how to build Gradle from source). As a result, we are pivoting to using Apache Math, Guava, and our own code base to test Maven, Gradle, and Bazel. From there, we will still analyze the tools on build time, CPU usage, and memory usage, and we still intend on visually depicting each repository's dependency tree. A more detailed update on where we are at is in the PowerPoint slides committed in the repository.
+
+#### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
+##### Commons Math (built from scratch using mvn package)
+  maven/commons-math3-3.6.1-src/target
+##### Guava (built from scratch using mvn install -DskipTests then mvn package -DskipTests)
+  maven/guava-30.0/guava/target
+##### TBD
+  TODO
+
+#### Gradle Builds (with slight adjustments):
+##### Commons Math
+  gradle init\
+  gradle build\
+  success!\
+  gradle/commons-math3-3.6.1-src/build
+##### Guava
+  gradle init\
+  remove line "system 'jdk:srczip:999'" from gradle/guava-30.0/guava/build.gradle\
+  gradle build\
+  success!\
+  gradle/guava-30.0/guava/build
+##### TBD
+  TODO
+
+#### Bazel Builds:
+##### Commons Math
+  TODO
+##### Guava
+  TODO
+##### TBD
+  TODO
 
 ### 10/13 Update
 
