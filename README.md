@@ -7,6 +7,10 @@ Although there are few automated tools available to convert Maven or Gradle to B
 
 Once we have these representative codebases being built using all possible tools, we will explore making changes to the code and comparing rebuild time, CPU usage, and memory usage. Further, we seek to explore the code through visual representations of dependencies [6]. This will help us choose interesting places in code to make those changes that will showcase differences in the tools.
 
+### 11/1 Update
+
+After struggling with a few different things, we are slighlty narowing the focus of our project. We will not be using the Tensorflow repository as a test for Bazel, Gradle, or Maven, as it is such a large repository, we are struggling to build it on our computers and keep having errors [7]. We are unable to build Maven with Gradle, and are unable to build Gradle with Gradle or Maven (there is no documentation on how to build Gradle from source). As a result, we are pivoting to using Apache Math, Guava, and our own base code to test Maven, Gradle, and Bazel.
+
 ### 10/13 Update
 
 We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each of these codebases with Maven, then installed Gradle, and performed automatic conversion using the Gradle init tool [4]. We are using Java 1.8, Maven 3.6, and Gradle 6.6.1 for these tasks. We plan next to play around with Bazel and convert the Commons Math library first, since it is the smallest and likely easiest to get started with.
@@ -50,3 +54,4 @@ We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each 
 4. https://docs.gradle.org/current/userguide/migrating_from_maven.html#migmvn:automatic_conversion
 5. https://github.com/tensorflow/tensorflow/tree/master/tensorflow/java
 6. http://maven.apache.org/plugins/maven-dependency-plugin/tree-mojo.html 
+7. https://www.tensorflow.org/install/source_windows
