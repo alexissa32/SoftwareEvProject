@@ -37,7 +37,6 @@ gradleBuild
 *.pbxproj
 *.xcworkspace
 /*.podspec
-/tensorflow/lite/**/[ios|objc|swift]*/BUILD
 /tensorflow/lite/examples/ios/simple/data/*.tflite
 /tensorflow/lite/examples/ios/simple/data/*.txt
 Podfile.lock
