@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:19" hostname="DYLAN-DESKTOP" time="1.996">
+<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:17" hostname="DESKTOP-C0495IR" time="5.243">
   <properties/>
-  <testcase name="testDoubleVectors" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.401"/>
-  <testcase name="testAxisAngleFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.001"/>
-  <testcase name="testComposeInverseVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.072"/>
-  <testcase name="testComposeInverseFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.072"/>
-  <testcase name="testArray" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.067"/>
-  <testcase name="testVectorTwoPairs" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.006"/>
+  <testcase name="testDoubleVectors" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.986"/>
+  <testcase name="testAxisAngleFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.002"/>
+  <testcase name="testComposeInverseVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.2"/>
+  <testcase name="testComposeInverseFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.2"/>
+  <testcase name="testArray" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.19"/>
+  <testcase name="testVectorTwoPairs" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.002"/>
   <testcase name="testRevertVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.001"/>
-  <testcase name="testApplyInverseToRotation" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.128"/>
-  <testcase name="testRevertFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.0"/>
-  <testcase name="testComposeVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.078"/>
-  <testcase name="testAxisAngleDeprecated" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.001"/>
-  <testcase name="testComposeFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.07"/>
+  <testcase name="testApplyInverseToRotation" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.199"/>
+  <testcase name="testRevertFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.001"/>
+  <testcase name="testComposeVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.21"/>
+  <testcase name="testAxisAngleDeprecated" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.002"/>
+  <testcase name="testComposeFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.2"/>
   <testcase name="testIdentity" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.0"/>
-  <testcase name="testApplyToRotation" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.068"/>
-  <testcase name="testApplyInverseTo" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.166"/>
-  <testcase name="testAngles" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.278"/>
+  <testcase name="testApplyToRotation" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.204"/>
+  <testcase name="testApplyInverseTo" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.445"/>
+  <testcase name="testAngles" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.753"/>
   <testcase name="testVectorOnePair" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.001"/>
-  <testcase name="testDoubleRotations" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.387"/>
+  <testcase name="testDoubleRotations" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="1.14"/>
   <testcase name="testIssue639" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.0"/>
-  <testcase name="testIssue801" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.0"/>
-  <testcase name="testAnglesDeprecated" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.146"/>
-  <testcase name="testMatrix" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.004"/>
+  <testcase name="testIssue801" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.001"/>
+  <testcase name="testAnglesDeprecated" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.366"/>
+  <testcase name="testMatrix" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.01"/>
   <testcase name="testRevert" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.001"/>
-  <testcase name="testAxisAngleVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.001"/>
-  <testcase name="testSingularities" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.006"/>
-  <testcase name="testQuaternion" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.038"/>
+  <testcase name="testAxisAngleVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.002"/>
+  <testcase name="testSingularities" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.013"/>
+  <testcase name="testQuaternion" classname="org.apache.commons.math3.geometry.euclidean.threed.FieldRotationDfpTest" time="0.111"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:26" hostname="DYLAN-DESKTOP" time="0.003">
+<testsuite name="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:29" hostname="DESKTOP-C0495IR" time="0.004">
   <properties/>
   <testcase name="testConstructorSingleFormat" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testParseSimpleWithDecimals" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testForgottenSeparator" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testParseZeroX" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testNan" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
-  <testcase name="testSimpleWithDecimalsTrunc" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.001"/>
+  <testcase name="testSimpleWithDecimalsTrunc" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testParseNegativeX" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testParseNegativeY" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testParseNegativeZ" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testParseNegativeAll" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
-  <testcase name="testForgottenPrefix" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
+  <testcase name="testForgottenPrefix" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.001"/>
   <testcase name="testForgottenSuffix" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testNegativeX" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testNegativeY" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
-  <testcase name="testNegativeZ" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.001"/>
+  <testcase name="testNegativeZ" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testParseIgnoredWhitespace" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testParseSimpleWithDecimalsTrunc" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
-  <testcase name="testParseNoComponents" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
+  <testcase name="testParseNoComponents" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.001"/>
   <testcase name="testParseManyComponents" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="tesNegativeInfinity" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>
   <testcase name="testDefaultFormatRealVectorImpl" classname="org.apache.commons.math3.linear.FrenchRealVectorFormatTest" time="0.0"/>

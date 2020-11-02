@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.distribution.ZipfDistributionTest" tests="15" skipped="1" failures="0" errors="0" timestamp="2020-10-17T21:41:13" hostname="DYLAN-DESKTOP" time="0.193">
+<testsuite name="org.apache.commons.math3.distribution.ZipfDistributionTest" tests="15" skipped="1" failures="0" errors="0" timestamp="2020-11-02T01:14:09" hostname="DESKTOP-C0495IR" time="0.226">
   <properties/>
   <testcase name="testSamplerPerformance" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0">
     <skipped/>
@@ -7,14 +7,14 @@
   <testcase name="testSamplerHelper1Minus1" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.001"/>
   <testcase name="testPreconditions1" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
   <testcase name="testPreconditions2" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
-  <testcase name="testSamplingExtended" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.19"/>
+  <testcase name="testSamplingExtended" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.222"/>
   <testcase name="testMoments" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
-  <testcase name="testSamplerHelper1" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
+  <testcase name="testSamplerHelper1" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.001"/>
   <testcase name="testSamplerHelper2" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
-  <testcase name="testDensities" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.001"/>
+  <testcase name="testDensities" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
   <testcase name="testInverseCumulativeProbabilities" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
   <testcase name="testSampling" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
-  <testcase name="testCumulativeProbabilities" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
+  <testcase name="testCumulativeProbabilities" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.001"/>
   <testcase name="testIllegalArguments" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
   <testcase name="testLogDensities" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>
   <testcase name="testConsistencyAtSupportBounds" classname="org.apache.commons.math3.distribution.ZipfDistributionTest" time="0.0"/>

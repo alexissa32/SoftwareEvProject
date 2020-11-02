@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.util.CombinatoricsUtilsTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.371">
+<testsuite name="org.apache.commons.math3.util.CombinatoricsUtilsTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:53" hostname="DESKTOP-C0495IR" time="0.302">
   <properties/>
-  <testcase name="testBinomialCoefficient" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.008"/>
+  <testcase name="testBinomialCoefficient" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.003"/>
   <testcase name="testFactorialFail" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
-  <testcase name="testStirlingS2Overflow" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.001"/>
-  <testcase name="testStirlingS2" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
-  <testcase name="testBinomialCoefficientLarge" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.361"/>
+  <testcase name="testStirlingS2Overflow" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
+  <testcase name="testStirlingS2" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.001"/>
+  <testcase name="testBinomialCoefficientLarge" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.297"/>
   <testcase name="testStirlingS2NegativeN" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
   <testcase name="testFactorial" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
   <testcase name="testCheckBinomial1" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
   <testcase name="testCheckBinomial2" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
   <testcase name="testCheckBinomial3" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
-  <testcase name="testBinomialCoefficientFail" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
+  <testcase name="testBinomialCoefficientFail" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.001"/>
   <testcase name="testStirlingS2LargeK" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
   <testcase name="test0Choose0" classname="org.apache.commons.math3.util.CombinatoricsUtilsTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

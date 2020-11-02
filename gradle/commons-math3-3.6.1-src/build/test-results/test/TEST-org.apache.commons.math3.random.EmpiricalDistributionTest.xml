@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.random.EmpiricalDistributionTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:07" hostname="DYLAN-DESKTOP" time="1.981">
+<testsuite name="org.apache.commons.math3.random.EmpiricalDistributionTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:15:37" hostname="DESKTOP-C0495IR" time="3.773">
   <properties/>
-  <testcase name="testBinIndexOverflow" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.023"/>
-  <testcase name="testSerialization" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.022"/>
-  <testcase name="testLoad" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.021"/>
-  <testcase name="testNext" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.029"/>
-  <testcase name="testPrecondition1" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.01"/>
-  <testcase name="testLoadNullDoubleArray" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.01"/>
-  <testcase name="testKernelOverrideUniform" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.009"/>
-  <testcase name="testGeneratorConfig" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.008"/>
-  <testcase name="testKernelOverrideConstant" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.008"/>
-  <testcase name="testGridTooFat" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.016"/>
-  <testcase name="testDoubleLoad" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.008"/>
-  <testcase name="testGridTooFine" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.028"/>
-  <testcase name="testLoadNullFile" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.008"/>
-  <testcase name="testSampleValuesRange" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.011"/>
-  <testcase name="testGetBinUpperBounds" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.007"/>
-  <testcase name="testDensityIntegrals" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="1.63"/>
-  <testcase name="testLoadNullURL" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.006"/>
-  <testcase name="testNoBinVariance" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.008"/>
-  <testcase name="testNexFail" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.007"/>
-  <testcase name="testReSeed" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.009"/>
-  <testcase name="testIsSupportLowerBoundInclusive" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.007"/>
-  <testcase name="testDensities" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.007"/>
-  <testcase name="testInverseCumulativeProbabilities" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.007"/>
-  <testcase name="testSampling" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.025"/>
-  <testcase name="testCumulativeProbabilities" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.007"/>
-  <testcase name="testDistributionClone" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.017"/>
-  <testcase name="testIllegalArguments" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.008"/>
-  <testcase name="testConsistency" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.01"/>
-  <testcase name="testLogDensities" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.007"/>
-  <testcase name="testIsSupportUpperBoundInclusive" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.007"/>
+  <testcase name="testBinIndexOverflow" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.026"/>
+  <testcase name="testSerialization" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.031"/>
+  <testcase name="testLoad" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.028"/>
+  <testcase name="testNext" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.033"/>
+  <testcase name="testPrecondition1" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.015"/>
+  <testcase name="testLoadNullDoubleArray" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.014"/>
+  <testcase name="testKernelOverrideUniform" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.016"/>
+  <testcase name="testGeneratorConfig" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.014"/>
+  <testcase name="testKernelOverrideConstant" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.014"/>
+  <testcase name="testGridTooFat" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.025"/>
+  <testcase name="testDoubleLoad" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.014"/>
+  <testcase name="testGridTooFine" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.048"/>
+  <testcase name="testLoadNullFile" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.014"/>
+  <testcase name="testSampleValuesRange" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.02"/>
+  <testcase name="testGetBinUpperBounds" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.014"/>
+  <testcase name="testDensityIntegrals" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="3.207"/>
+  <testcase name="testLoadNullURL" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.015"/>
+  <testcase name="testNoBinVariance" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.014"/>
+  <testcase name="testNexFail" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.014"/>
+  <testcase name="testReSeed" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.015"/>
+  <testcase name="testIsSupportLowerBoundInclusive" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.014"/>
+  <testcase name="testDensities" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.015"/>
+  <testcase name="testInverseCumulativeProbabilities" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.016"/>
+  <testcase name="testSampling" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.032"/>
+  <testcase name="testCumulativeProbabilities" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.015"/>
+  <testcase name="testDistributionClone" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.027"/>
+  <testcase name="testIllegalArguments" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.015"/>
+  <testcase name="testConsistency" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.015"/>
+  <testcase name="testLogDensities" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.015"/>
+  <testcase name="testIsSupportUpperBoundInclusive" classname="org.apache.commons.math3.random.EmpiricalDistributionTest" time="0.013"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

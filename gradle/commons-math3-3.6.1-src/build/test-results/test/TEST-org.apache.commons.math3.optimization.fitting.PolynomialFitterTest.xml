@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:56" hostname="DYLAN-DESKTOP" time="3.563">
+<testsuite name="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:15:18" hostname="DESKTOP-C0495IR" time="6.408">
   <properties/>
   <testcase name="testFit" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.002"/>
-  <testcase name="testMath798WithToleranceTooLowButNoException" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.285"/>
-  <testcase name="testMath798WithToleranceTooLow" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.22"/>
-  <testcase name="testMath798" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.001"/>
-  <testcase name="testSmallError" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.013"/>
-  <testcase name="testRedundantSolvable" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.01"/>
-  <testcase name="testNoError" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.008"/>
-  <testcase name="testLargeSample" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="3.018"/>
-  <testcase name="testRedundantUnsolvable" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.005"/>
+  <testcase name="testMath798WithToleranceTooLowButNoException" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.217"/>
+  <testcase name="testMath798WithToleranceTooLow" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.206"/>
+  <testcase name="testMath798" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.0"/>
+  <testcase name="testSmallError" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.014"/>
+  <testcase name="testRedundantSolvable" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.013"/>
+  <testcase name="testNoError" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.005"/>
+  <testcase name="testLargeSample" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="5.942"/>
+  <testcase name="testRedundantUnsolvable" classname="org.apache.commons.math3.optimization.fitting.PolynomialFitterTest" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

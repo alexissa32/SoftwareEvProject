@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" tests="120" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:00" hostname="DYLAN-DESKTOP" time="0.357">
+<testsuite name="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" tests="120" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:13:38" hostname="DESKTOP-C0495IR" time="0.268">
   <properties/>
   <testcase name="testCeilFloorRintLong" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
-  <testcase name="testVarMultInPlace" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testVarMultInPlace" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testPrimitiveAdd" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testTanAtan" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.007"/>
-  <testcase name="testSqrtDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
-  <testcase name="testHypotDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.005"/>
-  <testcase name="testLog1pDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.004"/>
+  <testcase name="testTanAtan" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.005"/>
+  <testcase name="testSqrtDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testHypotDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.004"/>
+  <testcase name="testLog1pDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
   <testcase name="testLinearCombination1DSDS" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testLinearCombination2DSDS" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.092"/>
+  <testcase name="testLinearCombination2DSDS" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.06"/>
   <testcase name="testExpm1Definition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
-  <testcase name="testCoshDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.005"/>
-  <testcase name="testSerialization" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.004"/>
+  <testcase name="testCoshDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testSerialization" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
   <testcase name="testAtan2SpecialCases" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testAbs" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testAdd" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testExp" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
+  <testcase name="testExp" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testLog" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testPow" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testSubtract" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testAtan2" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.005"/>
+  <testcase name="testAtan2" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
   <testcase name="testField" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testTrigo" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.007"/>
+  <testcase name="testTrigo" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
   <testcase name="testMult" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testReciprocal" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testLinearCombination2DoubleDS" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.073"/>
+  <testcase name="testReciprocal" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testLinearCombination2DoubleDS" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.054"/>
   <testcase name="testVarAddition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testSinhAsinh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testPrimitiveRemainder" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testLog1pExpm1" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testSinhAsinh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testPrimitiveRemainder" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testLog1pExpm1" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testToRadiansDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.004"/>
   <testcase name="testVariable" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testPrimitiveMultiply" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testHypotSpecial" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testCompositionOneVariableX" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
+  <testcase name="testCompositionOneVariableX" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testCompositionOneVariableY" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testSqrtPow2" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testCoshAcosh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testSinhDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testSinhDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.004"/>
   <testcase name="testConstant" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testCopySign" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testTangentDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
-  <testcase name="testCompose" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.006"/>
+  <testcase name="testTangentDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testCompose" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.005"/>
   <testcase name="testCosAcos" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
-  <testcase name="testTanhAtanh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testTanhAtanh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testPowDoubleDS" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testLinearCombination1DoubleDS" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testHypotNoOverflow" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testTaylorPolynomial" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.007"/>
+  <testcase name="testTaylorPolynomial" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.005"/>
   <testcase name="testPrimitiveSubtract" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testDivision" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testDegRad" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testMultiply" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testPowReciprocalPow" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.027"/>
-  <testcase name="testLogExp" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testRemainder" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
+  <testcase name="testPowReciprocalPow" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.026"/>
+  <testcase name="testLogExp" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testRemainder" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testNegate" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testHypotNeglectible" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testCbrtPow3" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
-  <testcase name="testLog10Definition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.004"/>
-  <testcase name="testSinAsin" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
+  <testcase name="testCbrtPow3" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testLog10Definition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testSinAsin" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
   <testcase name="testSignum" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testSinCos" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testRootNSingularity" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testExpression" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.004"/>
-  <testcase name="testToDegreesDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.004"/>
+  <testcase name="testExpression" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.006"/>
+  <testcase name="testToDegreesDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
   <testcase name="testSubtraction" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testLog10Power" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
-  <testcase name="testTanhDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.005"/>
-  <testcase name="testCbrtDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testTaylorAtan2" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
+  <testcase name="testLog10Power" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testTanhDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
+  <testcase name="testCbrtDefinition" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testTaylorAtan2" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
   <testcase name="testDivideField" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testRemainderDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testGetField" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testDivideDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
+  <testcase name="testDivideDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testCos" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testSin" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testTan" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testAcosh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
+  <testcase name="testAcosh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testAsinh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testAtanh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testExpm1" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testFloor" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testHypot" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testFloor" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
+  <testcase name="testHypot" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.003"/>
   <testcase name="testLog1p" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testRootN" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testRound" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testScalb" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.004"/>
+  <testcase name="testScalb" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
   <testcase name="testAcos" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testAsin" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testAtan" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
@@ -97,26 +97,26 @@
   <testcase name="testHash" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testRint" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testSinh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testSqrt" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testSqrt" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testTanh" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testAddField" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testMultiplyDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testMultiplyInt" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testLinearCombinationDaFa" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testMultiplyDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testMultiplyInt" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
+  <testcase name="testLinearCombinationDaFa" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testLinearCombinationFaFa" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testAddDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testPowDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testSubtractDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testRemainderField" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testCopySignDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
-  <testcase name="testLinearCombinationDF2" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testLinearCombinationDF3" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
+  <testcase name="testCopySignDouble" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
+  <testcase name="testLinearCombinationDF2" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
+  <testcase name="testLinearCombinationDF3" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testLinearCombinationDF4" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testLinearCombinationFF2" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testLinearCombinationFF3" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
-  <testcase name="testLinearCombinationFF4" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
+  <testcase name="testLinearCombinationFF4" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testEquals" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
-  <testcase name="testCopySignField" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.002"/>
+  <testcase name="testCopySignField" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testPowField" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>
   <testcase name="testPowInt" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.0"/>
   <testcase name="testMultiplyField" classname="org.apache.commons.math3.analysis.differentiation.SparseGradientTest" time="0.001"/>

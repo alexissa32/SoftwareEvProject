@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.optimization.general.MinpackTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:00" hostname="DYLAN-DESKTOP" time="0.397">
+<testsuite name="org.apache.commons.math3.optimization.general.MinpackTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:15:24" hostname="DESKTOP-C0495IR" time="0.451">
   <properties/>
-  <testcase name="testMinpackLinearRank1" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.001"/>
-  <testcase name="testMinpackBrownDennis" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.045"/>
-  <testcase name="testMinpackJennrichSampson" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.0"/>
-  <testcase name="testMinpackRosenbrok" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.001"/>
-  <testcase name="testMinpackBox3Dimensional" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.0"/>
+  <testcase name="testMinpackLinearRank1" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.0"/>
+  <testcase name="testMinpackBrownDennis" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.061"/>
+  <testcase name="testMinpackJennrichSampson" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.001"/>
+  <testcase name="testMinpackRosenbrok" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.0"/>
+  <testcase name="testMinpackBox3Dimensional" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.001"/>
   <testcase name="testMinpackHelicalValley" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.001"/>
-  <testcase name="testMinpackMeyer" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.084"/>
+  <testcase name="testMinpackMeyer" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.072"/>
   <testcase name="testMinpackLinearFullRank" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.0"/>
   <testcase name="testMinpackFreudensteinRoth" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.001"/>
-  <testcase name="testMinpackOsborne1" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.002"/>
-  <testcase name="testMinpackOsborne2" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.01"/>
-  <testcase name="testMinpackWatson" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.074"/>
-  <testcase name="testMinpackKowalikOsborne" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.019"/>
-  <testcase name="testMinpackPowellSingular" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.013"/>
-  <testcase name="testMinpackChebyquad" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.008"/>
-  <testcase name="testMinpackLinearRank1ZeroColsAndRows" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.0"/>
+  <testcase name="testMinpackOsborne1" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.003"/>
+  <testcase name="testMinpackOsborne2" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.014"/>
+  <testcase name="testMinpackWatson" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.102"/>
+  <testcase name="testMinpackKowalikOsborne" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.027"/>
+  <testcase name="testMinpackPowellSingular" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.008"/>
+  <testcase name="testMinpackChebyquad" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.009"/>
+  <testcase name="testMinpackLinearRank1ZeroColsAndRows" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.001"/>
   <testcase name="testMinpackBard" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.003"/>
-  <testcase name="testMinpackBrownAlmostLinear" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.133"/>
+  <testcase name="testMinpackBrownAlmostLinear" classname="org.apache.commons.math3.optimization.general.MinpackTest" time="0.141"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

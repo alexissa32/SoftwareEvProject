@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.stat.inference.TTestTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:56" hostname="DYLAN-DESKTOP" time="0.001">
+<testsuite name="org.apache.commons.math3.stat.inference.TTestTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:51" hostname="DESKTOP-C0495IR" time="0.001">
   <properties/>
   <testcase name="testOneSampleTTest" classname="org.apache.commons.math3.stat.inference.TTestTest" time="0.0"/>
-  <testcase name="testSmallSamples" classname="org.apache.commons.math3.stat.inference.TTestTest" time="0.0"/>
-  <testcase name="testTwoSampleTHeterscedastic" classname="org.apache.commons.math3.stat.inference.TTestTest" time="0.001"/>
+  <testcase name="testSmallSamples" classname="org.apache.commons.math3.stat.inference.TTestTest" time="0.001"/>
+  <testcase name="testTwoSampleTHeterscedastic" classname="org.apache.commons.math3.stat.inference.TTestTest" time="0.0"/>
   <testcase name="testOneSampleT" classname="org.apache.commons.math3.stat.inference.TTestTest" time="0.0"/>
   <testcase name="testPaired" classname="org.apache.commons.math3.stat.inference.TTestTest" time="0.0"/>
   <testcase name="testTwoSampleTHomoscedastic" classname="org.apache.commons.math3.stat.inference.TTestTest" time="0.0"/>

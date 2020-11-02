@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.transform.FastSineTransformerTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.01">
+<testsuite name="org.apache.commons.math3.transform.FastSineTransformerTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:53" hostname="DESKTOP-C0495IR" time="0.014">
   <properties/>
   <testcase name="testAdHocData[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.001"/>
   <testcase name="testTransformRealFirstElementNotZero[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
   <testcase name="testParameters[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
   <testcase name="testSinFunction[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
-  <testcase name="testTransformFunction[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.002"/>
+  <testcase name="testTransformFunction[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.005"/>
   <testcase name="testTransformFunctionNotStrictlyPositiveNumberOfSamples[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
-  <testcase name="testTransformReal[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.003"/>
+  <testcase name="testTransformReal[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.002"/>
   <testcase name="testTransformFunctionInvalidDataSize[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
-  <testcase name="testTransformFunctionInvalidBounds[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
+  <testcase name="testTransformFunctionInvalidBounds[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.001"/>
   <testcase name="testTransformRealInvalidDataSize[0]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
   <testcase name="testAdHocData[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
   <testcase name="testTransformRealFirstElementNotZero[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
   <testcase name="testParameters[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
-  <testcase name="testSinFunction[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.001"/>
-  <testcase name="testTransformFunction[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.001"/>
+  <testcase name="testSinFunction[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
+  <testcase name="testTransformFunction[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.002"/>
   <testcase name="testTransformFunctionNotStrictlyPositiveNumberOfSamples[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>
   <testcase name="testTransformReal[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.002"/>
   <testcase name="testTransformFunctionInvalidDataSize[1]" classname="org.apache.commons.math3.transform.FastSineTransformerTest" time="0.0"/>

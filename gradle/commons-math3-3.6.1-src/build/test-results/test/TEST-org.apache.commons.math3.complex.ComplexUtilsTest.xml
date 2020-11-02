@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.complex.ComplexUtilsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:10" hostname="DYLAN-DESKTOP" time="0.001">
+<testsuite name="org.apache.commons.math3.complex.ComplexUtilsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:04" hostname="DESKTOP-C0495IR" time="0.001">
   <properties/>
   <testcase name="testPolar2ComplexInf" classname="org.apache.commons.math3.complex.ComplexUtilsTest" time="0.0"/>
   <testcase name="testPolar2ComplexNaN" classname="org.apache.commons.math3.complex.ComplexUtilsTest" time="0.0"/>
   <testcase name="testPolar2ComplexIllegalModulus" classname="org.apache.commons.math3.complex.ComplexUtilsTest" time="0.0"/>
   <testcase name="testConvertToComplex" classname="org.apache.commons.math3.complex.ComplexUtilsTest" time="0.0"/>
-  <testcase name="testPolar2Complex" classname="org.apache.commons.math3.complex.ComplexUtilsTest" time="0.001"/>
+  <testcase name="testPolar2Complex" classname="org.apache.commons.math3.complex.ComplexUtilsTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

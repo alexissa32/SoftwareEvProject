@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.linear.QRSolverTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:26" hostname="DYLAN-DESKTOP" time="0.034">
+<testsuite name="org.apache.commons.math3.linear.QRSolverTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:29" hostname="DESKTOP-C0495IR" time="0.012">
   <properties/>
-  <testcase name="testOverdetermined" classname="org.apache.commons.math3.linear.QRSolverTest" time="0.023"/>
-  <testcase name="testSolve" classname="org.apache.commons.math3.linear.QRSolverTest" time="0.001"/>
+  <testcase name="testOverdetermined" classname="org.apache.commons.math3.linear.QRSolverTest" time="0.01"/>
+  <testcase name="testSolve" classname="org.apache.commons.math3.linear.QRSolverTest" time="0.0"/>
   <testcase name="testRank" classname="org.apache.commons.math3.linear.QRSolverTest" time="0.0"/>
   <testcase name="testSolveRankErrors" classname="org.apache.commons.math3.linear.QRSolverTest" time="0.0"/>
   <testcase name="testSolveDimensionErrors" classname="org.apache.commons.math3.linear.QRSolverTest" time="0.0"/>
-  <testcase name="testUnderdetermined" classname="org.apache.commons.math3.linear.QRSolverTest" time="0.01"/>
+  <testcase name="testUnderdetermined" classname="org.apache.commons.math3.linear.QRSolverTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

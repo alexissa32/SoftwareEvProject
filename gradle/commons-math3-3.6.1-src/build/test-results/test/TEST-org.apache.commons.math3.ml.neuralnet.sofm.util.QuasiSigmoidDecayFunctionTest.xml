@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ml.neuralnet.sofm.util.QuasiSigmoidDecayFunctionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:27" hostname="DYLAN-DESKTOP" time="0.0">
+<testsuite name="org.apache.commons.math3.ml.neuralnet.sofm.util.QuasiSigmoidDecayFunctionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:30" hostname="DESKTOP-C0495IR" time="0.001">
   <properties/>
-  <testcase name="testTrivial" classname="org.apache.commons.math3.ml.neuralnet.sofm.util.QuasiSigmoidDecayFunctionTest" time="0.0"/>
+  <testcase name="testTrivial" classname="org.apache.commons.math3.ml.neuralnet.sofm.util.QuasiSigmoidDecayFunctionTest" time="0.001"/>
   <testcase name="testPrecondition1" classname="org.apache.commons.math3.ml.neuralnet.sofm.util.QuasiSigmoidDecayFunctionTest" time="0.0"/>
   <testcase name="testPrecondition3" classname="org.apache.commons.math3.ml.neuralnet.sofm.util.QuasiSigmoidDecayFunctionTest" time="0.0"/>
   <testcase name="testPrecondition4" classname="org.apache.commons.math3.ml.neuralnet.sofm.util.QuasiSigmoidDecayFunctionTest" time="0.0"/>

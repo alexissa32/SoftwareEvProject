@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:13" hostname="DYLAN-DESKTOP" time="0.028">
+<testsuite name="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:10" hostname="DESKTOP-C0495IR" time="0.018">
   <properties/>
   <testcase name="testDirectEvaluation" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.001"/>
-  <testcase name="testComputeCovariance" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.003"/>
-  <testcase name="testComputeRMS" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.011"/>
-  <testcase name="testComputeSigma" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.004"/>
+  <testcase name="testComputeCovariance" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.001"/>
+  <testcase name="testComputeRMS" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.004"/>
+  <testcase name="testComputeSigma" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.002"/>
   <testcase name="testComputeResiduals" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.002"/>
-  <testcase name="testEvaluateCopiesPoint" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.002"/>
+  <testcase name="testEvaluateCopiesPoint" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.001"/>
   <testcase name="testComputeCost" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.001"/>
   <testcase name="testLazyEvaluationPrecondition" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.001"/>
-  <testcase name="testLazyEvaluation" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.002"/>
-  <testcase name="testComputeValueAndJacobian" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.001"/>
+  <testcase name="testLazyEvaluation" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.003"/>
+  <testcase name="testComputeValueAndJacobian" classname="org.apache.commons.math3.fitting.leastsquares.EvaluationTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

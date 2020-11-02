@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.fraction.FractionFormatTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:15" hostname="DYLAN-DESKTOP" time="0.005">
+<testsuite name="org.apache.commons.math3.fraction.FractionFormatTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:13" hostname="DESKTOP-C0495IR" time="0.006">
   <properties/>
   <testcase name="testNumeratorFormat" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.001"/>
   <testcase name="testFormatImproperNegative" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testLongFormat" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
-  <testcase name="testFormatImproper" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.001"/>
+  <testcase name="testFormatImproper" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testParseZero1" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testParseZero2" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testParseProper" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
-  <testcase name="testParseProperNegative" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
-  <testcase name="testParse" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.001"/>
+  <testcase name="testParseProperNegative" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.001"/>
+  <testcase name="testParse" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testParseOne1" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testParseOne2" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testWholeFormat" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testFormatZero" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testFormatNegative" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
-  <testcase name="testParseInvalidDenominator" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.001"/>
+  <testcase name="testParseInvalidDenominator" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testDenominatorFormat" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testParseProperInvalidMinus" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testParseInteger" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
-  <testcase name="testParseInvalid" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.001"/>
+  <testcase name="testParseInvalid" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testFormat" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
   <testcase name="testDoubleFormat" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
-  <testcase name="testParseNegative" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.0"/>
+  <testcase name="testParseNegative" classname="org.apache.commons.math3.fraction.FractionFormatTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

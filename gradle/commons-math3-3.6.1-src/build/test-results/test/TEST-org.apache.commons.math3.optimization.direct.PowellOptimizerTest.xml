@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.optimization.direct.PowellOptimizerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:56" hostname="DYLAN-DESKTOP" time="0.009">
+<testsuite name="org.apache.commons.math3.optimization.direct.PowellOptimizerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:15:18" hostname="DESKTOP-C0495IR" time="0.007">
   <properties/>
-  <testcase name="testQuadratic" classname="org.apache.commons.math3.optimization.direct.PowellOptimizerTest" time="0.007"/>
-  <testcase name="testRelativeToleranceOnScaledValues" classname="org.apache.commons.math3.optimization.direct.PowellOptimizerTest" time="0.001"/>
+  <testcase name="testQuadratic" classname="org.apache.commons.math3.optimization.direct.PowellOptimizerTest" time="0.004"/>
+  <testcase name="testRelativeToleranceOnScaledValues" classname="org.apache.commons.math3.optimization.direct.PowellOptimizerTest" time="0.0"/>
   <testcase name="testMaximizeQuadratic" classname="org.apache.commons.math3.optimization.direct.PowellOptimizerTest" time="0.001"/>
-  <testcase name="testSumSinc" classname="org.apache.commons.math3.optimization.direct.PowellOptimizerTest" time="0.0"/>
+  <testcase name="testSumSinc" classname="org.apache.commons.math3.optimization.direct.PowellOptimizerTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

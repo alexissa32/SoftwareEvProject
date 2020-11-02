@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:09" hostname="DYLAN-DESKTOP" time="0.031">
+<testsuite name="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:01" hostname="DESKTOP-C0495IR" time="0.036">
   <properties/>
   <testcase name="testWikipedia" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.001"/>
   <testcase name="testOnePointParabola" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.0"/>
@@ -7,11 +7,11 @@
   <testcase name="testZero" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.0"/>
   <testcase name="testQuadratic" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.0"/>
   <testcase name="testDuplicatedAbscissa" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.0"/>
-  <testcase name="testRandomPolynomialsValuesOnly" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.008"/>
+  <testcase name="testRandomPolynomialsValuesOnly" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.006"/>
   <testcase name="testEmptySample" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.0"/>
   <testcase name="testMixedDerivatives" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.0"/>
-  <testcase name="testSquareRoot" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.001"/>
-  <testcase name="testRandomPolynomialsFirstDerivative" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.018"/>
+  <testcase name="testSquareRoot" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.0"/>
+  <testcase name="testRandomPolynomialsFirstDerivative" classname="org.apache.commons.math3.analysis.interpolation.HermiteInterpolatorTest" time="0.026"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.util.BigRealTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.004">
+<testsuite name="org.apache.commons.math3.util.BigRealTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:53" hostname="DESKTOP-C0495IR" time="0.006">
   <properties/>
   <testcase name="testAdd" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
   <testcase name="testSubtract" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
-  <testcase name="testReciprocal" classname="org.apache.commons.math3.util.BigRealTest" time="0.001"/>
+  <testcase name="testReciprocal" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
   <testcase name="testCompareTo" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
-  <testcase name="testReciprocalOfZero" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
+  <testcase name="testReciprocalOfZero" classname="org.apache.commons.math3.util.BigRealTest" time="0.001"/>
   <testcase name="testBigDecimalValue" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
   <testcase name="testDivisionByZero" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
   <testcase name="testDivide" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
@@ -14,7 +14,7 @@
   <testcase name="testNegate" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
   <testcase name="testSerial" classname="org.apache.commons.math3.util.BigRealTest" time="0.003"/>
   <testcase name="testDoubleValue" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
-  <testcase name="testConstructor" classname="org.apache.commons.math3.util.BigRealTest" time="0.0"/>
+  <testcase name="testConstructor" classname="org.apache.commons.math3.util.BigRealTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

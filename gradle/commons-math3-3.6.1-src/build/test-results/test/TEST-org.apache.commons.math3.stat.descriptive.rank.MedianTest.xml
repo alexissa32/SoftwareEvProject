@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.stat.descriptive.rank.MedianTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:43" hostname="DYLAN-DESKTOP" time="0.002">
+<testsuite name="org.apache.commons.math3.stat.descriptive.rank.MedianTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:34" hostname="DESKTOP-C0495IR" time="0.001">
   <properties/>
   <testcase name="testAllTechniquesSingleton" classname="org.apache.commons.math3.stat.descriptive.rank.MedianTest" time="0.001"/>
   <testcase name="testAllTechniquesMedian" classname="org.apache.commons.math3.stat.descriptive.rank.MedianTest" time="0.0"/>
   <testcase name="testCopy" classname="org.apache.commons.math3.stat.descriptive.rank.MedianTest" time="0.0"/>
-  <testcase name="testEvaluation" classname="org.apache.commons.math3.stat.descriptive.rank.MedianTest" time="0.001"/>
+  <testcase name="testEvaluation" classname="org.apache.commons.math3.stat.descriptive.rank.MedianTest" time="0.0"/>
   <testcase name="testEvaluateArraySegment" classname="org.apache.commons.math3.stat.descriptive.rank.MedianTest" time="0.0"/>
   <testcase name="testWeightedConsistency" classname="org.apache.commons.math3.stat.descriptive.rank.MedianTest" time="0.0"/>
   <testcase name="testEvaluateArraySegmentWeighted" classname="org.apache.commons.math3.stat.descriptive.rank.MedianTest" time="0.0"/>

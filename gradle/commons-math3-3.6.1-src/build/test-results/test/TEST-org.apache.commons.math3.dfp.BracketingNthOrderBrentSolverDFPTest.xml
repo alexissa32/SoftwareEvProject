@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFPTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:10" hostname="DYLAN-DESKTOP" time="0.544">
+<testsuite name="org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFPTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:04" hostname="DESKTOP-C0495IR" time="1.689">
   <properties/>
-  <testcase name="testConvergenceOnFunctionAccuracy" classname="org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFPTest" time="0.008"/>
-  <testcase name="testNeta" classname="org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFPTest" time="0.534"/>
-  <testcase name="testInsufficientOrder3" classname="org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFPTest" time="0.001"/>
+  <testcase name="testConvergenceOnFunctionAccuracy" classname="org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFPTest" time="0.021"/>
+  <testcase name="testNeta" classname="org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFPTest" time="1.667"/>
+  <testcase name="testInsufficientOrder3" classname="org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFPTest" time="0.0"/>
   <testcase name="testConstructorOK" classname="org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFPTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

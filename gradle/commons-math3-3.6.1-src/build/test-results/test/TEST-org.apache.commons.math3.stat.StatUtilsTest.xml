@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.stat.StatUtilsTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.002">
+<testsuite name="org.apache.commons.math3.stat.StatUtilsTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:53" hostname="DESKTOP-C0495IR" time="0.001">
   <properties/>
   <testcase name="testNormalize1" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
   <testcase name="testNormalize2" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
@@ -9,9 +9,9 @@
   <testcase name="testMax" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
   <testcase name="testMin" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
   <testcase name="testStats" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
-  <testcase name="testSumSq" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
+  <testcase name="testSumSq" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.001"/>
   <testcase name="testMean" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
-  <testcase name="testMode" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.001"/>
+  <testcase name="testMode" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
   <testcase name="testN0andN1Conditions" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
   <testcase name="testProduct" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>
   <testcase name="testGeometricMean" classname="org.apache.commons.math3.stat.StatUtilsTest" time="0.0"/>

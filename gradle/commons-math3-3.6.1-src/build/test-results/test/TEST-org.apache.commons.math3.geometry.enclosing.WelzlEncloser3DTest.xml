@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:18" hostname="DYLAN-DESKTOP" time="0.28">
+<testsuite name="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:17" hostname="DESKTOP-C0495IR" time="0.548">
   <properties/>
-  <testcase name="testInfiniteLoop" classname="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" time="0.015"/>
-  <testcase name="testNullList" classname="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" time="0.001"/>
-  <testcase name="testLargeSamples" classname="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" time="0.257"/>
-  <testcase name="testReducingBall" classname="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" time="0.007"/>
+  <testcase name="testInfiniteLoop" classname="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" time="0.027"/>
+  <testcase name="testNullList" classname="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" time="0.0"/>
+  <testcase name="testLargeSamples" classname="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" time="0.506"/>
+  <testcase name="testReducingBall" classname="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" time="0.014"/>
   <testcase name="testNoPoints" classname="org.apache.commons.math3.geometry.enclosing.WelzlEncloser3DTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

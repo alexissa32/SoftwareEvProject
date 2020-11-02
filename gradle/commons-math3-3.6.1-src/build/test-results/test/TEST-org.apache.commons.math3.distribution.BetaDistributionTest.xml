@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.distribution.BetaDistributionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:11" hostname="DYLAN-DESKTOP" time="0.151">
+<testsuite name="org.apache.commons.math3.distribution.BetaDistributionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:08" hostname="DESKTOP-C0495IR" time="0.131">
   <properties/>
-  <testcase name="testGoodnessOfFit" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.096"/>
-  <testcase name="testMoments" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.0"/>
-  <testcase name="testCumulative" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.006"/>
-  <testcase name="testDensity" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.014"/>
-  <testcase name="testMomentsSampling" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.033"/>
+  <testcase name="testGoodnessOfFit" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.095"/>
+  <testcase name="testMoments" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.001"/>
+  <testcase name="testCumulative" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.003"/>
+  <testcase name="testDensity" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.011"/>
+  <testcase name="testMomentsSampling" classname="org.apache.commons.math3.distribution.BetaDistributionTest" time="0.021"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

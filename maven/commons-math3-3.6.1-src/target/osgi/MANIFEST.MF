@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1602950690729
-Build-Jdk: 1.8.0_242
-Built-By: dfbra
+Bnd-LastModified: 1604277768892
+Build-Jdk: 1.8.0_181
+Built-By: Alex Issa
 Bundle-Description: The Apache Commons Math project is a library of ligh
  tweight, self-contained mathematics and statistics components addressin
  g the most common practical problems not immediately available in the J

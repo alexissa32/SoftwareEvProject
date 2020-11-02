@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.util.FastMathStrictComparisonTest" tests="66" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:57" hostname="DYLAN-DESKTOP" time="0.031">
+<testsuite name="org.apache.commons.math3.util.FastMathStrictComparisonTest" tests="66" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:53" hostname="DESKTOP-C0495IR" time="0.032">
   <properties/>
-  <testcase name="test1[0]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[0]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[1]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[2]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[3]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[4]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[4]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.004"/>
   <testcase name="test1[5]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[6]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[6]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[7]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[8]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[9]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[10]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[11]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[12]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[13]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[13]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[14]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[15]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[15]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[16]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[17]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[18]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
-  <testcase name="test1[19]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[18]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[19]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[20]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
-  <testcase name="test1[21]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[21]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[22]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
-  <testcase name="test1[23]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
-  <testcase name="test1[24]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[23]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[24]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[25]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[26]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[27]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[28]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
-  <testcase name="test1[29]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[27]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[28]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[29]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.004"/>
   <testcase name="test1[30]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[31]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[32]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[33]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[34]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[35]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[35]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[36]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[37]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[38]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[39]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[40]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[41]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
-  <testcase name="test1[42]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[41]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[42]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[43]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[44]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[45]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
-  <testcase name="test1[46]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[47]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[48]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
-  <testcase name="test1[49]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[44]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[45]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[46]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[47]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[48]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[49]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[50]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[51]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
   <testcase name="test1[52]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[53]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[53]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[54]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[55]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[56]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[57]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[57]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[58]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[59]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[60]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
-  <testcase name="test1[61]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[60]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
+  <testcase name="test1[61]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[62]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[63]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <testcase name="test1[64]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
-  <testcase name="test1[65]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.001"/>
+  <testcase name="test1[65]" classname="org.apache.commons.math3.util.FastMathStrictComparisonTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

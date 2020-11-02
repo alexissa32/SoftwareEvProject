@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.random.HaltonSequenceGeneratorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:09" hostname="DYLAN-DESKTOP" time="0.001">
+<testsuite name="org.apache.commons.math3.random.HaltonSequenceGeneratorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:15:40" hostname="DESKTOP-C0495IR" time="0.001">
   <properties/>
   <testcase name="testSkip" classname="org.apache.commons.math3.random.HaltonSequenceGeneratorTest" time="0.001"/>
   <testcase name="testConstructor2" classname="org.apache.commons.math3.random.HaltonSequenceGeneratorTest" time="0.0"/>

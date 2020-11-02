@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.analysis.interpolation.LinearInterpolatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:09" hostname="DYLAN-DESKTOP" time="0.002">
+<testsuite name="org.apache.commons.math3.analysis.interpolation.LinearInterpolatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:01" hostname="DESKTOP-C0495IR" time="0.001">
   <properties/>
-  <testcase name="testInterpolateLinearDegenerateTwoSegment" classname="org.apache.commons.math3.analysis.interpolation.LinearInterpolatorTest" time="0.001"/>
+  <testcase name="testInterpolateLinearDegenerateTwoSegment" classname="org.apache.commons.math3.analysis.interpolation.LinearInterpolatorTest" time="0.0"/>
   <testcase name="testIllegalArguments" classname="org.apache.commons.math3.analysis.interpolation.LinearInterpolatorTest" time="0.0"/>
   <testcase name="testInterpolateLinear" classname="org.apache.commons.math3.analysis.interpolation.LinearInterpolatorTest" time="0.0"/>
   <testcase name="testInterpolateLinearDegenerateThreeSegment" classname="org.apache.commons.math3.analysis.interpolation.LinearInterpolatorTest" time="0.0"/>

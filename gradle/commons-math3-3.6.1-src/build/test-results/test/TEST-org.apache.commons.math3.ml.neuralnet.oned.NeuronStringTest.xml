@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ml.neuralnet.oned.NeuronStringTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:27" hostname="DYLAN-DESKTOP" time="0.002">
+<testsuite name="org.apache.commons.math3.ml.neuralnet.oned.NeuronStringTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:30" hostname="DESKTOP-C0495IR" time="0.003">
   <properties/>
   <testcase name="testSegmentNetwork" classname="org.apache.commons.math3.ml.neuralnet.oned.NeuronStringTest" time="0.0"/>
   <testcase name="testCircleNetwork" classname="org.apache.commons.math3.ml.neuralnet.oned.NeuronStringTest" time="0.0"/>
   <testcase name="testSerialize" classname="org.apache.commons.math3.ml.neuralnet.oned.NeuronStringTest" time="0.002"/>
-  <testcase name="testGetNeighboursWithExclude" classname="org.apache.commons.math3.ml.neuralnet.oned.NeuronStringTest" time="0.0"/>
+  <testcase name="testGetNeighboursWithExclude" classname="org.apache.commons.math3.ml.neuralnet.oned.NeuronStringTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

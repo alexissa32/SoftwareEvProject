@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.random.RandomDataGeneratorTest" tests="48" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:16" hostname="DYLAN-DESKTOP" time="2.642">
+<testsuite name="org.apache.commons.math3.random.RandomDataGeneratorTest" tests="48" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:15:51" hostname="DESKTOP-C0495IR" time="4.058">
   <properties/>
-  <testcase name="testNextPascal" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
-  <testcase name="testNextSample" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
-  <testcase name="testNextLongNegativeRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.004"/>
+  <testcase name="testNextPascal" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.004"/>
+  <testcase name="testNextSample" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
+  <testcase name="testNextLongNegativeRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.007"/>
   <testcase name="testNextIntNegativeToPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
   <testcase name="testNextIntExtremeValues" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
-  <testcase name="testNextUniformExclusiveEndpoints" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
+  <testcase name="testNextUniformExclusiveEndpoints" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
   <testcase name="testNextGaussian" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
   <testcase name="testNextUniformExtremeValues" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
   <testcase name="testNextSecureLongIAE" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
-  <testcase name="testNextF" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.009"/>
-  <testcase name="testNextT" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.007"/>
+  <testcase name="testNextF" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.014"/>
+  <testcase name="testNextT" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.01"/>
   <testcase name="testNextSecureIntNegativeToPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.008"/>
-  <testcase name="testNextChiSquare" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.018"/>
-  <testcase name="testNextSecureHex" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.039"/>
-  <testcase name="testNextPoissonConsistency" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="1.978"/>
+  <testcase name="testNextChiSquare" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.019"/>
+  <testcase name="testNextSecureHex" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.032"/>
+  <testcase name="testNextPoissonConsistency" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="3.271"/>
   <testcase name="testNextHypergeometric" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
-  <testcase name="testNextSecureLongPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.003"/>
+  <testcase name="testNextSecureLongPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.004"/>
   <testcase name="testNextSecureIntPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.003"/>
   <testcase name="testNextLongNegativeToPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
-  <testcase name="testNextUniformUniformMaximalInterval" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
+  <testcase name="testNextUniformUniformMaximalInterval" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
   <testcase name="testNextLongExtremeValues" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
   <testcase name="testNextExponential" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
-  <testcase name="testNextSecureLongNegativeRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.004"/>
+  <testcase name="testNextSecureLongNegativeRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
   <testcase name="testNextSecureIntNegativeRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.003"/>
-  <testcase name="testNextPoisson" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.005"/>
+  <testcase name="testNextPoisson" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.006"/>
   <testcase name="testNextUniformUniformNegativeToPositiveBounds" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
   <testcase name="testNextPermutation" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
-  <testcase name="testNextIntPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
+  <testcase name="testNextIntPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.003"/>
   <testcase name="testNextSecureIntIAE" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
   <testcase name="testNextUniformIAE" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
-  <testcase name="testNextUniformUniformNegaiveBounds" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
-  <testcase name="testNextBinomial" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
+  <testcase name="testNextUniformUniformNegaiveBounds" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
+  <testcase name="testNextBinomial" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.003"/>
   <testcase name="testNextLongIAE" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
   <testcase name="testConfig" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
-  <testcase name="testNextIntWideRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.037"/>
-  <testcase name="testNextSecureLongNegativeToPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
+  <testcase name="testNextIntWideRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.049"/>
+  <testcase name="testNextSecureLongNegativeToPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.003"/>
   <testcase name="testNextIntNegativeRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
-  <testcase name="testNextHex" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.011"/>
-  <testcase name="testNextLongWideRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.483"/>
-  <testcase name="testNextLongPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.003"/>
+  <testcase name="testNextHex" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.015"/>
+  <testcase name="testNextLongWideRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.571"/>
+  <testcase name="testNextLongPositiveRange" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.006"/>
   <testcase name="testReseed" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
   <testcase name="testNextCauchy" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
-  <testcase name="testNextUniformUniformPositiveBounds" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
-  <testcase name="testNextGamma" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.002"/>
+  <testcase name="testNextUniformUniformPositiveBounds" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
+  <testcase name="testNextGamma" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.003"/>
   <testcase name="testNextWeibull" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
   <testcase name="testNextIntIAE" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
   <testcase name="testNextBeta" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
-  <testcase name="testNextZipf" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.0"/>
+  <testcase name="testNextZipf" classname="org.apache.commons.math3.random.RandomDataGeneratorTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

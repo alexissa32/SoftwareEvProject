@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.genetics.ListPopulationTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:18" hostname="DYLAN-DESKTOP" time="0.007">
+<testsuite name="org.apache.commons.math3.genetics.ListPopulationTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:16" hostname="DESKTOP-C0495IR" time="0.004">
   <properties/>
   <testcase name="testConstructorPopulationLimitNotPositive" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.0"/>
-  <testcase name="testSetPopulationLimit" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.001"/>
-  <testcase name="testGetFittestChromosome" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.001"/>
+  <testcase name="testSetPopulationLimit" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.0"/>
+  <testcase name="testGetFittestChromosome" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.0"/>
   <testcase name="testChromosomeListConstructorPopulationLimitNotPositive" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.001"/>
   <testcase name="testAddTooManyChromosomesSingleCall" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.0"/>
-  <testcase name="testChromosomes" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.002"/>
+  <testcase name="testChromosomes" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.001"/>
   <testcase name="testAddTooManyChromosomes" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.0"/>
   <testcase name="testSetPopulationLimitTooSmall" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.0"/>
-  <testcase name="testIterator" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.001"/>
+  <testcase name="testIterator" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.0"/>
   <testcase name="testConstructorListOfChromosomesBiggerThanPopulationSize" classname="org.apache.commons.math3.genetics.ListPopulationTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

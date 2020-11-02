@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ode.nonstiff.DormandPrince54StepInterpolatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:29" hostname="DYLAN-DESKTOP" time="0.016">
+<testsuite name="org.apache.commons.math3.ode.nonstiff.DormandPrince54StepInterpolatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:32" hostname="DESKTOP-C0495IR" time="0.012">
   <properties/>
   <testcase name="derivativesConsistency" classname="org.apache.commons.math3.ode.nonstiff.DormandPrince54StepInterpolatorTest" time="0.002"/>
-  <testcase name="checkClone" classname="org.apache.commons.math3.ode.nonstiff.DormandPrince54StepInterpolatorTest" time="0.007"/>
+  <testcase name="checkClone" classname="org.apache.commons.math3.ode.nonstiff.DormandPrince54StepInterpolatorTest" time="0.003"/>
   <testcase name="serialization" classname="org.apache.commons.math3.ode.nonstiff.DormandPrince54StepInterpolatorTest" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
