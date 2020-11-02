@@ -11,6 +11,10 @@ Once we have these representative codebases being built using all possible tools
 
 After struggling with a few different things, we are slighlty narrowing the focus of our project. We will not be using the Tensorflow repository as a test for Bazel, Gradle, or Maven, as it is such a large repository, we are struggling to build it on our computers and keep having errors [7]. We are unable to build Maven with Gradle or build Gradle with Gradle or Maven (there is no documentation on how to build Gradle from source). As a result, we are pivoting to using Apache Math, Guava, and our own code base to test Maven, Gradle, and Bazel. From there, we will still analyze the tools on build time, CPU usage, and memory usage, and we still intend on visually depicting each repository's dependency tree. A more detailed update on where we are at is in the PowerPoint slides committed in the repository.
 
+The primary changes that were required to be made to the Bazel builds involved dependencies. It appears (although I'm not certain) that maven builds implicitly kept track of dependencies somehow, whereas Bazel builds required dependencies to be explicitly declared so that they would be packaged with the final product jarfile. This resulted in larger and slower builds for the time being. However, we have yet to take advantage of Bazel's strengths by creating BUILD files across the project to take advantage of the large amount of granularity it can achieve.
+
+The gradle init command did not work perfectly with Guava, since the source directory structure did not conform to the default '/src/main/java' which required manually fixing each build.gradle file according to [8]. In addition, there was an issue with Javadoc generation, but since that is not the main focus of our project, I opted to ignore Javadoc creation so as not to waste more time solving that issue. With this update, we successfully build the Commons-Math and core Guava jarfiles with Maven, Gradle, and Bazel.
+
 #### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
 ##### Commons Math (built from scratch using mvn package)
   maven/commons-math3-3.6.1-src/target
@@ -86,3 +90,4 @@ We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each 
 5. https://github.com/tensorflow/tensorflow/tree/master/tensorflow/java
 6. http://maven.apache.org/plugins/maven-dependency-plugin/tree-mojo.html 
 7. https://www.tensorflow.org/install/source_windows
+8. https://docs.gradle.org/current/userguide/building_java_projects.html#sec:java_source_sets
