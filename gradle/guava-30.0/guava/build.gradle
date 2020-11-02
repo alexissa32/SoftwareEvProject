@@ -16,3 +16,11 @@ description = 'Guava: Google Core Libraries for Java'
 java {
     withJavadocJar()
 }
+
+sourceSets {
+    main {
+         java {
+            srcDirs = ['src']
+         }
+    }
+}

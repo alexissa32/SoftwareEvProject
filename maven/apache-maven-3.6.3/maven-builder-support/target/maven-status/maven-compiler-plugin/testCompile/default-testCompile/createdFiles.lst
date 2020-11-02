@@ -1,6 +1,0 @@
-org\apache\maven\building\StringSourceTest.class
-org\apache\maven\building\FileSourceTest.class
-org\apache\maven\building\ProblemCollectorFactoryTest.class
-org\apache\maven\building\DefaultProblemCollectorTest.class
-org\apache\maven\building\UrlSourceTest.class
-org\apache\maven\building\DefaultProblemTest.class

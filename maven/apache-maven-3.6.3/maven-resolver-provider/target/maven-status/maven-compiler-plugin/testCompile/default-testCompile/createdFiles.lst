@@ -1,9 +1,0 @@
-org\apache\maven\repository\internal\DefaultArtifactDescriptorReaderTest.class
-org\apache\maven\repository\internal\RemoteSnapshotMetadataTest.class
-org\apache\maven\repository\internal\util\ConsoleTransferListener.class
-org\apache\maven\repository\internal\AbstractRepositoryTestCase.class
-org\apache\maven\repository\internal\DefaultVersionResolverTest.class
-org\apache\maven\repository\internal\RepositorySystemTest.class
-org\apache\maven\repository\internal\util\ConsoleRepositoryListener.class
-org\apache\maven\repository\internal\MavenRepositorySystemUtilsTest.class
-org\apache\maven\repository\internal\DefaultModelResolverTest.class

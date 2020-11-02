@@ -24,3 +24,17 @@ publishing.publications.maven.artifact(testsJar)
 java {
     withJavadocJar()
 }
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+    }
+    
+    test {
+        java {
+            srcDirs = ['test']
+        }
+    }
+}
