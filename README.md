@@ -32,17 +32,30 @@ The gradle init command did not work perfectly with Guava, since the source dire
 ##### Guava
   gradle init\
   remove line "system 'jdk:srczip:999'" from gradle/guava-30.0/guava/build.gradle\
+  follow [8] to account for the source and test locations\
+  cd guava\
   gradle build\
   success!\
-  gradle/guava-30.0/guava/build
+  gradle/guava-30.0/guava/build/libs
 ##### TBD
   TODO
 
 #### Bazel Builds:
 ##### Commons Math
-  TODO
+  create BUILD and WORKSPACE files according to [1]\
+  bazel build, find errors\
+  look up package in maven repo\
+  add to BUILD and WORKSPACE\
+  solve for dependency issues until done\
+  bazel\commons-math3-3.6.1-src\bazel-out\x64_windows-fastbuild\bin
 ##### Guava
-  TODO
+  create BUILD and WORKSPACE files according to [1]\
+    bazel build, find errors\
+  look up package in maven repo\
+  add to BUILD and WORKSPACE\
+  solve for dependency issues until done\
+  bazel\guava-30.0\bazel-out\x64_windows-fastbuild\bin
+  
 ##### TBD
   TODO
 
