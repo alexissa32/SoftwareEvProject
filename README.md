@@ -24,7 +24,7 @@ After struggling with a few different things, we are slighlty narrowing the focu
   gradle init\
   gradle build\
   success!\
-  gradle/commons-math3-3.6.1-src/build/lib
+  gradle/commons-math3-3.6.1-src/build/libs
 ##### Guava
   gradle init\
   remove line "system 'jdk:srczip:999'" from gradle/guava-30.0/guava/build.gradle\
