@@ -1,0 +1,7 @@
+--classpath
+external/maven/v1/https/repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.jar
+external/maven/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar
+external/maven/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar
+external/maven/v1/https/repo1.maven.org/maven2/org/piccolo2d/piccolo2d-core/3.0.1/piccolo2d-core-3.0.1.jar
+external/maven/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar
+external/maven/v1/https/repo1.maven.org/maven2/com/xeiam/xchart/xchart/2.5.1/xchart-2.5.1.jar

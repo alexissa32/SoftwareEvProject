@@ -1,0 +1,1 @@
+workspace(name = "remotejdk11_win")

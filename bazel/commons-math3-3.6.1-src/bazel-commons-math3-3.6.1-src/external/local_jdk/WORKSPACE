@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for local_java_repository
+workspace(name = "local_jdk")

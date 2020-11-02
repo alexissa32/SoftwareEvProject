@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for coursier_fetch rule
+workspace(name = "maven")

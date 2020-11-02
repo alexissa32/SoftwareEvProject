@@ -1,0 +1,179 @@
+src\main\java\org\apache\commons\math3\util\FastMath.java:402: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+      if (x != x) {
+            ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:472: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+      if (x != x) {
+            ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:598: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+      if (x != x) {
+            ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:1008: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+        if (x != x || x == 0.0) { // NaN or zero
+              ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:1172: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+        if (((bits & 0x8000000000000000L) != 0 || x != x) && x != 0.0) {
+                                                    ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:2343: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(xa)`.
+        if (xa != xa || xa == Double.POSITIVE_INFINITY) {
+               ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:2397: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(xa)`.
+        if (xa != xa || xa == Double.POSITIVE_INFINITY) {
+               ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:2462: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(xa)`.
+        if (xa != xa || xa == Double.POSITIVE_INFINITY) {
+               ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:2682: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+        if (x != x || y != y) {
+              ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:2682: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(y)`.
+        if (x != x || y != y) {
+                        ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:2803: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+      if (x != x) {
+            ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:2879: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+      if (x != x) {
+            ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:3439: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+        if (x != x) { // NaN
+              ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMath.java:3466: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+        if (x != x) { // NaN
+              ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMathCalc.java:414: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(result[1])`.
+        if (result[1] != result[1]) { // can happen if result[1] is NAN
+                      ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\FastMathCalc.java:638: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(d)`.
+        if (d != d) {
+              ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:163: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Float.isNaN(x)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, 1);
+                  ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:163: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Float.isNaN(y)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, 1);
+                            ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:163: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Float.isNaN(x)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, 1);
+                                        ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:163: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Float.isNaN(y)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, 1);
+                                                 ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:260: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Float.isNaN(x)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, maxUlps);
+                  ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:260: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Float.isNaN(y)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, maxUlps);
+                            ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:260: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Float.isNaN(x)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, maxUlps);
+                                        ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:260: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Float.isNaN(y)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, maxUlps);
+                                                 ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:285: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, 1);
+                  ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:285: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(y)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, 1);
+                            ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:285: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, 1);
+                                        ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:285: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(y)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, 1);
+                                                 ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:410: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, maxUlps);
+                  ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:410: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(y)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, maxUlps);
+                            ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:410: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(x)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, maxUlps);
+                                        ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\main\java\org\apache\commons\math3\util\Precision.java:410: warning: [IdentityBinaryExpression] A binary expression where both operands are the same is usually incorrect; the value of this expression is equivalent to `Double.isNaN(y)`.
+        return (x != x || y != y) ? !(x != x ^ y != y) : equals(x, y, maxUlps);
+                                                 ^
+    (see https://errorprone.info/bugpattern/IdentityBinaryExpression)
+src\test\java\org\apache\commons\math3\analysis\interpolation\TricubicInterpolatorTest.java:87: warning: [JUnit4TestNotRun] This looks like a test method but is not run; please add @Test and @Ignore, or, if this is a helper method, reduce its visibility.
+    public void testIsValid() {
+                ^
+    (see https://errorprone.info/bugpattern/JUnit4TestNotRun)
+  Did you mean '@Test public void testIsValid() {' or '@Test @Ignore public void testIsValid() {' or 'private void testIsValid() {'?
+src\test\java\org\apache\commons\math3\fraction\BigFractionTest.java:192: warning: [SelfComparison] An object is compared to itself
+        Assert.assertEquals(0, first.compareTo(first));
+                                              ^
+    (see https://errorprone.info/bugpattern/SelfComparison)
+src\test\java\org\apache\commons\math3\fraction\FractionTest.java:173: warning: [SelfComparison] An object is compared to itself
+        Assert.assertEquals(0, first.compareTo(first));
+                                              ^
+    (see https://errorprone.info/bugpattern/SelfComparison)
+src\test\java\org\apache\commons\math3\linear\SingularValueDecompositionTest.java:172: warning: [JUnit4TestNotRun] This looks like a test method but is not run; please add @Test and @Ignore, or, if this is a helper method, reduce its visibility.
+    public void testMatricesValues1() {
+                ^
+    (see https://errorprone.info/bugpattern/JUnit4TestNotRun)
+  Did you mean '@Test public void testMatricesValues1() {' or '@Test @Ignore public void testMatricesValues1() {' or 'private void testMatricesValues1() {'?
+src\test\java\org\apache\commons\math3\linear\SingularValueDecompositionTest.java:206: warning: [JUnit4TestNotRun] This looks like a test method but is not run; please add @Test and @Ignore, or, if this is a helper method, reduce its visibility.
+    public void useless_testMatricesValues2() {
+                ^
+    (see https://errorprone.info/bugpattern/JUnit4TestNotRun)
+  Did you mean '@Test public void useless_testMatricesValues2() {' or '@Test @Ignore public void useless_testMatricesValues2() {' or 'private void useless_testMatricesValues2() {'?
+src\test\java\org\apache\commons\math3\stat\inference\KolmogorovSmirnovTestTest.java:364: warning: [JUnit4TestNotRun] This looks like a test method but is not run; please add @Test and @Ignore, or, if this is a helper method, reduce its visibility.
+    public void testTwoSampleMonteCarloPerformance() {
+                ^
+    (see https://errorprone.info/bugpattern/JUnit4TestNotRun)
+  Did you mean '@Test public void testTwoSampleMonteCarloPerformance() {' or '@Test @Ignore public void testTwoSampleMonteCarloPerformance() {' or 'private void testTwoSampleMonteCarloPerformance() {'?
+src\test\java\org\apache\commons\math3\stat\inference\KolmogorovSmirnovTestTest.java:141: warning: [JUnit4TestNotRun] This looks like a test method but is not run; please add @Test and @Ignore, or, if this is a helper method, reduce its visibility.
+    public void testOneSampleUniformUniform() {
+                ^
+    (see https://errorprone.info/bugpattern/JUnit4TestNotRun)
+  Did you mean '@Test public void testOneSampleUniformUniform() {' or '@Test @Ignore public void testOneSampleUniformUniform() {' or 'private void testOneSampleUniformUniform() {'?
+src\test\java\org\apache\commons\math3\stat\inference\KolmogorovSmirnovTestTest.java:309: warning: [ConstantOverflow] Compile-time constant expression overflows
+        Assert.assertTrue(n * n < 0);
+                                ^
+    (see https://errorprone.info/bugpattern/ConstantOverflow)
+src\test\java\org\apache\commons\math3\stat\regression\MillerUpdatingRegressionTest.java:559: warning: [JUnit4TestNotRun] This looks like a test method but is not run; please add @Test and @Ignore, or, if this is a helper method, reduce its visibility.
+    public void testWampler4() {
+                ^
+    (see https://errorprone.info/bugpattern/JUnit4TestNotRun)
+  Did you mean '@Test public void testWampler4() {' or '@Test @Ignore public void testWampler4() {' or 'private void testWampler4() {'?
+src\test\java\org\apache\commons\math3\util\BigRealTest.java:80: warning: [SelfComparison] An object is compared to itself
+        Assert.assertEquals(0, first.compareTo(first));
+                                              ^
+    (see https://errorprone.info/bugpattern/SelfComparison)
+src\test\java\org\apache\commons\math3\util\MathArraysTest.java:1268: warning: [JUnit4TestNotRun] This looks like a test method but is not run; please add @Test and @Ignore, or, if this is a helper method, reduce its visibility.
+    public void testConcatenateEmptyArguments() {
+                ^
+    (see https://errorprone.info/bugpattern/JUnit4TestNotRun)
+  Did you mean '@Test public void testConcatenateEmptyArguments() {' or '@Test @Ignore public void testConcatenateEmptyArguments() {' or 'private void testConcatenateEmptyArguments() {'?
