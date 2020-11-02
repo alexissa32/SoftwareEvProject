@@ -15,6 +15,8 @@ The primary changes that were required to be made to the Bazel builds involved d
 
 The gradle init command did not work perfectly with Guava, since the source directory structure did not conform to the default '/src/main/java' which required manually fixing each build.gradle file according to [8]. In addition, there was an issue with Javadoc generation, but since that is not the main focus of our project, I opted to ignore Javadoc creation so as not to waste more time solving that issue. With this update, we successfully build the Commons-Math and core Guava jarfiles with Maven, Gradle, and Bazel.
 
+Other things to note were that we have found different options for Python scripts that should enable us to easily track the CPU/memory usage each time we build something, and our time to completion is provided by all three build tools [9]. Last, we are able to create dependency trees using any of the three tools [10, 11, 12].
+
 #### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
 ##### Commons Math (built from scratch using mvn package)
   maven/commons-math3-3.6.1-src/target
@@ -61,7 +63,7 @@ The gradle init command did not work perfectly with Guava, since the source dire
 
 ### 10/13 Update
 
-We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each of these codebases with Maven, then installed Gradle, and performed automatic conversion using the Gradle init tool [4]. We are using Java 1.8, Maven 3.6, and Gradle 6.6.1 for these tasks. We plan next to play around with Bazel and convert the Commons Math library first, since it is the smallest and likely easiest to get started with.
+We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each of these codebases with Maven, then installed Gradle, and performed automatic conversion using the Gradle init tool [4]. We are using Java 1.8, Maven 3.6, Gradle 6.6.1, and Bazel 3.7.0 for these tasks. We plan next to play around with Bazel and convert the Commons Math library first, since it is the smallest and likely easiest to get started with.
 
 #### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
 ##### Maven (built from scratch using mvn package)
@@ -104,3 +106,7 @@ We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each 
 6. http://maven.apache.org/plugins/maven-dependency-plugin/tree-mojo.html 
 7. https://www.tensorflow.org/install/source_windows
 8. https://docs.gradle.org/current/userguide/building_java_projects.html#sec:java_source_sets
+9. https://unix.stackexchange.com/questions/554/how-to-monitor-cpu-memory-usage-of-a-single-process
+10. https://stackoverflow.com/questions/3342908/how-to-get-a-dependency-tree-for-an-artifact
+11. https://stackoverflow.com/questions/21645071/using-gradle-to-find-dependency-tree
+12. https://blog.bazel.build/2015/06/17/visualize-your-build.html
