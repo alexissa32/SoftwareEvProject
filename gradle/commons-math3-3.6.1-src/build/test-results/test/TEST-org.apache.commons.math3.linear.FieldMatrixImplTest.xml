@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.linear.FieldMatrixImplTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:26" hostname="DYLAN-DESKTOP" time="0.024">
+<testsuite name="org.apache.commons.math3.linear.FieldMatrixImplTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:29" hostname="DESKTOP-C0495IR" time="0.027">
   <properties/>
   <testcase name="testOperate" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testExamples" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
@@ -7,19 +7,19 @@
   <testcase name="testAddFail" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testAdd" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testScalarAdd" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
-  <testcase name="testPower" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.001"/>
-  <testcase name="testTrace" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
-  <testcase name="testWalk" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.016"/>
+  <testcase name="testPower" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
+  <testcase name="testTrace" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.001"/>
+  <testcase name="testWalk" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.02"/>
   <testcase name="testToString" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testSetRowMatrix" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testPlusMinus" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testSetRowVector" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testMultiply2" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
-  <testcase name="testDimensions" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
+  <testcase name="testDimensions" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.001"/>
   <testcase name="testCopySubMatrix" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testPremultiplyVector" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testCopyFunctions" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
-  <testcase name="testGetSubMatrix" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
+  <testcase name="testGetSubMatrix" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.001"/>
   <testcase name="testMath209" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testGetVectors" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testSetColumn" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
@@ -35,8 +35,8 @@
   <testcase name="testSetColumnMatrix" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testPremultiply" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testGetRowMatrix" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
-  <testcase name="testSetColumnVector" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
-  <testcase name="testSetSubMatrix" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.001"/>
+  <testcase name="testSetColumnVector" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.001"/>
+  <testcase name="testSetSubMatrix" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <testcase name="testGetRowVector" classname="org.apache.commons.math3.linear.FieldMatrixImplTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

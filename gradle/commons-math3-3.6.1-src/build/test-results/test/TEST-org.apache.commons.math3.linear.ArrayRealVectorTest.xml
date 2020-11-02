@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.linear.ArrayRealVectorTest" tests="108" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:25" hostname="DYLAN-DESKTOP" time="0.098">
+<testsuite name="org.apache.commons.math3.linear.ArrayRealVectorTest" tests="108" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:28" hostname="DESKTOP-C0495IR" time="0.07">
   <properties/>
-  <testcase name="testZeroVectors" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
-  <testcase name="testConstructors" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
+  <testcase name="testZeroVectors" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
+  <testcase name="testConstructors" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
   <testcase name="testPredicates" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetDataRef" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testAddMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.003"/>
+  <testcase name="testAddMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.002"/>
   <testcase name="testProjectionSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testWalkInOptimizedOrderChangingVisitor1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
-  <testcase name="testWalkInOptimizedOrderChangingVisitor2" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testWalkInOptimizedOrderChangingVisitor1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
+  <testcase name="testWalkInOptimizedOrderChangingVisitor2" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testWalkInOptimizedOrderChangingVisitor3" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testAppendScalar" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testAppendScalar" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testOuterProductMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testEbeDivideDimensionMismatch" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testAppendVector" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
@@ -19,8 +19,8 @@
   <testcase name="testEbeMultiplyDimensionMismatch" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testUnitizeNullVector" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testToArray" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testSubtractSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testMap" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.011"/>
+  <testcase name="testSubtractSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testMap" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.005"/>
   <testcase name="testSet" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testOuterProductSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
   <testcase name="testIsInfinite" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
@@ -31,20 +31,20 @@
   <testcase name="testCombineDimensionMismatchMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testMapDivideToSelf" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testIsNaN" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testMapMultiplyToSelf" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testMapMultiplyToSelf" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testWalkInDefaultOrderChangingVisitor1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
   <testcase name="testWalkInDefaultOrderChangingVisitor2" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testWalkInDefaultOrderChangingVisitor3" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testWalkInDefaultOrderChangingVisitor3" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testCopy" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testSetEntryInvalidIndex1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
+  <testcase name="testSetEntryInvalidIndex1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
   <testcase name="testSetEntryInvalidIndex2" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testSubtractMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testSubtractMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testCosineLeftNullVector" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testCombineDimensionMismatchSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
+  <testcase name="testCombineDimensionMismatchSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.002"/>
   <testcase name="testGetL1DistanceDimensionMismatch" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testEbeDivideMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testCosineMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
-  <testcase name="testDotProductSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
+  <testcase name="testCosineMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
+  <testcase name="testDotProductSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
   <testcase name="testEbeMultiplyMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testMapMultiply" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testUnitize" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
@@ -52,23 +52,23 @@
   <testcase name="testDotProductDimensionMismatchMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testCosineRightNullVector" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testCombineToSelfDimensionMismatchMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testEbeDivideSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
+  <testcase name="testEbeDivideSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
   <testcase name="testCosineSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testMapSubtractToSelf" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testMapSubtractToSelf" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testProjectionMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetDimension" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testCombineToSelfSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.015"/>
+  <testcase name="testCombineToSelfSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.012"/>
   <testcase name="testGetLInfNorm" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testEbeMultiplySameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
   <testcase name="testAddToEntry" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetDistanceDimensionMismatch" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testAddSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetDistanceSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testCombineToSelfMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.015"/>
+  <testcase name="testCombineToSelfMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.009"/>
   <testcase name="testGetL1DistanceSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetEntryInvalidIndex1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetEntryInvalidIndex2" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testCombineSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.013"/>
+  <testcase name="testCombineSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.007"/>
   <testcase name="testProjectionDimensionMismatch" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetSubVector" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetLInfDistanceDimensionMismatch" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
@@ -88,22 +88,22 @@
   <testcase name="testDotProductDimensionMismatchSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetDistanceMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testMapAdd" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testMinMax" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testMinMax" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testUnitVector" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testProjectionNullVector" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testMapToSelf" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testWalkInDefaultOrderPreservingVisitor1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.002"/>
+  <testcase name="testMapToSelf" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testWalkInDefaultOrderPreservingVisitor1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testWalkInDefaultOrderPreservingVisitor2" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
-  <testcase name="testWalkInDefaultOrderPreservingVisitor3" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testWalkInDefaultOrderPreservingVisitor3" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testSubtractDimensionMismatch" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testCombineToSelfDimensionMismatchSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testWalkInOptimizedOrderPreservingVisitor1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testCombineToSelfDimensionMismatchSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testWalkInOptimizedOrderPreservingVisitor1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testWalkInOptimizedOrderPreservingVisitor2" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testWalkInOptimizedOrderPreservingVisitor3" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
   <testcase name="testSetSubVectorSameType" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testSerial" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
+  <testcase name="testSerial" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetL1DistanceMixedTypes" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
-  <testcase name="testIterator" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
+  <testcase name="testIterator" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.001"/>
   <testcase name="testSetEntry" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetSubVectorInvalidIndex1" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>
   <testcase name="testGetSubVectorInvalidIndex2" classname="org.apache.commons.math3.linear.ArrayRealVectorTest" time="0.0"/>

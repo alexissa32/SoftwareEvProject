@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:09" hostname="DYLAN-DESKTOP" time="0.022">
+<testsuite name="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:01" hostname="DESKTOP-C0495IR" time="0.014">
   <properties/>
-  <testcase name="testIncreasingBandwidthIncreasesSmoothness" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.017"/>
+  <testcase name="testIncreasingBandwidthIncreasesSmoothness" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.009"/>
   <testcase name="testOnStraightLine" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <testcase name="testInsufficientBandwidth" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <testcase name="testNotAllFiniteReal1" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.001"/>
@@ -10,15 +10,15 @@
   <testcase name="testNotAllFiniteReal4" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <testcase name="testNotAllFiniteReal5" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <testcase name="testNotAllFiniteReal6" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
-  <testcase name="testOnTwoPoints" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
+  <testcase name="testOnTwoPoints" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.001"/>
   <testcase name="testEmptyData" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
-  <testcase name="testNonStrictlyIncreasing1" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.001"/>
+  <testcase name="testNonStrictlyIncreasing1" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <testcase name="testNonStrictlyIncreasing2" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <testcase name="testOnOnePoint" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <testcase name="testCompletelyIncorrectBandwidth1" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
-  <testcase name="testCompletelyIncorrectBandwidth2" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.001"/>
-  <testcase name="testIncreasingRobustnessItersIncreasesSmoothnessWithOutliers" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.001"/>
-  <testcase name="testOnDistortedSine" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.001"/>
+  <testcase name="testCompletelyIncorrectBandwidth2" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
+  <testcase name="testIncreasingRobustnessItersIncreasesSmoothnessWithOutliers" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
+  <testcase name="testOnDistortedSine" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <testcase name="testUnequalSizeArguments" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <testcase name="testMath296withoutWeights" classname="org.apache.commons.math3.analysis.interpolation.LoessInterpolatorTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

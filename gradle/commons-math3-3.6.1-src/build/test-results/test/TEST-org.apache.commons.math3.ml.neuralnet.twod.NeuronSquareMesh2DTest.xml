@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:27" hostname="DYLAN-DESKTOP" time="0.006">
+<testsuite name="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:30" hostname="DESKTOP-C0495IR" time="0.005">
   <properties/>
   <testcase name="test3x3TorusNetwork" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
-  <testcase name="testConcentricNeighbourhood" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
+  <testcase name="testConcentricNeighbourhood" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.001"/>
   <testcase name="testGetFeaturesSize" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
   <testcase name="test2x2Network" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
-  <testcase name="test3x2CylinderNetwork2" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.001"/>
-  <testcase name="testSerialize" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.003"/>
+  <testcase name="test3x2CylinderNetwork2" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
+  <testcase name="testSerialize" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.002"/>
   <testcase name="test3x3CylinderNetwork" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
   <testcase name="test3x2CylinderNetwork" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
   <testcase name="testConcentricNeighbourhood2" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
-  <testcase name="testGetNeuron" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.001"/>
+  <testcase name="testGetNeuron" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
   <testcase name="test3x3CylinderNetwork2" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
   <testcase name="test2x2Network2" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>
   <testcase name="testGetNeuronAlongDirection" classname="org.apache.commons.math3.ml.neuralnet.twod.NeuronSquareMesh2DTest" time="0.0"/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:19" hostname="DYLAN-DESKTOP" time="0.005">
+<testsuite name="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:17" hostname="DESKTOP-C0495IR" time="0.005">
   <properties/>
   <testcase name="testConstructorSingleFormat" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
-  <testcase name="testParseSimpleWithDecimals" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.002"/>
+  <testcase name="testParseSimpleWithDecimals" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.001"/>
   <testcase name="testParseZeroX" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
   <testcase name="testNan" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
   <testcase name="testSimpleWithDecimalsTrunc" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
-  <testcase name="testParseNegativeX" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
+  <testcase name="testParseNegativeX" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.001"/>
   <testcase name="testParseNegativeY" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
   <testcase name="testParseNegativeZ" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
   <testcase name="testParseNegativeAll" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
@@ -23,7 +23,7 @@
   <testcase name="testParseSimpleNoDecimals" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
   <testcase name="testPositiveInfinity" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
   <testcase name="testParseNonDefaultSetting" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
-  <testcase name="testParseNan" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.001"/>
+  <testcase name="testParseNan" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
   <testcase name="testParsePositiveInfinity" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
   <testcase name="testSimpleWithDecimals" classname="org.apache.commons.math3.geometry.euclidean.oned.FrenchVector1DFormatTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

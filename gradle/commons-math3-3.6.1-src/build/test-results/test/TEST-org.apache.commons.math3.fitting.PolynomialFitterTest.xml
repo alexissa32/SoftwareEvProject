@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.fitting.PolynomialFitterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:14" hostname="DYLAN-DESKTOP" time="0.864">
+<testsuite name="org.apache.commons.math3.fitting.PolynomialFitterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:11" hostname="DESKTOP-C0495IR" time="1.726">
   <properties/>
-  <testcase name="testFit" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.0"/>
-  <testcase name="testMath798WithToleranceTooLowButNoException" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.084"/>
-  <testcase name="testMath798WithToleranceTooLow" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.067"/>
+  <testcase name="testFit" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.001"/>
+  <testcase name="testMath798WithToleranceTooLowButNoException" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.093"/>
+  <testcase name="testMath798WithToleranceTooLow" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.083"/>
   <testcase name="testMath798" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.0"/>
   <testcase name="testSmallError" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.004"/>
-  <testcase name="testRedundantSolvable" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.004"/>
-  <testcase name="testNoError" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.003"/>
-  <testcase name="testLargeSample" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.7"/>
+  <testcase name="testRedundantSolvable" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.003"/>
+  <testcase name="testNoError" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.001"/>
+  <testcase name="testLargeSample" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="1.538"/>
   <testcase name="testRedundantUnsolvable" classname="org.apache.commons.math3.fitting.PolynomialFitterTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

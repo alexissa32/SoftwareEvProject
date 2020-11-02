@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:43:04" hostname="DYLAN-DESKTOP" time="0.037">
+<testsuite name="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:17:13" hostname="DESKTOP-C0495IR" time="0.038">
   <properties/>
   <testcase name="testPutAbsentOnExisting" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.005"/>
-  <testcase name="testPutKeysWithCollision2" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.0"/>
+  <testcase name="testPutKeysWithCollision2" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.001"/>
   <testcase name="testPutKeysWithCollisions" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.001"/>
   <testcase name="testCopy" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.002"/>
-  <testcase name="testContainsKey" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.004"/>
-  <testcase name="testRemoveAbsent" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.003"/>
+  <testcase name="testContainsKey" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.007"/>
+  <testcase name="testRemoveAbsent" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.002"/>
   <testcase name="testPutAndGet" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.002"/>
   <testcase name="testPutAndGetWith0ExpectedSize" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.002"/>
-  <testcase name="testRemove2" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.003"/>
-  <testcase name="testConcurrentModification" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.001"/>
-  <testcase name="testGetAbsent" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.002"/>
+  <testcase name="testRemove2" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.002"/>
+  <testcase name="testConcurrentModification" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.0"/>
+  <testcase name="testGetAbsent" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.001"/>
   <testcase name="testGetFromEmpty" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.001"/>
-  <testcase name="testPutOnExisting" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.002"/>
-  <testcase name="testRemove" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.004"/>
+  <testcase name="testPutOnExisting" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.001"/>
+  <testcase name="testRemove" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.002"/>
   <testcase name="testIterator" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.003"/>
-  <testcase name="testPutAndGetWithExpectedSize" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.002"/>
-  <testcase name="testRemoveFromEmpty" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.0"/>
+  <testcase name="testPutAndGetWithExpectedSize" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.001"/>
+  <testcase name="testRemoveFromEmpty" classname="org.apache.commons.math3.util.OpenIntToDoubleHashMapTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.util.MathArraysTest" tests="64" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:43:04" hostname="DYLAN-DESKTOP" time="0.011">
+<testsuite name="org.apache.commons.math3.util.MathArraysTest" tests="64" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:17:13" hostname="DESKTOP-C0495IR" time="0.014">
   <properties/>
   <testcase name="testCopyOfInt" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
-  <testcase name="testCopyOfDouble2" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
+  <testcase name="testCopyOfDouble2" classname="org.apache.commons.math3.util.MathArraysTest" time="0.001"/>
   <testcase name="testCopyOfDouble3" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testSortInPlace" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testCopyOfInt2" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
@@ -35,16 +35,16 @@
   <testcase name="testL2DistanceDouble" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testConvolve" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testLInfDistanceInt" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
-  <testcase name="testConcatenate" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
+  <testcase name="testConcatenate" classname="org.apache.commons.math3.util.MathArraysTest" time="0.001"/>
   <testcase name="testLinearCombinationInfinite" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testCheckNonNegative2D" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testSortInPlaceExample" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testEbeAddPrecondition" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testLinearCombination1" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
-  <testcase name="testLinearCombination2" classname="org.apache.commons.math3.util.MathArraysTest" time="0.007"/>
+  <testcase name="testLinearCombination2" classname="org.apache.commons.math3.util.MathArraysTest" time="0.006"/>
   <testcase name="testEbeSubtract" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testEbeDividePrecondition" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
-  <testcase name="testCheckPositive" classname="org.apache.commons.math3.util.MathArraysTest" time="0.001"/>
+  <testcase name="testCheckPositive" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testScaleInPlace" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testVerifyValuesPositive" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>
   <testcase name="testUniqueNullArgument" classname="org.apache.commons.math3.util.MathArraysTest" time="0.0"/>

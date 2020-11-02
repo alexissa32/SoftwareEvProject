@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:24" hostname="DYLAN-DESKTOP" time="0.001">
+<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:27" hostname="DESKTOP-C0495IR" time="0.001">
   <properties/>
   <testcase name="testIntersection2" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
   <testcase name="testIntersection3" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
   <testcase name="testPoint" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
   <testcase name="testThreePoints" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
   <testcase name="testContains" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
-  <testcase name="testIntersection" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.001"/>
+  <testcase name="testIntersection" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
   <testcase name="testOffset" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
-  <testcase name="testRotate" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
+  <testcase name="testRotate" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.001"/>
   <testcase name="testSimilar" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
   <testcase name="testTranslate" classname="org.apache.commons.math3.geometry.euclidean.threed.PlaneTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

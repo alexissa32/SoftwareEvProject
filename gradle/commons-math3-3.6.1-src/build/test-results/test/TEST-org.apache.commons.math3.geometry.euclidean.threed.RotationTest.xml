@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:24" hostname="DYLAN-DESKTOP" time="0.161">
+<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:27" hostname="DESKTOP-C0495IR" time="0.195">
   <properties/>
   <testcase name="testAxisAngleFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <testcase name="testComposeInverseVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.001"/>
   <testcase name="testGithubPullRequest22A" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <testcase name="testGithubPullRequest22B" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
-  <testcase name="testComposeInverseFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.001"/>
+  <testcase name="testComposeInverseFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <testcase name="testArray" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.001"/>
   <testcase name="testApplyTo" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <testcase name="testVectorTwoPairs" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
@@ -17,14 +17,14 @@
   <testcase name="testAxisAngleDeprecated" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <testcase name="testComposeFrameTransform" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <testcase name="testIdentity" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
-  <testcase name="testApplyInverseTo" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.002"/>
-  <testcase name="testAngles" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.106"/>
+  <testcase name="testApplyInverseTo" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.001"/>
+  <testcase name="testAngles" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.133"/>
   <testcase name="testVectorOnePair" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <testcase name="testIssue639" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <testcase name="testIssue801" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
-  <testcase name="testAnglesDeprecated" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.044"/>
+  <testcase name="testAnglesDeprecated" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.054"/>
   <testcase name="testMatrix" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
-  <testcase name="testAxisAngleVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.001"/>
+  <testcase name="testAxisAngleVectorOperator" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <testcase name="testSingularities" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.001"/>
   <testcase name="testQuaternion" classname="org.apache.commons.math3.geometry.euclidean.threed.RotationTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

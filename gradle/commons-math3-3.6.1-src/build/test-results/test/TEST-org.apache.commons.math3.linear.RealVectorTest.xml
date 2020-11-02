@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.linear.RealVectorTest" tests="105" skipped="24" failures="0" errors="0" timestamp="2020-10-17T21:41:26" hostname="DYLAN-DESKTOP" time="0.076">
+<testsuite name="org.apache.commons.math3.linear.RealVectorTest" tests="105" skipped="24" failures="0" errors="0" timestamp="2020-11-02T01:14:29" hostname="DESKTOP-C0495IR" time="0.051">
   <properties/>
   <testcase name="testAppendScalar" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0">
     <skipped/>
@@ -78,19 +78,19 @@
   <testcase name="testProjectionSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testWalkInOptimizedOrderChangingVisitor1" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testWalkInOptimizedOrderChangingVisitor2" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testWalkInOptimizedOrderChangingVisitor3" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testOuterProductMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
-  <testcase name="testCombineMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.014"/>
+  <testcase name="testWalkInOptimizedOrderChangingVisitor3" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
+  <testcase name="testOuterProductMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
+  <testcase name="testCombineMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.011"/>
   <testcase name="testGetEntry" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testUnitizeNullVector" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testToArray" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testSubtractSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
+  <testcase name="testSubtractSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testMap" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testSet" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
   <testcase name="testOuterProductSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testGetLInfDistanceMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testCombineDimensionMismatchMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testMapDivideToSelf" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
+  <testcase name="testMapDivideToSelf" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testMapMultiplyToSelf" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testWalkInDefaultOrderChangingVisitor1" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testWalkInDefaultOrderChangingVisitor2" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
@@ -111,27 +111,27 @@
   <testcase name="testCosineRightNullVector" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testCombineToSelfDimensionMismatchMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testCosineSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testMapSubtractToSelf" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
+  <testcase name="testMapSubtractToSelf" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testProjectionMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testGetDimension" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testCombineToSelfSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.017"/>
+  <testcase name="testCombineToSelfSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.01"/>
   <testcase name="testAddToEntry" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testGetDistanceDimensionMismatch" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
   <testcase name="testAddSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testGetDistanceSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testCombineToSelfMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.01"/>
+  <testcase name="testCombineToSelfMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.009"/>
   <testcase name="testGetL1DistanceSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testGetEntryInvalidIndex1" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testGetEntryInvalidIndex2" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testCombineSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.019"/>
+  <testcase name="testCombineSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.009"/>
   <testcase name="testProjectionDimensionMismatch" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testGetLInfDistanceDimensionMismatch" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testMapSubtract" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
+  <testcase name="testMapSubtract" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testDotProductMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testAddDimensionMismatch" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testAddToEntryInvalidIndex1" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testAddToEntryInvalidIndex2" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testMapDivide" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
+  <testcase name="testMapDivide" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testUnitVectorNullVector" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testMapAddToSelf" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testGetLInfDistanceSameType" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
@@ -140,10 +140,10 @@
   <testcase name="testGetDistanceMixedTypes" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testMapAdd" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testMinMax" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testUnitVector" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testProjectionNullVector" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
+  <testcase name="testUnitVector" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
+  <testcase name="testProjectionNullVector" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testMapToSelf" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
-  <testcase name="testWalkInDefaultOrderPreservingVisitor1" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
+  <testcase name="testWalkInDefaultOrderPreservingVisitor1" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.001"/>
   <testcase name="testWalkInDefaultOrderPreservingVisitor2" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testWalkInDefaultOrderPreservingVisitor3" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>
   <testcase name="testSubtractDimensionMismatch" classname="org.apache.commons.math3.linear.RealVectorTest" time="0.0"/>

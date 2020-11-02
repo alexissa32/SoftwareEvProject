@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.linear.DiagonalMatrixTest" tests="29" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:25" hostname="DYLAN-DESKTOP" time="0.003">
+<testsuite name="org.apache.commons.math3.linear.DiagonalMatrixTest" tests="29" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:29" hostname="DESKTOP-C0495IR" time="0.003">
   <properties/>
   <testcase name="testSetNonDiagonalZero" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testOperate" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testInverseError2" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
-  <testcase name="testAdd" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
+  <testcase name="testAdd" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.001"/>
   <testcase name="testSubtract" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testCreateError" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testCopy" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
@@ -13,11 +13,11 @@
   <testcase name="testConstructor1" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testConstructor2" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testConstructor3" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
-  <testcase name="testPreMultiplyVector" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
+  <testcase name="testPreMultiplyVector" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.001"/>
   <testcase name="testMultiply1" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testMultiply2" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testGetData" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
-  <testcase name="testSetSubMatrixError" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.001"/>
+  <testcase name="testSetSubMatrixError" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testMultiplyNonDiagonalZero" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testAddToEntry" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testInverseError" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
@@ -26,7 +26,7 @@
   <testcase name="testMultiplyNonDiagonalEntry" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testSetEntryOutOfRange" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testInverse" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
-  <testcase name="testMultiplyEntry" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.001"/>
+  <testcase name="testMultiplyEntry" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testPreMultiply" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testSetSubMatrix" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>
   <testcase name="testAddNonDiagonalEntry" classname="org.apache.commons.math3.linear.DiagonalMatrixTest" time="0.0"/>

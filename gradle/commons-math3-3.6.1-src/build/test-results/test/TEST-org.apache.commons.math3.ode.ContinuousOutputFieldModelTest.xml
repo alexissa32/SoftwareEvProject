@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:27" hostname="DYLAN-DESKTOP" time="0.101">
+<testsuite name="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:30" hostname="DESKTOP-C0495IR" time="0.067">
   <properties/>
-  <testcase name="testBoundaries" classname="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" time="0.042"/>
-  <testcase name="testModelsMerging" classname="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" time="0.014"/>
-  <testcase name="testRandomAccess" classname="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" time="0.043"/>
-  <testcase name="testErrorConditions" classname="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" time="0.002"/>
+  <testcase name="testBoundaries" classname="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" time="0.034"/>
+  <testcase name="testModelsMerging" classname="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" time="0.008"/>
+  <testcase name="testRandomAccess" classname="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" time="0.025"/>
+  <testcase name="testErrorConditions" classname="org.apache.commons.math3.ode.ContinuousOutputFieldModelTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:19" hostname="DYLAN-DESKTOP" time="0.003">
+<testsuite name="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:17" hostname="DESKTOP-C0495IR" time="0.003">
   <properties/>
   <testcase name="testConstructorSingleFormat" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.0"/>
   <testcase name="testParseSimpleWithDecimals" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.0"/>
@@ -7,7 +7,7 @@
   <testcase name="testNan" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.0"/>
   <testcase name="testSimpleWithDecimalsTrunc" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.0"/>
   <testcase name="testParseNegativeX" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.0"/>
-  <testcase name="testParseNegativeY" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.001"/>
+  <testcase name="testParseNegativeY" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.0"/>
   <testcase name="testParseNegativeZ" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.0"/>
   <testcase name="testParseNegativeAll" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.0"/>
   <testcase name="testDefaultFormatVector1D" classname="org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormatTest" time="0.0"/>

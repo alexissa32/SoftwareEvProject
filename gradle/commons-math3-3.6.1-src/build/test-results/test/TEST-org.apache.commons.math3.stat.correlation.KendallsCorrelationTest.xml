@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:43" hostname="DYLAN-DESKTOP" time="0.258">
+<testsuite name="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:34" hostname="DESKTOP-C0495IR" time="0.23">
   <properties/>
   <testcase name="testSingleElement" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.001"/>
   <testcase name="testSimpleOrderedPowerOf2" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
   <testcase name="testSimpleOrdered" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
-  <testcase name="testBalancedJumble" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
-  <testcase name="testSimpleReversedPowerOf2" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.001"/>
+  <testcase name="testBalancedJumble" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.001"/>
+  <testcase name="testSimpleReversedPowerOf2" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
   <testcase name="testSwiss" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.001"/>
   <testcase name="testAllTiesInX" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
   <testcase name="testAllTiesInY" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
@@ -13,14 +13,14 @@
   <testcase name="testSimpleJumble" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
   <testcase name="testSimpleReversed" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
   <testcase name="testBlockMatrix" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
-  <testcase name="testAllTiesInBoth" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
+  <testcase name="testAllTiesInBoth" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.001"/>
   <testcase name="testTwoElements" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
-  <testcase name="testMath1277" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.229"/>
-  <testcase name="testLargeArray" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.022"/>
+  <testcase name="testMath1277" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.2"/>
+  <testcase name="testLargeArray" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.023"/>
   <testcase name="testOrderedTies" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
-  <testcase name="testLongly" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.001"/>
+  <testcase name="testLongly" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
   <testcase name="testInsufficientData" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.001"/>
-  <testcase name="testStdErrorConsistency" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.001"/>
+  <testcase name="testStdErrorConsistency" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
   <testcase name="testSwissFertility" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
   <testcase name="testPValueNearZero" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>
   <testcase name="testConstant" classname="org.apache.commons.math3.stat.correlation.KendallsCorrelationTest" time="0.0"/>

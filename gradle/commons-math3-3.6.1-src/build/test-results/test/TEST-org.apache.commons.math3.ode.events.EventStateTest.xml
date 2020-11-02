@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ode.events.EventStateTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:27" hostname="DYLAN-DESKTOP" time="0.009">
+<testsuite name="org.apache.commons.math3.ode.events.EventStateTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:30" hostname="DESKTOP-C0495IR" time="0.008">
   <properties/>
-  <testcase name="testEventsCloserThanThreshold" classname="org.apache.commons.math3.ode.events.EventStateTest" time="0.003"/>
+  <testcase name="testEventsCloserThanThreshold" classname="org.apache.commons.math3.ode.events.EventStateTest" time="0.002"/>
   <testcase name="closeEvents" classname="org.apache.commons.math3.ode.events.EventStateTest" time="0.001"/>
-  <testcase name="testIssue695" classname="org.apache.commons.math3.ode.events.EventStateTest" time="0.002"/>
+  <testcase name="testIssue695" classname="org.apache.commons.math3.ode.events.EventStateTest" time="0.003"/>
   <testcase name="testIssue965" classname="org.apache.commons.math3.ode.events.EventStateTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

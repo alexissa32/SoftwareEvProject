@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:25" hostname="DYLAN-DESKTOP" time="0.027">
+<testsuite name="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:28" hostname="DESKTOP-C0495IR" time="0.019">
   <properties/>
-  <testcase name="testFullCircle" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.004"/>
+  <testcase name="testFullCircle" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.003"/>
   <testcase name="testInconsistentState" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.001"/>
   <testcase name="testArc" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
-  <testcase name="testSpecialConstruction" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.001"/>
+  <testcase name="testSpecialConstruction" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
   <testcase name="testIteration" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
   <testcase name="testEmpty" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
-  <testcase name="testSideHyper" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.001"/>
-  <testcase name="testSide" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.002"/>
+  <testcase name="testSideHyper" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
+  <testcase name="testSide" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.001"/>
   <testcase name="testTiny" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
-  <testcase name="testSplitAtEnd" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.001"/>
+  <testcase name="testSplitAtEnd" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
   <testcase name="testEmptyTree" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
   <testcase name="testFullEqualEndPoints" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
   <testcase name="testSideEmbedded" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
@@ -22,11 +22,11 @@
   <testcase name="testIntersection" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.001"/>
   <testcase name="testSplitOverlapping" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
   <testcase name="testMultiple" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
-  <testcase name="testSplitEmbedded" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
+  <testcase name="testSplitEmbedded" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.001"/>
   <testcase name="testFarSplit" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
-  <testcase name="testShiftedAngles" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.011"/>
+  <testcase name="testShiftedAngles" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.008"/>
   <testcase name="testSinglePoint" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
-  <testcase name="testSideOverlapping" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.001"/>
+  <testcase name="testSideOverlapping" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
   <testcase name="testSideSplitConsistency" classname="org.apache.commons.math3.geometry.spherical.oned.ArcsSetTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

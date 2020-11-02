@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.distribution.LaplaceDistributionTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:12" hostname="DYLAN-DESKTOP" time="0.041">
+<testsuite name="org.apache.commons.math3.distribution.LaplaceDistributionTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:08" hostname="DESKTOP-C0495IR" time="0.148">
   <properties/>
-  <testcase name="testParameters" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>
+  <testcase name="testParameters" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.001"/>
   <testcase name="testSupport" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>
-  <testcase name="testIsSupportLowerBoundInclusive" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.001"/>
+  <testcase name="testIsSupportLowerBoundInclusive" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>
   <testcase name="testDensities" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>
   <testcase name="testInverseCumulativeProbabilities" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>
   <testcase name="testSampling" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>
   <testcase name="testCumulativeProbabilities" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.001"/>
   <testcase name="testDistributionClone" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.001"/>
   <testcase name="testIllegalArguments" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>
-  <testcase name="testDensityIntegrals" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.036"/>
+  <testcase name="testDensityIntegrals" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.145"/>
   <testcase name="testConsistency" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>
   <testcase name="testLogDensities" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>
   <testcase name="testIsSupportUpperBoundInclusive" classname="org.apache.commons.math3.distribution.LaplaceDistributionTest" time="0.0"/>

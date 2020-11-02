@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.apache.commons.math3.dfp.DfpTest
 -------------------------------------------------------------------------------
-Tests run: 78, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.672 sec - in org.apache.commons.math3.dfp.DfpTest
+Tests run: 78, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.503 sec - in org.apache.commons.math3.dfp.DfpTest

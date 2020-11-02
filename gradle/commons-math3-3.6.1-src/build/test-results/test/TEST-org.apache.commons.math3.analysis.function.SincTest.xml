@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.analysis.function.SincTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:01" hostname="DYLAN-DESKTOP" time="0.181">
+<testsuite name="org.apache.commons.math3.analysis.function.SincTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:13:38" hostname="DESKTOP-C0495IR" time="0.231">
   <properties/>
-  <testcase name="testDerivativeShortcut" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.155"/>
+  <testcase name="testDerivativeShortcut" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.212"/>
   <testcase name="testDerivatives1Dot2Unnormalized" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.0"/>
-  <testcase name="testEuler" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.0"/>
+  <testcase name="testEuler" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.001"/>
   <testcase name="testZero" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.0"/>
   <testcase name="testDerivativeZero" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.0"/>
-  <testcase name="testShortcut" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.024"/>
+  <testcase name="testShortcut" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.017"/>
   <testcase name="testDerivatives1Dot2Normalized" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.0"/>
   <testcase name="testCrossings" classname="org.apache.commons.math3.analysis.function.SincTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>

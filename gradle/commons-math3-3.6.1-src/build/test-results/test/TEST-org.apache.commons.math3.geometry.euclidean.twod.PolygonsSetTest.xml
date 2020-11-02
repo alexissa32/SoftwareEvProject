@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:25" hostname="DYLAN-DESKTOP" time="0.027">
+<testsuite name="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:28" hostname="DESKTOP-C0495IR" time="0.02">
   <properties/>
   <testcase name="testOppositeHyperplanes" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
-  <testcase name="testBoundarySimplification" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.002"/>
-  <testcase name="testDisjointPolygons" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
+  <testcase name="testBoundarySimplification" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
+  <testcase name="testDisjointPolygons" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testEmptyDifference" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testBox" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
-  <testcase name="testXor" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.002"/>
+  <testcase name="testXor" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
   <testcase name="testBug20040520" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testBug20041003" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testEmpty" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.002"/>
-  <testcase name="testStair" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
+  <testcase name="testStair" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testUnion" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
-  <testcase name="testFull" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
-  <testcase name="testHole" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.002"/>
-  <testcase name="testIssue880Complete" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.011"/>
-  <testcase name="testIssue880Simplified" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
+  <testcase name="testFull" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
+  <testcase name="testHole" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
+  <testcase name="testIssue880Complete" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.008"/>
+  <testcase name="testIssue880Simplified" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
   <testcase name="testWrongUsage" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testTooThinBox" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testInconsistentHyperplanes" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
-  <testcase name="testChoppedHexagon" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
-  <testcase name="testLineIntersection" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
+  <testcase name="testChoppedHexagon" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
+  <testcase name="testLineIntersection" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
   <testcase name="testIssue1162" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testInfinite" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testDifference" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
   <testcase name="testIntersection" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
-  <testcase name="testUnlimitedSubHyperplane" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
+  <testcase name="testUnlimitedSubHyperplane" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testConcentric" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
-  <testcase name="testThinRectangle" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
-  <testcase name="testSingularPoint" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
+  <testcase name="testThinRectangle" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
+  <testcase name="testSingularPoint" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
   <testcase name="testSqueezedHexa" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
-  <testcase name="testSimplyConnected" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.0"/>
+  <testcase name="testSimplyConnected" classname="org.apache.commons.math3.geometry.euclidean.twod.PolygonsSetTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

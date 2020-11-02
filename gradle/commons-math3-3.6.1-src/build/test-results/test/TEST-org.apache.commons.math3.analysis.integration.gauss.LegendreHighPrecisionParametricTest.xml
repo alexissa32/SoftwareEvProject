@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:01" hostname="DYLAN-DESKTOP" time="0.912">
+<testsuite name="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:13:39" hostname="DESKTOP-C0495IR" time="1.624">
   <properties/>
   <testcase name="testAllMonomials[0]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
   <testcase name="testAllMonomials[1]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
@@ -8,29 +8,29 @@
   <testcase name="testAllMonomials[4]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
   <testcase name="testAllMonomials[5]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
   <testcase name="testAllMonomials[6]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
-  <testcase name="testAllMonomials[7]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
+  <testcase name="testAllMonomials[7]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
   <testcase name="testAllMonomials[8]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
   <testcase name="testAllMonomials[9]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
   <testcase name="testAllMonomials[10]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
   <testcase name="testAllMonomials[11]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
-  <testcase name="testAllMonomials[12]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
+  <testcase name="testAllMonomials[12]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
   <testcase name="testAllMonomials[13]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
   <testcase name="testAllMonomials[14]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
-  <testcase name="testAllMonomials[15]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
+  <testcase name="testAllMonomials[15]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
   <testcase name="testAllMonomials[16]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
-  <testcase name="testAllMonomials[17]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
+  <testcase name="testAllMonomials[17]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
   <testcase name="testAllMonomials[18]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
-  <testcase name="testAllMonomials[19]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
-  <testcase name="testAllMonomials[20]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
-  <testcase name="testAllMonomials[21]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
-  <testcase name="testAllMonomials[22]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
-  <testcase name="testAllMonomials[23]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
+  <testcase name="testAllMonomials[19]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
+  <testcase name="testAllMonomials[20]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.002"/>
+  <testcase name="testAllMonomials[21]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
+  <testcase name="testAllMonomials[22]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
+  <testcase name="testAllMonomials[23]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
   <testcase name="testAllMonomials[24]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
-  <testcase name="testAllMonomials[25]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
+  <testcase name="testAllMonomials[25]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
   <testcase name="testAllMonomials[26]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
   <testcase name="testAllMonomials[27]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
-  <testcase name="testAllMonomials[28]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
-  <testcase name="testAllMonomials[29]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.0"/>
+  <testcase name="testAllMonomials[28]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
+  <testcase name="testAllMonomials[29]" classname="org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionParametricTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

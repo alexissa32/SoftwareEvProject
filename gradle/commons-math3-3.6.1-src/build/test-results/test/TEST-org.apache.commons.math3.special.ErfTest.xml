@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.special.ErfTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:43" hostname="DYLAN-DESKTOP" time="0.003">
+<testsuite name="org.apache.commons.math3.special.ErfTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:34" hostname="DESKTOP-C0495IR" time="0.005">
   <properties/>
   <testcase name="testLargeValues" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
   <testcase name="testErf1960" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
@@ -7,13 +7,13 @@
   <testcase name="testErf2807" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
   <testcase name="testErf3291" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
   <testcase name="testErfcGnu" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
-  <testcase name="testErfcInv" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
+  <testcase name="testErfcInv" classname="org.apache.commons.math3.special.ErfTest" time="0.001"/>
   <testcase name="testErfcInvNaN" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
   <testcase name="testErfcMaple" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
   <testcase name="testErf0" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
   <testcase name="testErfcInvInfinite" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
   <testcase name="testErfInvInfinite" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
-  <testcase name="testTwoArgumentErf" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
+  <testcase name="testTwoArgumentErf" classname="org.apache.commons.math3.special.ErfTest" time="0.001"/>
   <testcase name="testErfGnu" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>
   <testcase name="testErfInv" classname="org.apache.commons.math3.special.ErfTest" time="0.001"/>
   <testcase name="testErfInvNaN" classname="org.apache.commons.math3.special.ErfTest" time="0.0"/>

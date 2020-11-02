@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:24" hostname="DYLAN-DESKTOP" time="0.1">
+<testsuite name="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:27" hostname="DESKTOP-C0495IR" time="0.079">
   <properties/>
-  <testcase name="testOrientation" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.009"/>
-  <testcase name="testBox" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.018"/>
-  <testcase name="testCross" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.012"/>
+  <testcase name="testOrientation" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.006"/>
+  <testcase name="testBox" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.016"/>
+  <testcase name="testCross" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.013"/>
   <testcase name="testHole" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.003"/>
   <testcase name="testBuildBox" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.001"/>
-  <testcase name="testDumpParse" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.018"/>
+  <testcase name="testDumpParse" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.01"/>
   <testcase name="testWrongUsage" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.0"/>
   <testcase name="testTetrahedron" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.001"/>
-  <testcase name="testTooClose" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.005"/>
+  <testcase name="testTooClose" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.004"/>
   <testcase name="testTooThinBox" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.0"/>
-  <testcase name="testConnectedFacets" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.006"/>
+  <testcase name="testConnectedFacets" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.005"/>
   <testcase name="testFacet2Vertices" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.0"/>
-  <testcase name="testNonPlanar" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.003"/>
-  <testcase name="testIssue1211" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.012"/>
-  <testcase name="testIsometry" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.006"/>
-  <testcase name="testIssue780" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.004"/>
+  <testcase name="testNonPlanar" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.002"/>
+  <testcase name="testIssue1211" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.008"/>
+  <testcase name="testIsometry" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.004"/>
+  <testcase name="testIssue780" classname="org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

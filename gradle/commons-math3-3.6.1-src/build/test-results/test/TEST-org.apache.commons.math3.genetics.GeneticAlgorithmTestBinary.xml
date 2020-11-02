@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.genetics.GeneticAlgorithmTestBinary" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:18" hostname="DYLAN-DESKTOP" time="0.03">
+<testsuite name="org.apache.commons.math3.genetics.GeneticAlgorithmTestBinary" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:16" hostname="DESKTOP-C0495IR" time="0.009">
   <properties/>
-  <testcase name="test" classname="org.apache.commons.math3.genetics.GeneticAlgorithmTestBinary" time="0.03"/>
+  <testcase name="test" classname="org.apache.commons.math3.genetics.GeneticAlgorithmTestBinary" time="0.009"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

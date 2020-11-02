@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:31" hostname="DYLAN-DESKTOP" time="0.005">
+<testsuite name="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:35" hostname="DESKTOP-C0495IR" time="0.004">
   <properties/>
-  <testcase name="testMulNeitherRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.002"/>
+  <testcase name="testMulNeitherRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.001"/>
   <testcase name="testIncNeither" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
   <testcase name="testMulLastRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
   <testcase name="testMulBothRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
   <testcase name="testIncFirstRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
-  <testcase name="testIncFirst" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.001"/>
+  <testcase name="testIncFirst" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
   <testcase name="testMulBoth" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
-  <testcase name="testMulLast" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
+  <testcase name="testMulLast" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.001"/>
   <testcase name="testMulNeither" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
   <testcase name="testIncLastRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
   <testcase name="testMulFirst" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
   <testcase name="testIncBothRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
-  <testcase name="testMulFirstRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
+  <testcase name="testMulFirstRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.001"/>
   <testcase name="testIncBoth" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
   <testcase name="testIncLast" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>
   <testcase name="testIncNeitherRev" classname="org.apache.commons.math3.ode.sampling.StepNormalizerOutputOverlapTest" time="0.0"/>

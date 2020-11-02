@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.linear.SingularValueDecompositionTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:26" hostname="DYLAN-DESKTOP" time="0.078">
+<testsuite name="org.apache.commons.math3.linear.SingularValueDecompositionTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:29" hostname="DESKTOP-C0495IR" time="0.058">
   <properties/>
-  <testcase name="testUOrthogonal" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.001"/>
+  <testcase name="testUOrthogonal" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
   <testcase name="testRank" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
   <testcase name="testMoreColumns" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
   <testcase name="testDimensions" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
   <testcase name="testConditionNumber" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
-  <testcase name="testAEqualUSVt" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
-  <testcase name="testStability1" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.071"/>
-  <testcase name="testStability2" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.004"/>
+  <testcase name="testAEqualUSVt" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.001"/>
+  <testcase name="testStability1" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.055"/>
+  <testcase name="testStability2" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
   <testcase name="testInverseConditionNumber" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
-  <testcase name="testHadamard" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.002"/>
+  <testcase name="testHadamard" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
   <testcase name="testMoreRows" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
   <testcase name="testVOrthogonal" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>
   <testcase name="testIssue947" classname="org.apache.commons.math3.linear.SingularValueDecompositionTest" time="0.0"/>

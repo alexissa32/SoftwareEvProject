@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizerTestValidation" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:41:59" hostname="DYLAN-DESKTOP" time="0.028">
+<testsuite name="org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizerTestValidation" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:15:24" hostname="DESKTOP-C0495IR" time="0.042">
   <properties/>
-  <testcase name="testParametersErrorMonteCarloParameters" classname="org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizerTestValidation" time="0.009"/>
-  <testcase name="testParametersErrorMonteCarloObservations" classname="org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizerTestValidation" time="0.019"/>
+  <testcase name="testParametersErrorMonteCarloParameters" classname="org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizerTestValidation" time="0.02"/>
+  <testcase name="testParametersErrorMonteCarloObservations" classname="org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizerTestValidation" time="0.022"/>
   <system-out><![CDATA[+1.2345658851e+02 -1.0007711538e+02   5.74903214e-01
 
 +1.2345365928e+02 -9.1410541457e+01   1.51994696e+00

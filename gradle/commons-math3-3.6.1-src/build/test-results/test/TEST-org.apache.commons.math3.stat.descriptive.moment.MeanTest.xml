@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.stat.descriptive.moment.MeanTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:43" hostname="DYLAN-DESKTOP" time="0.002">
+<testsuite name="org.apache.commons.math3.stat.descriptive.moment.MeanTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:34" hostname="DESKTOP-C0495IR" time="0.004">
   <properties/>
   <testcase name="testSmallSamples" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.001"/>
   <testcase name="testWeightedMean" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
   <testcase name="testMomentSmallSamples" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
-  <testcase name="testSerialization" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
+  <testcase name="testSerialization" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.001"/>
   <testcase name="testIncrementation" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
   <testcase name="testConsistency" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
-  <testcase name="testEqualsAndHashCode" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
+  <testcase name="testEqualsAndHashCode" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.001"/>
   <testcase name="testCopyConsistency" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
-  <testcase name="testSerial" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.001"/>
+  <testcase name="testSerial" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
   <testcase name="testCopy" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
   <testcase name="testEvaluation" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>
   <testcase name="testEvaluateArraySegment" classname="org.apache.commons.math3.stat.descriptive.moment.MeanTest" time="0.0"/>

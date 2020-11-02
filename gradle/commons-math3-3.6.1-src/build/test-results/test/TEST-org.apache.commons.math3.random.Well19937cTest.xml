@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.random.Well19937cTest" tests="61" skipped="0" failures="0" errors="0" timestamp="2020-10-17T21:42:30" hostname="DYLAN-DESKTOP" time="3.285">
+<testsuite name="org.apache.commons.math3.random.Well19937cTest" tests="61" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:13" hostname="DESKTOP-C0495IR" time="4.916">
   <properties/>
   <testcase name="testReferenceCode" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextIntIAE2" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextIntDirect" classname="org.apache.commons.math3.random.Well19937cTest" time="0.523"/>
-  <testcase name="testNextFloatDirect" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
+  <testcase name="testNextIntDirect" classname="org.apache.commons.math3.random.Well19937cTest" time="0.587"/>
+  <testcase name="testNextFloatDirect" classname="org.apache.commons.math3.random.Well19937cTest" time="0.002"/>
   <testcase name="testNextBooleanDirect" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextLongDirect" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNexBoolean2" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
+  <testcase name="testNexBoolean2" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <testcase name="testSeeding" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextLong2" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextDouble" classname="org.apache.commons.math3.random.Well19937cTest" time="0.002"/>
+  <testcase name="testNextLong2" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
+  <testcase name="testNextDouble" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <testcase name="testNextIntNeg" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNexBytes" classname="org.apache.commons.math3.random.Well19937cTest" time="0.005"/>
-  <testcase name="testNextInt2" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
-  <testcase name="testNextPascal" classname="org.apache.commons.math3.random.Well19937cTest" time="0.002"/>
+  <testcase name="testNexBytes" classname="org.apache.commons.math3.random.Well19937cTest" time="0.013"/>
+  <testcase name="testNextInt2" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
+  <testcase name="testNextPascal" classname="org.apache.commons.math3.random.Well19937cTest" time="0.005"/>
   <testcase name="testNextSample" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
-  <testcase name="testNextLongNegativeRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.003"/>
+  <testcase name="testNextLongNegativeRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.008"/>
   <testcase name="testNextIntNegativeToPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <testcase name="testNextIntExtremeValues" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextUniformExclusiveEndpoints" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextGaussian" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextUniformExtremeValues" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextSecureLongIAE" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextF" classname="org.apache.commons.math3.random.Well19937cTest" time="0.01"/>
-  <testcase name="testNextT" classname="org.apache.commons.math3.random.Well19937cTest" time="0.007"/>
+  <testcase name="testNextF" classname="org.apache.commons.math3.random.Well19937cTest" time="0.014"/>
+  <testcase name="testNextT" classname="org.apache.commons.math3.random.Well19937cTest" time="0.011"/>
   <testcase name="testNextSecureIntNegativeToPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextChiSquare" classname="org.apache.commons.math3.random.Well19937cTest" time="0.018"/>
+  <testcase name="testNextChiSquare" classname="org.apache.commons.math3.random.Well19937cTest" time="0.021"/>
   <testcase name="testNextSecureHex" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextPoissonConsistency" classname="org.apache.commons.math3.random.Well19937cTest" time="2.143"/>
-  <testcase name="testNextHypergeometric" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
+  <testcase name="testNextPoissonConsistency" classname="org.apache.commons.math3.random.Well19937cTest" time="3.54"/>
+  <testcase name="testNextHypergeometric" classname="org.apache.commons.math3.random.Well19937cTest" time="0.002"/>
   <testcase name="testNextSecureLongPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextSecureIntPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextLongNegativeToPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.002"/>
+  <testcase name="testNextLongNegativeToPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.003"/>
   <testcase name="testNextUniformUniformMaximalInterval" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <testcase name="testNextLongExtremeValues" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextExponential" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
+  <testcase name="testNextExponential" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <testcase name="testNextSecureLongNegativeRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextSecureIntNegativeRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextPoisson" classname="org.apache.commons.math3.random.Well19937cTest" time="0.004"/>
+  <testcase name="testNextPoisson" classname="org.apache.commons.math3.random.Well19937cTest" time="0.006"/>
   <testcase name="testNextUniformUniformNegativeToPositiveBounds" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <testcase name="testNextPermutation" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextIntPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.002"/>
   <testcase name="testNextSecureIntIAE" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextUniformIAE" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextUniformUniformNegaiveBounds" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextBinomial" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
+  <testcase name="testNextUniformUniformNegaiveBounds" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
+  <testcase name="testNextBinomial" classname="org.apache.commons.math3.random.Well19937cTest" time="0.002"/>
   <testcase name="testNextLongIAE" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testConfig" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextIntWideRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.039"/>
+  <testcase name="testNextIntWideRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.048"/>
   <testcase name="testNextSecureLongNegativeToPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextIntNegativeRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.002"/>
-  <testcase name="testNextHex" classname="org.apache.commons.math3.random.Well19937cTest" time="0.01"/>
-  <testcase name="testNextLongWideRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.491"/>
-  <testcase name="testNextLongPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.004"/>
+  <testcase name="testNextHex" classname="org.apache.commons.math3.random.Well19937cTest" time="0.014"/>
+  <testcase name="testNextLongWideRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.601"/>
+  <testcase name="testNextLongPositiveRange" classname="org.apache.commons.math3.random.Well19937cTest" time="0.008"/>
   <testcase name="testReseed" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
   <testcase name="testNextCauchy" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <testcase name="testNextUniformUniformPositiveBounds" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextGamma" classname="org.apache.commons.math3.random.Well19937cTest" time="0.002"/>
+  <testcase name="testNextGamma" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <testcase name="testNextWeibull" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
-  <testcase name="testNextIntIAE" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
-  <testcase name="testNextBeta" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
+  <testcase name="testNextIntIAE" classname="org.apache.commons.math3.random.Well19937cTest" time="0.0"/>
+  <testcase name="testNextBeta" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <testcase name="testNextZipf" classname="org.apache.commons.math3.random.Well19937cTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
