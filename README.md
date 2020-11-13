@@ -11,31 +11,33 @@ Once we have these representative codebases being built using all possible tools
 In this update, we successfully created visualizations of dependency trees for all of our build tools. Below are instructions on how to accomplish this.
 
 ##### Bazel
-bazel query 'deps(//:main)' --output graph > graph.in
-open graph.in using Notepad++ and replace all /r/n with /n
-change encoding to ANSI
-save file
-dot -Tpng < graph.in > -o graph.png
+bazel query 'deps(//:main)' --output graph > graph.in\
+open graph.in using Notepad++ and replace all /r/n with /n\
+change encoding to ANSI\
+save file\
+dot -Tpng < graph.in > -o graph.png\
 
 ##### Gradle
-Add
-plugins {
-  id "com.vanniktech.dependency.graph.generator" version "0.5.0"
-}
-to each root buildfile
-then run gradle generateDependencyGraph
+Add\
+plugins {\
+  id "com.vanniktech.dependency.graph.generator" version "0.5.0"\
+}\
+to each root buildfile\
+then run gradle generateDependencyGraph\
 
 ##### Maven
-Add
-<plugin>
-  <groupId>com.github.ferstl</groupId>
-  <artifactId>depgraph-maven-plugin</artifactId>
-  <version>3.3.0</version>
-</plugin>
-to pom.xml
-then run mvn depgraph:graph
-then go to /target and run
-dot -Tpng dependency-graph.dot -o graph.png
+Add\
+<plugin>\
+  <groupId>com.github.ferstl</groupId>\
+  <artifactId>depgraph-maven-plugin</artifactId>\
+  <version>3.3.0</version>\
+</plugin>\
+to pom.xml\
+then run mvn depgraph:graph\
+then go to /target and run\
+dot -Tpng dependency-graph.dot -o graph.png\
+
+We also used source code from https://github.com/astrofrog/psrecord to make a python script that records our CPU and memory usage for PID(s) over time. We do need to refine it some more, then we can move towards actually testing our projects.
 
 ### 11/1 Update
 
