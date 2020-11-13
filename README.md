@@ -7,6 +7,36 @@ Although there are few automated tools available to convert Maven or Gradle to B
 
 Once we have these representative codebases being built using all possible tools, we will explore making changes to the code and comparing rebuild time, CPU usage, and memory usage. Further, we seek to explore the code through visual representations of dependencies [6]. This will help us choose interesting places in code to make those changes that will showcase differences in the tools.
 
+### 11/13 Update
+In this update, we successfully created visualizations of dependency trees for all of our build tools. Below are instructions on how to accomplish this.
+
+##### Bazel
+bazel query 'deps(//:main)' --output graph > graph.in
+open graph.in using Notepad++ and replace all /r/n with /n
+change encoding to ANSI
+save file
+dot -Tpng < graph.in > -o graph.png
+
+##### Gradle
+Add
+plugins {
+  id "com.vanniktech.dependency.graph.generator" version "0.5.0"
+}
+to each root buildfile
+then run gradle generateDependencyGraph
+
+##### Maven
+Add
+<plugin>
+  <groupId>com.github.ferstl</groupId>
+  <artifactId>depgraph-maven-plugin</artifactId>
+  <version>3.3.0</version>
+</plugin>
+to pom.xml
+then run mvn depgraph:graph
+then go to /target and run
+dot -Tpng dependency-graph.dot -o graph.png
+
 ### 11/1 Update
 
 After struggling with a few different things, we are slighlty narrowing the focus of our project. We will not be using the Tensorflow repository as a test for Bazel, Gradle, or Maven, as it is such a large repository, we are struggling to build it on our computers and keep having errors [7]. We are unable to build Maven with Gradle or build Gradle with Gradle or Maven (there is no documentation on how to build Gradle from source). As a result, we are pivoting to using Apache Math, Guava, and our own code base to test Maven, Gradle, and Bazel. From there, we will still analyze the tools on build time, CPU usage, and memory usage, and we still intend on visually depicting each repository's dependency tree. A more detailed update on where we are at is in the PowerPoint slides committed in the repository.
