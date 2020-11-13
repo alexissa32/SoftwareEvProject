@@ -1,0 +1,13 @@
+digraph "commons-math3" {
+  node [shape="box",style="rounded",fontname="Helvetica",fontsize="14"]
+  edge [fontsize="10",fontname="Helvetica"]
+
+  // Node Definitions:
+  "junit:junit:jar"[label=<junit<font point-size="10"><br/>(test)</font>>]
+  "org.hamcrest:hamcrest-core:jar"[label=<hamcrest-core<font point-size="10"><br/>(test)</font>>]
+  "org.apache.commons:commons-math3:jar"[label=<commons-math3>]
+
+  // Edge Definitions:
+  "junit:junit:jar" -> "org.hamcrest:hamcrest-core:jar"
+  "org.apache.commons:commons-math3:jar" -> "junit:junit:jar"
+}

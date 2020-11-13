@@ -1,0 +1,171 @@
+digraph "G" {
+node ["fontname"="Times New Roman"]
+"comgoogleguavaguava" ["shape"="rectangle","label"="guava"]
+"comgoogleguavafailureaccess" ["shape"="rectangle","label"="failureaccess"]
+"comgoogleguavalistenablefuture" ["shape"="rectangle","label"="listenablefuture"]
+"comgooglecodefindbugsjsr305" ["shape"="rectangle","label"="jsr305"]
+"orgcheckerframeworkcheckerqual" ["shape"="rectangle","label"="checker-qual"]
+"comgoogleerrorproneerror_prone_annotations" ["shape"="rectangle","label"="error_prone_annotations"]
+"comgooglej2objcj2objcannotations" ["shape"="rectangle","label"="j2objc-annotations"]
+"comgoogleguavaguavagwt" ["shape"="rectangle","label"="guava-gwt"]
+"comgooglegwtgwtuser" ["shape"="rectangle","label"="gwt-user"]
+"javaxvalidationvalidationapi" ["shape"="rectangle","label"="validation-api"]
+"comgooglegwtgwtdev" ["shape"="rectangle","label"="gwt-dev"]
+"comgooglecodegsongson" ["shape"="rectangle","label"="gson"]
+"orgeclipsejettyjettyannotations" ["shape"="rectangle","label"="jetty-annotations"]
+"orgow2asmasmcommons" ["shape"="rectangle","label"="asm-commons"]
+"orgow2asmasmtree" ["shape"="rectangle","label"="asm-tree"]
+"orgow2asmasm" ["shape"="rectangle","label"="asm"]
+"orgeclipsejettyjettyplus" ["shape"="rectangle","label"="jetty-plus"]
+"orgeclipsejettyjettywebapp" ["shape"="rectangle","label"="jetty-webapp"]
+"orgeclipsejettyjettyxml" ["shape"="rectangle","label"="jetty-xml"]
+"orgeclipsejettyjettyutil" ["shape"="rectangle","label"="jetty-util"]
+"orgeclipsejettyjettyservlet" ["shape"="rectangle","label"="jetty-servlet"]
+"orgeclipsejettyjettysecurity" ["shape"="rectangle","label"="jetty-security"]
+"orgeclipsejettyjettyserver" ["shape"="rectangle","label"="jetty-server"]
+"orgeclipsejettyjettyhttp" ["shape"="rectangle","label"="jetty-http"]
+"orgeclipsejettyjettyio" ["shape"="rectangle","label"="jetty-io"]
+"javaxservletjavaxservletapi" ["shape"="rectangle","label"="javax.servlet-api"]
+"orgeclipsejettyjettyjndi" ["shape"="rectangle","label"="jetty-jndi"]
+"javaxannotationjavaxannotationapi" ["shape"="rectangle","label"="javax.annotation-api"]
+"orgow2asmasmutil" ["shape"="rectangle","label"="asm-util"]
+"coltcolt" ["shape"="rectangle","label"="colt"]
+"antant" ["shape"="rectangle","label"="ant"]
+"netsourceforgehtmlunithtmlunit" ["shape"="rectangle","label"="htmlunit"]
+"commonscollectionscommonscollections" ["shape"="rectangle","label"="commons-collections"]
+"commonsiocommonsio" ["shape"="rectangle","label"="commons-io"]
+"xalanxalan" ["shape"="rectangle","label"="xalan"]
+"xalanserializer" ["shape"="rectangle","label"="serializer"]
+"xmlapisxmlapis" ["shape"="rectangle","label"="xml-apis"]
+"orgapachecommonscommonslang3" ["shape"="rectangle","label"="commons-lang3"]
+"orgapachehttpcomponentshttpmime" ["shape"="rectangle","label"="httpmime"]
+"orgapachehttpcomponentshttpclient" ["shape"="rectangle","label"="httpclient"]
+"commonscodeccommonscodec" ["shape"="rectangle","label"="commons-codec"]
+"commonsloggingcommonslogging" ["shape"="rectangle","label"="commons-logging"]
+"orgapachehttpcomponentshttpcore" ["shape"="rectangle","label"="httpcore"]
+"netsourceforgehtmlunithtmlunitcorejs" ["shape"="rectangle","label"="htmlunit-core-js"]
+"xercesxercesImpl" ["shape"="rectangle","label"="xercesImpl"]
+"netsourceforgenekohtmlnekohtml" ["shape"="rectangle","label"="nekohtml"]
+"netsourceforgecssparsercssparser" ["shape"="rectangle","label"="cssparser"]
+"orgw3ccsssac" ["shape"="rectangle","label"="sac"]
+"orgeclipsejettywebsocketwebsocketclient" ["shape"="rectangle","label"="websocket-client"]
+"orgeclipsejettywebsocketwebsocketcommon" ["shape"="rectangle","label"="websocket-common"]
+"orgeclipsejettywebsocketwebsocketapi" ["shape"="rectangle","label"="websocket-api"]
+"comibmicuicu4j" ["shape"="rectangle","label"="icu4j"]
+"tapestrytapestry" ["shape"="rectangle","label"="tapestry"]
+"orgeclipsejettyjettyservlets" ["shape"="rectangle","label"="jetty-servlets"]
+"orgeclipsejettyjettycontinuation" ["shape"="rectangle","label"="jetty-continuation"]
+"orgeclipsejettyapachejsp" ["shape"="rectangle","label"="apache-jsp"]
+"orgmortbayjasperapachejsp" ["shape"="rectangle","label"="apache-jsp"]
+"orgeclipsejettytoolchainjettyschemas" ["shape"="rectangle","label"="jetty-schemas"]
+"orgmortbayjasperapacheel" ["shape"="rectangle","label"="apache-el"]
+"comgoogleelemental2elemental2promise" ["shape"="rectangle","label"="elemental2-promise"]
+"comgooglejsinteropbase" ["shape"="rectangle","label"="base"]
+"comgooglejsinteropjsinteropannotations" ["shape"="rectangle","label"="jsinterop-annotations"]
+"comgoogleguavaguavatestlib" ["shape"="rectangle","label"="guava-testlib"]
+"junitjunit" ["shape"="rectangle","label"="junit"]
+"orghamcresthamcrestcore" ["shape"="rectangle","label"="hamcrest-core"]
+"comgoogleguavaguavatests" ["shape"="rectangle","label"="guava-tests"]
+"comgoogleguavaguava" -> "comgoogleguavafailureaccess"
+"comgoogleguavaguava" -> "comgoogleguavalistenablefuture"
+"comgoogleguavaguava" -> "comgooglecodefindbugsjsr305"
+"comgoogleguavaguava" -> "orgcheckerframeworkcheckerqual"
+"comgoogleguavaguava" -> "comgoogleerrorproneerror_prone_annotations"
+"comgoogleguavaguava" -> "comgooglej2objcj2objcannotations"
+"comgoogleguavaguavagwt" -> "comgooglegwtgwtuser"
+"comgoogleguavaguavagwt" -> "comgooglegwtgwtdev"
+"comgoogleguavaguavagwt" -> "comgoogleguavafailureaccess"
+"comgoogleguavaguavagwt" -> "comgoogleguavaguava"
+"comgoogleguavaguavagwt" -> "comgoogleelemental2elemental2promise"
+"comgoogleguavaguavagwt" -> "orgcheckerframeworkcheckerqual"
+"comgoogleguavaguavagwt" -> "comgoogleerrorproneerror_prone_annotations"
+"comgooglegwtgwtuser" -> "javaxvalidationvalidationapi"
+"comgooglegwtgwtdev" -> "comgooglecodefindbugsjsr305"
+"comgooglegwtgwtdev" -> "comgooglecodegsongson"
+"comgooglegwtgwtdev" -> "orgeclipsejettyjettyannotations"
+"comgooglegwtgwtdev" -> "orgow2asmasmutil"
+"comgooglegwtgwtdev" -> "orgow2asmasmcommons"
+"comgooglegwtgwtdev" -> "orgow2asmasm"
+"comgooglegwtgwtdev" -> "coltcolt"
+"comgooglegwtgwtdev" -> "antant"
+"comgooglegwtgwtdev" -> "netsourceforgehtmlunithtmlunit"
+"comgooglegwtgwtdev" -> "commonscollectionscommonscollections"
+"comgooglegwtgwtdev" -> "commonsiocommonsio"
+"comgooglegwtgwtdev" -> "comibmicuicu4j"
+"comgooglegwtgwtdev" -> "tapestrytapestry"
+"comgooglegwtgwtdev" -> "orgeclipsejettyjettywebapp"
+"comgooglegwtgwtdev" -> "orgeclipsejettyjettyservlets"
+"comgooglegwtgwtdev" -> "orgeclipsejettyapachejsp"
+"orgeclipsejettyjettyannotations" -> "orgow2asmasmcommons"
+"orgeclipsejettyjettyannotations" -> "orgow2asmasm"
+"orgeclipsejettyjettyannotations" -> "orgeclipsejettyjettyplus"
+"orgeclipsejettyjettyannotations" -> "orgeclipsejettyjettywebapp"
+"orgeclipsejettyjettyannotations" -> "javaxannotationjavaxannotationapi"
+"orgow2asmasmcommons" -> "orgow2asmasmtree"
+"orgow2asmasmtree" -> "orgow2asmasm"
+"orgeclipsejettyjettyplus" -> "orgeclipsejettyjettywebapp"
+"orgeclipsejettyjettyplus" -> "orgeclipsejettyjettyjndi"
+"orgeclipsejettyjettywebapp" -> "orgeclipsejettyjettyxml"
+"orgeclipsejettyjettywebapp" -> "orgeclipsejettyjettyservlet"
+"orgeclipsejettyjettyxml" -> "orgeclipsejettyjettyutil"
+"orgeclipsejettyjettyservlet" -> "orgeclipsejettyjettysecurity"
+"orgeclipsejettyjettysecurity" -> "orgeclipsejettyjettyserver"
+"orgeclipsejettyjettyserver" -> "orgeclipsejettyjettyhttp"
+"orgeclipsejettyjettyserver" -> "orgeclipsejettyjettyio"
+"orgeclipsejettyjettyserver" -> "javaxservletjavaxservletapi"
+"orgeclipsejettyjettyhttp" -> "orgeclipsejettyjettyutil"
+"orgeclipsejettyjettyio" -> "orgeclipsejettyjettyutil"
+"orgeclipsejettyjettyjndi" -> "orgeclipsejettyjettyutil"
+"orgow2asmasmutil" -> "orgow2asmasmtree"
+"netsourceforgehtmlunithtmlunit" -> "commonscollectionscommonscollections"
+"netsourceforgehtmlunithtmlunit" -> "commonsiocommonsio"
+"netsourceforgehtmlunithtmlunit" -> "xalanxalan"
+"netsourceforgehtmlunithtmlunit" -> "orgapachecommonscommonslang3"
+"netsourceforgehtmlunithtmlunit" -> "orgapachehttpcomponentshttpmime"
+"netsourceforgehtmlunithtmlunit" -> "orgapachehttpcomponentshttpclient"
+"netsourceforgehtmlunithtmlunit" -> "commonscodeccommonscodec"
+"netsourceforgehtmlunithtmlunit" -> "netsourceforgehtmlunithtmlunitcorejs"
+"netsourceforgehtmlunithtmlunit" -> "xercesxercesImpl"
+"netsourceforgehtmlunithtmlunit" -> "netsourceforgenekohtmlnekohtml"
+"netsourceforgehtmlunithtmlunit" -> "netsourceforgecssparsercssparser"
+"netsourceforgehtmlunithtmlunit" -> "commonsloggingcommonslogging"
+"netsourceforgehtmlunithtmlunit" -> "orgeclipsejettywebsocketwebsocketclient"
+"xalanxalan" -> "xalanserializer"
+"xalanserializer" -> "xmlapisxmlapis"
+"orgapachehttpcomponentshttpmime" -> "orgapachehttpcomponentshttpclient"
+"orgapachehttpcomponentshttpclient" -> "commonscodeccommonscodec"
+"orgapachehttpcomponentshttpclient" -> "commonsloggingcommonslogging"
+"orgapachehttpcomponentshttpclient" -> "orgapachehttpcomponentshttpcore"
+"xercesxercesImpl" -> "xmlapisxmlapis"
+"netsourceforgecssparsercssparser" -> "orgw3ccsssac"
+"orgeclipsejettywebsocketwebsocketclient" -> "orgeclipsejettywebsocketwebsocketcommon"
+"orgeclipsejettywebsocketwebsocketclient" -> "orgeclipsejettyjettyio"
+"orgeclipsejettywebsocketwebsocketclient" -> "orgeclipsejettyjettyutil"
+"orgeclipsejettywebsocketwebsocketcommon" -> "orgeclipsejettyjettyio"
+"orgeclipsejettywebsocketwebsocketcommon" -> "orgeclipsejettyjettyutil"
+"orgeclipsejettywebsocketwebsocketcommon" -> "orgeclipsejettywebsocketwebsocketapi"
+"orgeclipsejettyjettyservlets" -> "orgeclipsejettyjettycontinuation"
+"orgeclipsejettyjettyservlets" -> "orgeclipsejettyjettyhttp"
+"orgeclipsejettyjettyservlets" -> "orgeclipsejettyjettyio"
+"orgeclipsejettyjettyservlets" -> "orgeclipsejettyjettyutil"
+"orgeclipsejettyapachejsp" -> "orgeclipsejettyjettyserver"
+"orgeclipsejettyapachejsp" -> "orgeclipsejettyjettyutil"
+"orgeclipsejettyapachejsp" -> "orgmortbayjasperapachejsp"
+"orgeclipsejettyapachejsp" -> "orgeclipsejettytoolchainjettyschemas"
+"orgeclipsejettyapachejsp" -> "javaxservletjavaxservletapi"
+"orgmortbayjasperapachejsp" -> "orgeclipsejettytoolchainjettyschemas"
+"orgmortbayjasperapachejsp" -> "orgmortbayjasperapacheel"
+"comgoogleelemental2elemental2promise" -> "comgooglejsinteropbase"
+"comgoogleelemental2elemental2promise" -> "comgooglejsinteropjsinteropannotations"
+"comgooglejsinteropbase" -> "comgooglejsinteropjsinteropannotations"
+"comgoogleguavaguavatestlib" -> "comgooglecodefindbugsjsr305"
+"comgoogleguavaguavatestlib" -> "orgcheckerframeworkcheckerqual"
+"comgoogleguavaguavatestlib" -> "comgoogleerrorproneerror_prone_annotations"
+"comgoogleguavaguavatestlib" -> "comgooglej2objcj2objcannotations"
+"comgoogleguavaguavatestlib" -> "comgoogleguavaguava"
+"comgoogleguavaguavatestlib" -> "junitjunit"
+"junitjunit" -> "orghamcresthamcrestcore"
+"comgoogleguavaguavatests" -> "comgooglecodefindbugsjsr305"
+"comgoogleguavaguavatests" -> "orgcheckerframeworkcheckerqual"
+"comgoogleguavaguavatests" -> "comgoogleerrorproneerror_prone_annotations"
+}

@@ -1,0 +1,1015 @@
+<svg width="2548pt" height="692pt"
+ viewBox="0.00 0.00 2547.50 692.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 688)">
+<title>G</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-688 2543.5,-688 2543.5,4 -4,4"/>
+<!-- comgoogleguavaguava -->
+<g id="node1" class="node">
+<title>comgoogleguavaguava</title>
+<polygon fill="none" stroke="black" points="1957.5,-612 1902.5,-612 1902.5,-576 1957.5,-576 1957.5,-612"/>
+<text text-anchor="middle" x="1930" y="-590.3" font-family="Times New Roman" font-size="14.00">guava</text>
+</g>
+<!-- comgoogleguavafailureaccess -->
+<g id="node2" class="node">
+<title>comgoogleguavafailureaccess</title>
+<polygon fill="none" stroke="black" points="1754,-540 1658,-540 1658,-504 1754,-504 1754,-540"/>
+<text text-anchor="middle" x="1706" y="-518.3" font-family="Times New Roman" font-size="14.00">failureaccess</text>
+</g>
+<!-- comgoogleguavaguava&#45;&gt;comgoogleguavafailureaccess -->
+<g id="edge1" class="edge">
+<title>comgoogleguavaguava&#45;&gt;comgoogleguavafailureaccess</title>
+<path fill="none" stroke="black" d="M1902.08,-584.28C1867.74,-573.54 1808.53,-555.04 1764.14,-541.17"/>
+<polygon fill="black" stroke="black" points="1764.93,-537.75 1754.34,-538.11 1762.84,-544.43 1764.93,-537.75"/>
+</g>
+<!-- comgoogleguavalistenablefuture -->
+<g id="node3" class="node">
+<title>comgoogleguavalistenablefuture</title>
+<polygon fill="none" stroke="black" points="1885.5,-540 1772.5,-540 1772.5,-504 1885.5,-504 1885.5,-540"/>
+<text text-anchor="middle" x="1829" y="-518.3" font-family="Times New Roman" font-size="14.00">listenablefuture</text>
+</g>
+<!-- comgoogleguavaguava&#45;&gt;comgoogleguavalistenablefuture -->
+<g id="edge2" class="edge">
+<title>comgoogleguavaguava&#45;&gt;comgoogleguavalistenablefuture</title>
+<path fill="none" stroke="black" d="M1905.29,-575.88C1892.33,-566.89 1876.27,-555.76 1862.23,-546.03"/>
+<polygon fill="black" stroke="black" points="1864.02,-543.01 1853.8,-540.19 1860.03,-548.76 1864.02,-543.01"/>
+</g>
+<!-- comgooglecodefindbugsjsr305 -->
+<g id="node4" class="node">
+<title>comgooglecodefindbugsjsr305</title>
+<polygon fill="none" stroke="black" points="1958,-540 1904,-540 1904,-504 1958,-504 1958,-540"/>
+<text text-anchor="middle" x="1931" y="-518.3" font-family="Times New Roman" font-size="14.00">jsr305</text>
+</g>
+<!-- comgoogleguavaguava&#45;&gt;comgooglecodefindbugsjsr305 -->
+<g id="edge3" class="edge">
+<title>comgoogleguavaguava&#45;&gt;comgooglecodefindbugsjsr305</title>
+<path fill="none" stroke="black" d="M1930.25,-575.7C1930.36,-567.98 1930.49,-558.71 1930.61,-550.11"/>
+<polygon fill="black" stroke="black" points="1934.11,-550.15 1930.76,-540.1 1927.11,-550.05 1934.11,-550.15"/>
+</g>
+<!-- orgcheckerframeworkcheckerqual -->
+<g id="node5" class="node">
+<title>orgcheckerframeworkcheckerqual</title>
+<polygon fill="none" stroke="black" points="2264,-540 2166,-540 2166,-504 2264,-504 2264,-540"/>
+<text text-anchor="middle" x="2215" y="-518.3" font-family="Times New Roman" font-size="14.00">checker&#45;qual</text>
+</g>
+<!-- comgoogleguavaguava&#45;&gt;orgcheckerframeworkcheckerqual -->
+<g id="edge4" class="edge">
+<title>comgoogleguavaguava&#45;&gt;orgcheckerframeworkcheckerqual</title>
+<path fill="none" stroke="black" d="M1957.73,-587.05C1998.86,-578.11 2078.68,-560.33 2155.81,-540.24"/>
+<polygon fill="black" stroke="black" points="2156.91,-543.58 2165.69,-537.66 2155.13,-536.8 2156.91,-543.58"/>
+</g>
+<!-- comgoogleerrorproneerror_prone_annotations -->
+<g id="node6" class="node">
+<title>comgoogleerrorproneerror_prone_annotations</title>
+<polygon fill="none" stroke="black" points="2148,-540 1976,-540 1976,-504 2148,-504 2148,-540"/>
+<text text-anchor="middle" x="2062" y="-518.3" font-family="Times New Roman" font-size="14.00">error_prone_annotations</text>
+</g>
+<!-- comgoogleguavaguava&#45;&gt;comgoogleerrorproneerror_prone_annotations -->
+<g id="edge5" class="edge">
+<title>comgoogleguavaguava&#45;&gt;comgoogleerrorproneerror_prone_annotations</title>
+<path fill="none" stroke="black" d="M1957.67,-578.33C1975.98,-568.62 2000.31,-555.72 2020.87,-544.81"/>
+<polygon fill="black" stroke="black" points="2022.52,-547.9 2029.71,-540.12 2019.24,-541.71 2022.52,-547.9"/>
+</g>
+<!-- comgooglej2objcj2objcannotations -->
+<g id="node7" class="node">
+<title>comgooglej2objcj2objcannotations</title>
+<polygon fill="none" stroke="black" points="2414,-540 2282,-540 2282,-504 2414,-504 2414,-540"/>
+<text text-anchor="middle" x="2348" y="-518.3" font-family="Times New Roman" font-size="14.00">j2objc&#45;annotations</text>
+</g>
+<!-- comgoogleguavaguava&#45;&gt;comgooglej2objcj2objcannotations -->
+<g id="edge6" class="edge">
+<title>comgoogleguavaguava&#45;&gt;comgooglej2objcj2objcannotations</title>
+<path fill="none" stroke="black" d="M1957.68,-589.39C2014.59,-581.82 2149.05,-563.21 2271.85,-540.15"/>
+<polygon fill="black" stroke="black" points="2272.62,-543.57 2281.8,-538.27 2271.32,-536.69 2272.62,-543.57"/>
+</g>
+<!-- comgoogleguavaguavagwt -->
+<g id="node8" class="node">
+<title>comgoogleguavaguavagwt</title>
+<polygon fill="none" stroke="black" points="1747.5,-684 1664.5,-684 1664.5,-648 1747.5,-648 1747.5,-684"/>
+<text text-anchor="middle" x="1706" y="-662.3" font-family="Times New Roman" font-size="14.00">guava&#45;gwt</text>
+</g>
+<!-- comgoogleguavaguavagwt&#45;&gt;comgoogleguavaguava -->
+<g id="edge10" class="edge">
+<title>comgoogleguavaguavagwt&#45;&gt;comgoogleguavaguava</title>
+<path fill="none" stroke="black" d="M1747.61,-652C1789.25,-638.99 1852.72,-619.15 1892.75,-606.64"/>
+<polygon fill="black" stroke="black" points="1893.89,-609.95 1902.39,-603.63 1891.8,-603.27 1893.89,-609.95"/>
+</g>
+<!-- comgoogleguavaguavagwt&#45;&gt;comgoogleguavafailureaccess -->
+<g id="edge9" class="edge">
+<title>comgoogleguavaguavagwt&#45;&gt;comgoogleguavafailureaccess</title>
+<path fill="none" stroke="black" d="M1706,-647.87C1706,-623.67 1706,-579.21 1706,-550.39"/>
+<polygon fill="black" stroke="black" points="1709.5,-550.19 1706,-540.19 1702.5,-550.19 1709.5,-550.19"/>
+</g>
+<!-- comgoogleguavaguavagwt&#45;&gt;orgcheckerframeworkcheckerqual -->
+<g id="edge12" class="edge">
+<title>comgoogleguavaguavagwt&#45;&gt;orgcheckerframeworkcheckerqual</title>
+<path fill="none" stroke="black" d="M1747.83,-663.04C1858.97,-657.48 2155.47,-640.12 2189,-612 2206.88,-597.01 2212.85,-570.46 2214.66,-550.25"/>
+<polygon fill="black" stroke="black" points="2218.16,-550.26 2215.28,-540.07 2211.18,-549.84 2218.16,-550.26"/>
+</g>
+<!-- comgoogleguavaguavagwt&#45;&gt;comgoogleerrorproneerror_prone_annotations -->
+<g id="edge13" class="edge">
+<title>comgoogleguavaguavagwt&#45;&gt;comgoogleerrorproneerror_prone_annotations</title>
+<path fill="none" stroke="black" d="M1747.64,-663.5C1801.17,-660.06 1895.72,-648.8 1967,-612 1997.32,-596.35 2024.91,-568.21 2042.46,-547.75"/>
+<polygon fill="black" stroke="black" points="2045.16,-549.97 2048.89,-540.06 2039.79,-545.48 2045.16,-549.97"/>
+</g>
+<!-- comgooglegwtgwtuser -->
+<g id="node9" class="node">
+<title>comgooglegwtgwtuser</title>
+<polygon fill="none" stroke="black" points="91,-612 19,-612 19,-576 91,-576 91,-612"/>
+<text text-anchor="middle" x="55" y="-590.3" font-family="Times New Roman" font-size="14.00">gwt&#45;user</text>
+</g>
+<!-- comgoogleguavaguavagwt&#45;&gt;comgooglegwtgwtuser -->
+<g id="edge7" class="edge">
+<title>comgoogleguavaguavagwt&#45;&gt;comgooglegwtgwtuser</title>
+<path fill="none" stroke="black" d="M1664.26,-665.31C1444.08,-666.7 416.08,-669.92 104,-612 102.94,-611.8 101.87,-611.59 100.79,-611.35"/>
+<polygon fill="black" stroke="black" points="101.62,-607.95 91.06,-608.87 99.88,-614.73 101.62,-607.95"/>
+</g>
+<!-- comgooglegwtgwtdev -->
+<g id="node11" class="node">
+<title>comgooglegwtgwtdev</title>
+<polygon fill="none" stroke="black" points="760,-612 692,-612 692,-576 760,-576 760,-612"/>
+<text text-anchor="middle" x="726" y="-590.3" font-family="Times New Roman" font-size="14.00">gwt&#45;dev</text>
+</g>
+<!-- comgoogleguavaguavagwt&#45;&gt;comgooglegwtgwtdev -->
+<g id="edge8" class="edge">
+<title>comgoogleguavaguavagwt&#45;&gt;comgooglegwtgwtdev</title>
+<path fill="none" stroke="black" d="M1664.2,-662.01C1504.58,-650.61 934.2,-609.87 770.32,-598.17"/>
+<polygon fill="black" stroke="black" points="770.35,-594.66 760.13,-597.44 769.85,-601.64 770.35,-594.66"/>
+</g>
+<!-- comgoogleelemental2elemental2promise -->
+<g id="node60" class="node">
+<title>comgoogleelemental2elemental2promise</title>
+<polygon fill="none" stroke="black" points="253,-612 113,-612 113,-576 253,-576 253,-612"/>
+<text text-anchor="middle" x="183" y="-590.3" font-family="Times New Roman" font-size="14.00">elemental2&#45;promise</text>
+</g>
+<!-- comgoogleguavaguavagwt&#45;&gt;comgoogleelemental2elemental2promise -->
+<g id="edge11" class="edge">
+<title>comgoogleguavaguavagwt&#45;&gt;comgoogleelemental2elemental2promise</title>
+<path fill="none" stroke="black" d="M1664.47,-663.09C1458.09,-653.61 541.62,-611.48 263.37,-598.69"/>
+<polygon fill="black" stroke="black" points="263.5,-595.2 253.35,-598.23 263.18,-602.19 263.5,-595.2"/>
+</g>
+<!-- javaxvalidationvalidationapi -->
+<g id="node10" class="node">
+<title>javaxvalidationvalidationapi</title>
+<polygon fill="none" stroke="black" points="100,-540 0,-540 0,-504 100,-504 100,-540"/>
+<text text-anchor="middle" x="50" y="-518.3" font-family="Times New Roman" font-size="14.00">validation&#45;api</text>
+</g>
+<!-- comgooglegwtgwtuser&#45;&gt;javaxvalidationvalidationapi -->
+<g id="edge14" class="edge">
+<title>comgooglegwtgwtuser&#45;&gt;javaxvalidationvalidationapi</title>
+<path fill="none" stroke="black" d="M53.76,-575.7C53.21,-567.98 52.55,-558.71 51.94,-550.11"/>
+<polygon fill="black" stroke="black" points="55.43,-549.83 51.22,-540.1 48.44,-550.33 55.43,-549.83"/>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;comgooglecodefindbugsjsr305 -->
+<g id="edge15" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;comgooglecodefindbugsjsr305</title>
+<path fill="none" stroke="black" d="M760.1,-593.26C926.13,-594.25 1651.48,-595.38 1894.09,-539.52"/>
+<polygon fill="black" stroke="black" points="1894.99,-542.9 1903.9,-537.16 1893.36,-536.09 1894.99,-542.9"/>
+</g>
+<!-- comgooglecodegsongson -->
+<g id="node12" class="node">
+<title>comgooglecodegsongson</title>
+<polygon fill="none" stroke="black" points="584,-540 530,-540 530,-504 584,-504 584,-540"/>
+<text text-anchor="middle" x="557" y="-518.3" font-family="Times New Roman" font-size="14.00">gson</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;comgooglecodegsongson -->
+<g id="edge16" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;comgooglecodegsongson</title>
+<path fill="none" stroke="black" d="M691.77,-578.83C665.99,-568.16 629.77,-553.17 598,-540 596.62,-539.43 595.22,-538.85 593.8,-538.26"/>
+<polygon fill="black" stroke="black" points="594.92,-534.94 584.35,-534.34 592.24,-541.4 594.92,-534.94"/>
+</g>
+<!-- orgeclipsejettyjettyannotations -->
+<g id="node13" class="node">
+<title>orgeclipsejettyjettyannotations</title>
+<polygon fill="none" stroke="black" points="922,-540 800,-540 800,-504 922,-504 922,-540"/>
+<text text-anchor="middle" x="861" y="-518.3" font-family="Times New Roman" font-size="14.00">jetty&#45;annotations</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;orgeclipsejettyjettyannotations -->
+<g id="edge17" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;orgeclipsejettyjettyannotations</title>
+<path fill="none" stroke="black" d="M759.02,-575.88C777.08,-566.51 799.65,-554.81 818.95,-544.8"/>
+<polygon fill="black" stroke="black" points="820.58,-547.9 827.85,-540.19 817.36,-541.69 820.58,-547.9"/>
+</g>
+<!-- orgow2asmasmcommons -->
+<g id="node14" class="node">
+<title>orgow2asmasmcommons</title>
+<polygon fill="none" stroke="black" points="755.5,-468 648.5,-468 648.5,-432 755.5,-432 755.5,-468"/>
+<text text-anchor="middle" x="702" y="-446.3" font-family="Times New Roman" font-size="14.00">asm&#45;commons</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;orgow2asmasmcommons -->
+<g id="edge19" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;orgow2asmasmcommons</title>
+<path fill="none" stroke="black" d="M723.11,-575.87C719.01,-551.67 711.5,-507.21 706.63,-478.39"/>
+<polygon fill="black" stroke="black" points="710.02,-477.47 704.91,-468.19 703.12,-478.63 710.02,-477.47"/>
+</g>
+<!-- orgow2asmasm -->
+<g id="node16" class="node">
+<title>orgow2asmasm</title>
+<polygon fill="none" stroke="black" points="678,-324 624,-324 624,-288 678,-288 678,-324"/>
+<text text-anchor="middle" x="651" y="-302.3" font-family="Times New Roman" font-size="14.00">asm</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;orgow2asmasm -->
+<g id="edge20" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;orgow2asmasm</title>
+<path fill="none" stroke="black" d="M705.39,-575.83C693.21,-565.58 677.58,-552.22 664,-540 646.71,-524.44 645.02,-517.4 626,-504 597.08,-483.62 573.52,-498.15 555,-468 525.11,-419.33 581.33,-361.72 619.64,-330.3"/>
+<polygon fill="black" stroke="black" points="621.88,-332.99 627.5,-324.01 617.51,-327.52 621.88,-332.99"/>
+</g>
+<!-- orgeclipsejettyjettywebapp -->
+<g id="node18" class="node">
+<title>orgeclipsejettyjettywebapp</title>
+<polygon fill="none" stroke="black" points="1033.5,-396 934.5,-396 934.5,-360 1033.5,-360 1033.5,-396"/>
+<text text-anchor="middle" x="984" y="-374.3" font-family="Times New Roman" font-size="14.00">jetty&#45;webapp</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;orgeclipsejettyjettywebapp -->
+<g id="edge28" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;orgeclipsejettyjettywebapp</title>
+<path fill="none" stroke="black" d="M760.05,-593.93C836.5,-593.91 1020.84,-581.54 1095,-468 1103.75,-454.6 1103.54,-445.53 1095,-432 1083.3,-413.44 1063.11,-401.25 1043.14,-393.29"/>
+<polygon fill="black" stroke="black" points="1044.29,-389.99 1033.7,-389.82 1041.88,-396.56 1044.29,-389.99"/>
+</g>
+<!-- orgow2asmasmutil -->
+<g id="node29" class="node">
+<title>orgow2asmasmutil</title>
+<polygon fill="none" stroke="black" points="630,-468 564,-468 564,-432 630,-432 630,-468"/>
+<text text-anchor="middle" x="597" y="-446.3" font-family="Times New Roman" font-size="14.00">asm&#45;util</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;orgow2asmasmutil -->
+<g id="edge18" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;orgow2asmasmutil</title>
+<path fill="none" stroke="black" d="M716.14,-575.84C704.89,-557.06 685.29,-526.63 664,-504 653.86,-493.22 641.44,-482.79 630.07,-474.08"/>
+<polygon fill="black" stroke="black" points="632.12,-471.25 622.02,-468.06 627.93,-476.85 632.12,-471.25"/>
+</g>
+<!-- coltcolt -->
+<g id="node30" class="node">
+<title>coltcolt</title>
+<polygon fill="none" stroke="black" points="282,-540 228,-540 228,-504 282,-504 282,-540"/>
+<text text-anchor="middle" x="255" y="-518.3" font-family="Times New Roman" font-size="14.00">colt</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;coltcolt -->
+<g id="edge21" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;coltcolt</title>
+<path fill="none" stroke="black" d="M691.98,-592.52C619.31,-590.73 443.84,-582.28 292.12,-539.78"/>
+<polygon fill="black" stroke="black" points="292.74,-536.32 282.16,-536.93 290.82,-543.05 292.74,-536.32"/>
+</g>
+<!-- antant -->
+<g id="node31" class="node">
+<title>antant</title>
+<polygon fill="none" stroke="black" points="354,-540 300,-540 300,-504 354,-504 354,-540"/>
+<text text-anchor="middle" x="327" y="-518.3" font-family="Times New Roman" font-size="14.00">ant</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;antant -->
+<g id="edge22" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;antant</title>
+<path fill="none" stroke="black" d="M692,-591.39C628.51,-587.67 487.9,-576.08 363.85,-539.75"/>
+<polygon fill="black" stroke="black" points="364.77,-536.37 354.19,-536.86 362.76,-543.08 364.77,-536.37"/>
+</g>
+<!-- netsourceforgehtmlunithtmlunit -->
+<g id="node32" class="node">
+<title>netsourceforgehtmlunithtmlunit</title>
+<polygon fill="none" stroke="black" points="1640,-540 1572,-540 1572,-504 1640,-504 1640,-540"/>
+<text text-anchor="middle" x="1606" y="-518.3" font-family="Times New Roman" font-size="14.00">htmlunit</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;netsourceforgehtmlunithtmlunit -->
+<g id="edge23" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;netsourceforgehtmlunithtmlunit</title>
+<path fill="none" stroke="black" d="M760.23,-590.28C897.43,-579.36 1407.59,-538.78 1561.66,-526.53"/>
+<polygon fill="black" stroke="black" points="1562.01,-530.01 1571.71,-525.73 1561.46,-523.03 1562.01,-530.01"/>
+</g>
+<!-- commonscollectionscommonscollections -->
+<g id="node33" class="node">
+<title>commonscollectionscommonscollections</title>
+<polygon fill="none" stroke="black" points="1436,-468 1290,-468 1290,-432 1436,-432 1436,-468"/>
+<text text-anchor="middle" x="1363" y="-446.3" font-family="Times New Roman" font-size="14.00">commons&#45;collections</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;commonscollectionscommonscollections -->
+<g id="edge24" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;commonscollectionscommonscollections</title>
+<path fill="none" stroke="black" d="M760.01,-593.53C838.79,-593.82 1039.09,-589.21 1197,-540 1246.08,-524.7 1297.49,-494.63 1329.85,-473.7"/>
+<polygon fill="black" stroke="black" points="1332.01,-476.46 1338.46,-468.05 1328.17,-470.61 1332.01,-476.46"/>
+</g>
+<!-- commonsiocommonsio -->
+<g id="node34" class="node">
+<title>commonsiocommonsio</title>
+<polygon fill="none" stroke="black" points="1272,-468 1180,-468 1180,-432 1272,-432 1272,-468"/>
+<text text-anchor="middle" x="1226" y="-446.3" font-family="Times New Roman" font-size="14.00">commons&#45;io</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;commonsiocommonsio -->
+<g id="edge25" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;commonsiocommonsio</title>
+<path fill="none" stroke="black" d="M760.06,-592.5C851.12,-590.6 1097.89,-581.64 1166,-540 1189.61,-525.57 1206.01,-497.94 1215.63,-477.27"/>
+<polygon fill="black" stroke="black" points="1218.86,-478.62 1219.69,-468.06 1212.46,-475.8 1218.86,-478.62"/>
+</g>
+<!-- comibmicuicu4j -->
+<g id="node52" class="node">
+<title>comibmicuicu4j</title>
+<polygon fill="none" stroke="black" points="426,-540 372,-540 372,-504 426,-504 426,-540"/>
+<text text-anchor="middle" x="399" y="-518.3" font-family="Times New Roman" font-size="14.00">icu4j</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;comibmicuicu4j -->
+<g id="edge26" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;comibmicuicu4j</title>
+<path fill="none" stroke="black" d="M691.84,-589.56C636.93,-583.41 526.05,-568.42 436,-540 435.9,-539.97 435.8,-539.94 435.7,-539.9"/>
+<polygon fill="black" stroke="black" points="436.77,-536.57 426.18,-536.41 434.36,-543.14 436.77,-536.57"/>
+</g>
+<!-- tapestrytapestry -->
+<g id="node53" class="node">
+<title>tapestrytapestry</title>
+<polygon fill="none" stroke="black" points="511.5,-540 444.5,-540 444.5,-504 511.5,-504 511.5,-540"/>
+<text text-anchor="middle" x="478" y="-518.3" font-family="Times New Roman" font-size="14.00">tapestry</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;tapestrytapestry -->
+<g id="edge27" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;tapestrytapestry</title>
+<path fill="none" stroke="black" d="M691.9,-585.54C652.83,-576.7 586.81,-560.86 521.31,-539.89"/>
+<polygon fill="black" stroke="black" points="522.25,-536.52 511.66,-536.76 520.09,-543.18 522.25,-536.52"/>
+</g>
+<!-- orgeclipsejettyjettyservlets -->
+<g id="node54" class="node">
+<title>orgeclipsejettyjettyservlets</title>
+<polygon fill="none" stroke="black" points="1261.5,-180 1166.5,-180 1166.5,-144 1261.5,-144 1261.5,-180"/>
+<text text-anchor="middle" x="1214" y="-158.3" font-family="Times New Roman" font-size="14.00">jetty&#45;servlets</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;orgeclipsejettyjettyservlets -->
+<g id="edge29" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;orgeclipsejettyjettyservlets</title>
+<path fill="none" stroke="black" d="M760.47,-593.73C822.41,-593.71 955.25,-587.55 1054,-540 1107.01,-514.47 1152,-509.84 1152,-451 1152,-451 1152,-451 1152,-305 1152,-261.5 1176.74,-216.29 1194.97,-188.89"/>
+<polygon fill="black" stroke="black" points="1198.08,-190.54 1200.85,-180.31 1192.31,-186.58 1198.08,-190.54"/>
+</g>
+<!-- orgeclipsejettyapachejsp -->
+<g id="node56" class="node">
+<title>orgeclipsejettyapachejsp</title>
+<polygon fill="none" stroke="black" points="778,-252 692,-252 692,-216 778,-216 778,-252"/>
+<text text-anchor="middle" x="735" y="-230.3" font-family="Times New Roman" font-size="14.00">apache&#45;jsp</text>
+</g>
+<!-- comgooglegwtgwtdev&#45;&gt;orgeclipsejettyapachejsp -->
+<g id="edge30" class="edge">
+<title>comgooglegwtgwtdev&#45;&gt;orgeclipsejettyapachejsp</title>
+<path fill="none" stroke="black" d="M691.86,-578.47C671.68,-569.05 646.21,-555.62 626,-540 608.83,-526.72 609.29,-518.34 593,-504 572.17,-485.67 554.76,-492.63 542,-468 534.64,-453.79 540.47,-447.93 542,-432 548.88,-360.58 557.88,-331.43 615,-288 635.06,-272.75 660.19,-260.78 682.26,-252.11"/>
+<polygon fill="black" stroke="black" points="683.73,-255.3 691.84,-248.47 681.24,-248.75 683.73,-255.3"/>
+</g>
+<!-- orgeclipsejettyjettyannotations&#45;&gt;orgow2asmasmcommons -->
+<g id="edge31" class="edge">
+<title>orgeclipsejettyjettyannotations&#45;&gt;orgow2asmasmcommons</title>
+<path fill="none" stroke="black" d="M822.1,-503.88C800.37,-494.31 773.1,-482.3 750.04,-472.15"/>
+<polygon fill="black" stroke="black" points="751.33,-468.89 740.77,-468.07 748.51,-475.3 751.33,-468.89"/>
+</g>
+<!-- orgeclipsejettyjettyannotations&#45;&gt;orgow2asmasm -->
+<g id="edge32" class="edge">
+<title>orgeclipsejettyjettyannotations&#45;&gt;orgow2asmasm</title>
+<path fill="none" stroke="black" d="M841.6,-503.92C830.17,-493.7 815.54,-480.34 803,-468 755.51,-421.28 702.66,-364.03 673.47,-331.92"/>
+<polygon fill="black" stroke="black" points="675.88,-329.37 666.57,-324.32 670.7,-334.07 675.88,-329.37"/>
+</g>
+<!-- orgeclipsejettyjettyplus -->
+<g id="node17" class="node">
+<title>orgeclipsejettyjettyplus</title>
+<polygon fill="none" stroke="black" points="1086,-468 1012,-468 1012,-432 1086,-432 1086,-468"/>
+<text text-anchor="middle" x="1049" y="-446.3" font-family="Times New Roman" font-size="14.00">jetty&#45;plus</text>
+</g>
+<!-- orgeclipsejettyjettyannotations&#45;&gt;orgeclipsejettyjettyplus -->
+<g id="edge33" class="edge">
+<title>orgeclipsejettyjettyannotations&#45;&gt;orgeclipsejettyjettyplus</title>
+<path fill="none" stroke="black" d="M906.99,-503.88C936,-493.08 973.34,-479.17 1002.45,-468.33"/>
+<polygon fill="black" stroke="black" points="1003.84,-471.55 1011.99,-464.78 1001.39,-464.99 1003.84,-471.55"/>
+</g>
+<!-- orgeclipsejettyjettyannotations&#45;&gt;orgeclipsejettyjettywebapp -->
+<g id="edge34" class="edge">
+<title>orgeclipsejettyjettyannotations&#45;&gt;orgeclipsejettyjettywebapp</title>
+<path fill="none" stroke="black" d="M915.77,-503.97C933.9,-495.79 952.6,-484.15 965,-468 978.5,-450.43 982.91,-425.39 984.14,-406.35"/>
+<polygon fill="black" stroke="black" points="987.64,-406.33 984.53,-396.2 980.65,-406.06 987.64,-406.33"/>
+</g>
+<!-- javaxannotationjavaxannotationapi -->
+<g id="node28" class="node">
+<title>javaxannotationjavaxannotationapi</title>
+<polygon fill="none" stroke="black" points="956,-468 812,-468 812,-432 956,-432 956,-468"/>
+<text text-anchor="middle" x="884" y="-446.3" font-family="Times New Roman" font-size="14.00">javax.annotation&#45;api</text>
+</g>
+<!-- orgeclipsejettyjettyannotations&#45;&gt;javaxannotationjavaxannotationapi -->
+<g id="edge35" class="edge">
+<title>orgeclipsejettyjettyannotations&#45;&gt;javaxannotationjavaxannotationapi</title>
+<path fill="none" stroke="black" d="M866.69,-503.7C869.25,-495.9 872.33,-486.51 875.18,-477.83"/>
+<polygon fill="black" stroke="black" points="878.58,-478.7 878.38,-468.1 871.93,-476.51 878.58,-478.7"/>
+</g>
+<!-- orgow2asmasmtree -->
+<g id="node15" class="node">
+<title>orgow2asmasmtree</title>
+<polygon fill="none" stroke="black" points="687,-396 615,-396 615,-360 687,-360 687,-396"/>
+<text text-anchor="middle" x="651" y="-374.3" font-family="Times New Roman" font-size="14.00">asm&#45;tree</text>
+</g>
+<!-- orgow2asmasmcommons&#45;&gt;orgow2asmasmtree -->
+<g id="edge36" class="edge">
+<title>orgow2asmasmcommons&#45;&gt;orgow2asmasmtree</title>
+<path fill="none" stroke="black" d="M689.39,-431.7C683.4,-423.47 676.12,-413.48 669.52,-404.42"/>
+<polygon fill="black" stroke="black" points="672.18,-402.13 663.46,-396.1 666.52,-406.25 672.18,-402.13"/>
+</g>
+<!-- orgow2asmasmtree&#45;&gt;orgow2asmasm -->
+<g id="edge37" class="edge">
+<title>orgow2asmasmtree&#45;&gt;orgow2asmasm</title>
+<path fill="none" stroke="black" d="M651,-359.7C651,-351.98 651,-342.71 651,-334.11"/>
+<polygon fill="black" stroke="black" points="654.5,-334.1 651,-324.1 647.5,-334.1 654.5,-334.1"/>
+</g>
+<!-- orgeclipsejettyjettyplus&#45;&gt;orgeclipsejettyjettywebapp -->
+<g id="edge38" class="edge">
+<title>orgeclipsejettyjettyplus&#45;&gt;orgeclipsejettyjettywebapp</title>
+<path fill="none" stroke="black" d="M1032.93,-431.7C1025.06,-423.22 1015.44,-412.86 1006.83,-403.58"/>
+<polygon fill="black" stroke="black" points="1009.25,-401.05 999.88,-396.1 1004.12,-405.81 1009.25,-401.05"/>
+</g>
+<!-- orgeclipsejettyjettyjndi -->
+<g id="node27" class="node">
+<title>orgeclipsejettyjettyjndi</title>
+<polygon fill="none" stroke="black" points="1098,-252 1026,-252 1026,-216 1098,-216 1098,-252"/>
+<text text-anchor="middle" x="1062" y="-230.3" font-family="Times New Roman" font-size="14.00">jetty&#45;jndi</text>
+</g>
+<!-- orgeclipsejettyjettyplus&#45;&gt;orgeclipsejettyjettyjndi -->
+<g id="edge39" class="edge">
+<title>orgeclipsejettyjettyplus&#45;&gt;orgeclipsejettyjettyjndi</title>
+<path fill="none" stroke="black" d="M1050.04,-431.85C1052.29,-394.83 1057.62,-307.18 1060.34,-262.39"/>
+<polygon fill="black" stroke="black" points="1063.84,-262.43 1060.95,-252.23 1056.85,-262 1063.84,-262.43"/>
+</g>
+<!-- orgeclipsejettyjettyxml -->
+<g id="node19" class="node">
+<title>orgeclipsejettyjettyxml</title>
+<polygon fill="none" stroke="black" points="892.5,-252 821.5,-252 821.5,-216 892.5,-216 892.5,-252"/>
+<text text-anchor="middle" x="857" y="-230.3" font-family="Times New Roman" font-size="14.00">jetty&#45;xml</text>
+</g>
+<!-- orgeclipsejettyjettywebapp&#45;&gt;orgeclipsejettyjettyxml -->
+<g id="edge40" class="edge">
+<title>orgeclipsejettyjettywebapp&#45;&gt;orgeclipsejettyjettyxml</title>
+<path fill="none" stroke="black" d="M959.77,-359.82C946.91,-350.09 931.28,-337.24 919,-324 900.85,-304.42 883.78,-279.22 872.17,-260.64"/>
+<polygon fill="black" stroke="black" points="875.14,-258.79 866.93,-252.11 869.18,-262.46 875.14,-258.79"/>
+</g>
+<!-- orgeclipsejettyjettyservlet -->
+<g id="node21" class="node">
+<title>orgeclipsejettyjettyservlet</title>
+<polygon fill="none" stroke="black" points="1016.5,-324 927.5,-324 927.5,-288 1016.5,-288 1016.5,-324"/>
+<text text-anchor="middle" x="972" y="-302.3" font-family="Times New Roman" font-size="14.00">jetty&#45;servlet</text>
+</g>
+<!-- orgeclipsejettyjettywebapp&#45;&gt;orgeclipsejettyjettyservlet -->
+<g id="edge41" class="edge">
+<title>orgeclipsejettyjettywebapp&#45;&gt;orgeclipsejettyjettyservlet</title>
+<path fill="none" stroke="black" d="M981.03,-359.7C979.71,-351.98 978.12,-342.71 976.65,-334.11"/>
+<polygon fill="black" stroke="black" points="980.07,-333.37 974.93,-324.1 973.17,-334.55 980.07,-333.37"/>
+</g>
+<!-- orgeclipsejettyjettyutil -->
+<g id="node20" class="node">
+<title>orgeclipsejettyjettyutil</title>
+<polygon fill="none" stroke="black" points="1234,-36 1166,-36 1166,0 1234,0 1234,-36"/>
+<text text-anchor="middle" x="1200" y="-14.3" font-family="Times New Roman" font-size="14.00">jetty&#45;util</text>
+</g>
+<!-- orgeclipsejettyjettyxml&#45;&gt;orgeclipsejettyjettyutil -->
+<g id="edge42" class="edge">
+<title>orgeclipsejettyjettyxml&#45;&gt;orgeclipsejettyjettyutil</title>
+<path fill="none" stroke="black" d="M853.11,-215.93C846.77,-183.2 838.36,-111.36 876,-72 913.7,-32.58 1076.15,-22.48 1155.73,-19.89"/>
+<polygon fill="black" stroke="black" points="1156.04,-23.38 1165.93,-19.59 1155.83,-16.39 1156.04,-23.38"/>
+</g>
+<!-- orgeclipsejettyjettysecurity -->
+<g id="node22" class="node">
+<title>orgeclipsejettyjettysecurity</title>
+<polygon fill="none" stroke="black" points="1007.5,-252 910.5,-252 910.5,-216 1007.5,-216 1007.5,-252"/>
+<text text-anchor="middle" x="959" y="-230.3" font-family="Times New Roman" font-size="14.00">jetty&#45;security</text>
+</g>
+<!-- orgeclipsejettyjettyservlet&#45;&gt;orgeclipsejettyjettysecurity -->
+<g id="edge43" class="edge">
+<title>orgeclipsejettyjettyservlet&#45;&gt;orgeclipsejettyjettysecurity</title>
+<path fill="none" stroke="black" d="M968.79,-287.7C967.35,-279.98 965.63,-270.71 964.04,-262.11"/>
+<polygon fill="black" stroke="black" points="967.44,-261.3 962.18,-252.1 960.56,-262.58 967.44,-261.3"/>
+</g>
+<!-- orgeclipsejettyjettyserver -->
+<g id="node23" class="node">
+<title>orgeclipsejettyjettyserver</title>
+<polygon fill="none" stroke="black" points="1002.5,-180 915.5,-180 915.5,-144 1002.5,-144 1002.5,-180"/>
+<text text-anchor="middle" x="959" y="-158.3" font-family="Times New Roman" font-size="14.00">jetty&#45;server</text>
+</g>
+<!-- orgeclipsejettyjettysecurity&#45;&gt;orgeclipsejettyjettyserver -->
+<g id="edge44" class="edge">
+<title>orgeclipsejettyjettysecurity&#45;&gt;orgeclipsejettyjettyserver</title>
+<path fill="none" stroke="black" d="M959,-215.7C959,-207.98 959,-198.71 959,-190.11"/>
+<polygon fill="black" stroke="black" points="962.5,-190.1 959,-180.1 955.5,-190.1 962.5,-190.1"/>
+</g>
+<!-- orgeclipsejettyjettyhttp -->
+<g id="node24" class="node">
+<title>orgeclipsejettyjettyhttp</title>
+<polygon fill="none" stroke="black" points="1133,-108 1059,-108 1059,-72 1133,-72 1133,-108"/>
+<text text-anchor="middle" x="1096" y="-86.3" font-family="Times New Roman" font-size="14.00">jetty&#45;http</text>
+</g>
+<!-- orgeclipsejettyjettyserver&#45;&gt;orgeclipsejettyjettyhttp -->
+<g id="edge45" class="edge">
+<title>orgeclipsejettyjettyserver&#45;&gt;orgeclipsejettyjettyhttp</title>
+<path fill="none" stroke="black" d="M992.51,-143.88C1010.84,-134.51 1033.74,-122.81 1053.33,-112.8"/>
+<polygon fill="black" stroke="black" points="1055.04,-115.86 1062.36,-108.19 1051.86,-109.62 1055.04,-115.86"/>
+</g>
+<!-- orgeclipsejettyjettyio -->
+<g id="node25" class="node">
+<title>orgeclipsejettyjettyio</title>
+<polygon fill="none" stroke="black" points="1392.5,-108 1333.5,-108 1333.5,-72 1392.5,-72 1392.5,-108"/>
+<text text-anchor="middle" x="1363" y="-86.3" font-family="Times New Roman" font-size="14.00">jetty&#45;io</text>
+</g>
+<!-- orgeclipsejettyjettyserver&#45;&gt;orgeclipsejettyjettyio -->
+<g id="edge46" class="edge">
+<title>orgeclipsejettyjettyserver&#45;&gt;orgeclipsejettyjettyio</title>
+<path fill="none" stroke="black" d="M1002.51,-154.75C1065.3,-145.55 1184.89,-127.34 1286,-108 1298.29,-105.65 1311.62,-102.81 1323.68,-100.13"/>
+<polygon fill="black" stroke="black" points="1324.47,-103.54 1333.46,-97.93 1322.94,-96.71 1324.47,-103.54"/>
+</g>
+<!-- javaxservletjavaxservletapi -->
+<g id="node26" class="node">
+<title>javaxservletjavaxservletapi</title>
+<polygon fill="none" stroke="black" points="1003,-108 885,-108 885,-72 1003,-72 1003,-108"/>
+<text text-anchor="middle" x="944" y="-86.3" font-family="Times New Roman" font-size="14.00">javax.servlet&#45;api</text>
+</g>
+<!-- orgeclipsejettyjettyserver&#45;&gt;javaxservletjavaxservletapi -->
+<g id="edge47" class="edge">
+<title>orgeclipsejettyjettyserver&#45;&gt;javaxservletjavaxservletapi</title>
+<path fill="none" stroke="black" d="M955.29,-143.7C953.64,-135.98 951.65,-126.71 949.81,-118.11"/>
+<polygon fill="black" stroke="black" points="953.18,-117.15 947.67,-108.1 946.34,-118.62 953.18,-117.15"/>
+</g>
+<!-- orgeclipsejettyjettyhttp&#45;&gt;orgeclipsejettyjettyutil -->
+<g id="edge48" class="edge">
+<title>orgeclipsejettyjettyhttp&#45;&gt;orgeclipsejettyjettyutil</title>
+<path fill="none" stroke="black" d="M1121.44,-71.88C1134.79,-62.89 1151.32,-51.76 1165.78,-42.03"/>
+<polygon fill="black" stroke="black" points="1168.12,-44.68 1174.46,-36.19 1164.21,-38.87 1168.12,-44.68"/>
+</g>
+<!-- orgeclipsejettyjettyio&#45;&gt;orgeclipsejettyjettyutil -->
+<g id="edge49" class="edge">
+<title>orgeclipsejettyjettyio&#45;&gt;orgeclipsejettyjettyutil</title>
+<path fill="none" stroke="black" d="M1333.48,-76.32C1308.34,-65.53 1271.88,-49.87 1243.41,-37.64"/>
+<polygon fill="black" stroke="black" points="1244.66,-34.37 1234.09,-33.64 1241.9,-40.8 1244.66,-34.37"/>
+</g>
+<!-- orgeclipsejettyjettyjndi&#45;&gt;orgeclipsejettyjettyutil -->
+<g id="edge50" class="edge">
+<title>orgeclipsejettyjettyjndi&#45;&gt;orgeclipsejettyjettyutil</title>
+<path fill="none" stroke="black" d="M1054.2,-215.83C1041.1,-184.17 1019.01,-115.82 1050,-72 1073.81,-38.34 1120.85,-25.91 1155.93,-21.4"/>
+<polygon fill="black" stroke="black" points="1156.39,-24.87 1165.94,-20.29 1155.61,-17.92 1156.39,-24.87"/>
+</g>
+<!-- orgow2asmasmutil&#45;&gt;orgow2asmasmtree -->
+<g id="edge51" class="edge">
+<title>orgow2asmasmutil&#45;&gt;orgow2asmasmtree</title>
+<path fill="none" stroke="black" d="M610.35,-431.7C616.76,-423.39 624.56,-413.28 631.61,-404.14"/>
+<polygon fill="black" stroke="black" points="634.47,-406.16 637.81,-396.1 628.93,-401.88 634.47,-406.16"/>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;commonscollectionscommonscollections -->
+<g id="edge52" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;commonscollectionscommonscollections</title>
+<path fill="none" stroke="black" d="M1571.96,-511.19C1535.81,-500.78 1477.71,-484.04 1431.93,-470.86"/>
+<polygon fill="black" stroke="black" points="1432.65,-467.42 1422.07,-468.02 1430.71,-474.15 1432.65,-467.42"/>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;commonsiocommonsio -->
+<g id="edge53" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;commonsiocommonsio</title>
+<path fill="none" stroke="black" d="M1571.54,-516.97C1513.61,-509.85 1392.97,-493.57 1282.1,-468.08"/>
+<polygon fill="black" stroke="black" points="1282.62,-464.61 1272.09,-465.75 1281.03,-471.43 1282.62,-464.61"/>
+</g>
+<!-- xalanxalan -->
+<g id="node35" class="node">
+<title>xalanxalan</title>
+<polygon fill="none" stroke="black" points="2210,-468 2156,-468 2156,-432 2210,-432 2210,-468"/>
+<text text-anchor="middle" x="2183" y="-446.3" font-family="Times New Roman" font-size="14.00">xalan</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;xalanxalan -->
+<g id="edge54" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;xalanxalan</title>
+<path fill="none" stroke="black" d="M1640.45,-506.34C1643.31,-505.44 1646.18,-504.64 1649,-504 1862.18,-455.36 1930.36,-522.32 2146.15,-467.6"/>
+<polygon fill="black" stroke="black" points="2147.08,-470.98 2155.88,-465.08 2145.32,-464.2 2147.08,-470.98"/>
+</g>
+<!-- orgapachecommonscommonslang3 -->
+<g id="node38" class="node">
+<title>orgapachecommonscommonslang3</title>
+<polygon fill="none" stroke="black" points="2004,-468 1888,-468 1888,-432 2004,-432 2004,-468"/>
+<text text-anchor="middle" x="1946" y="-446.3" font-family="Times New Roman" font-size="14.00">commons&#45;lang3</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;orgapachecommonscommonslang3 -->
+<g id="edge55" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;orgapachecommonscommonslang3</title>
+<path fill="none" stroke="black" d="M1640.04,-506.77C1643.04,-505.75 1646.06,-504.81 1649,-504 1746.67,-477.22 1774.65,-487.65 1874,-468 1875.28,-467.75 1876.56,-467.49 1877.86,-467.22"/>
+<polygon fill="black" stroke="black" points="1878.86,-470.59 1887.92,-465.1 1877.41,-463.74 1878.86,-470.59"/>
+</g>
+<!-- orgapachehttpcomponentshttpmime -->
+<g id="node39" class="node">
+<title>orgapachehttpcomponentshttpmime</title>
+<polygon fill="none" stroke="black" points="2137.5,-468 2060.5,-468 2060.5,-432 2137.5,-432 2137.5,-468"/>
+<text text-anchor="middle" x="2099" y="-446.3" font-family="Times New Roman" font-size="14.00">httpmime</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;orgapachehttpcomponentshttpmime -->
+<g id="edge56" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;orgapachehttpcomponentshttpmime</title>
+<path fill="none" stroke="black" d="M1640.46,-506.4C1643.32,-505.49 1646.19,-504.67 1649,-504 1821.36,-463.01 1872.38,-503.27 2046,-468 2047.48,-467.7 2048.98,-467.37 2050.48,-467.02"/>
+<polygon fill="black" stroke="black" points="2051.67,-470.33 2060.47,-464.44 2049.92,-463.55 2051.67,-470.33"/>
+</g>
+<!-- orgapachehttpcomponentshttpclient -->
+<g id="node40" class="node">
+<title>orgapachehttpcomponentshttpclient</title>
+<polygon fill="none" stroke="black" points="2069.5,-396 1994.5,-396 1994.5,-360 2069.5,-360 2069.5,-396"/>
+<text text-anchor="middle" x="2032" y="-374.3" font-family="Times New Roman" font-size="14.00">httpclient</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;orgapachehttpcomponentshttpclient -->
+<g id="edge57" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;orgapachehttpcomponentshttpclient</title>
+<path fill="none" stroke="black" d="M1640.47,-506.42C1643.32,-505.5 1646.19,-504.68 1649,-504 1728,-484.87 1952.4,-522.18 2013,-468 2029.97,-452.83 2033.86,-426.53 2034.01,-406.45"/>
+<polygon fill="black" stroke="black" points="2037.51,-406.24 2033.79,-396.32 2030.51,-406.4 2037.51,-406.24"/>
+</g>
+<!-- commonscodeccommonscodec -->
+<g id="node41" class="node">
+<title>commonscodeccommonscodec</title>
+<polygon fill="none" stroke="black" points="2023.5,-324 1904.5,-324 1904.5,-288 2023.5,-288 2023.5,-324"/>
+<text text-anchor="middle" x="1964" y="-302.3" font-family="Times New Roman" font-size="14.00">commons&#45;codec</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;commonscodeccommonscodec -->
+<g id="edge58" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;commonscodeccommonscodec</title>
+<path fill="none" stroke="black" d="M1640.08,-506.9C1643.07,-505.85 1646.08,-504.87 1649,-504 1725.96,-481.15 1756.79,-508.68 1826,-468 1882.67,-434.69 1927.42,-369.53 1949.31,-333.15"/>
+<polygon fill="black" stroke="black" points="1952.56,-334.52 1954.62,-324.13 1946.53,-330.97 1952.56,-334.52"/>
+</g>
+<!-- commonsloggingcommonslogging -->
+<g id="node42" class="node">
+<title>commonsloggingcommonslogging</title>
+<polygon fill="none" stroke="black" points="1886,-324 1758,-324 1758,-288 1886,-288 1886,-324"/>
+<text text-anchor="middle" x="1822" y="-302.3" font-family="Times New Roman" font-size="14.00">commons&#45;logging</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;commonsloggingcommonslogging -->
+<g id="edge63" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;commonsloggingcommonslogging</title>
+<path fill="none" stroke="black" d="M1640.11,-506.99C1643.09,-505.93 1646.09,-504.91 1649,-504 1716.09,-483.02 1756.16,-520.41 1803,-468 1835.8,-431.29 1832.65,-369.59 1827.36,-334.18"/>
+<polygon fill="black" stroke="black" points="1830.78,-333.39 1825.69,-324.09 1823.87,-334.53 1830.78,-333.39"/>
+</g>
+<!-- netsourceforgehtmlunithtmlunitcorejs -->
+<g id="node44" class="node">
+<title>netsourceforgehtmlunithtmlunitcorejs</title>
+<polygon fill="none" stroke="black" points="1608,-468 1492,-468 1492,-432 1608,-432 1608,-468"/>
+<text text-anchor="middle" x="1550" y="-446.3" font-family="Times New Roman" font-size="14.00">htmlunit&#45;core&#45;js</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;netsourceforgehtmlunithtmlunitcorejs -->
+<g id="edge59" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;netsourceforgehtmlunithtmlunitcorejs</title>
+<path fill="none" stroke="black" d="M1592.16,-503.7C1585.51,-495.39 1577.42,-485.28 1570.11,-476.14"/>
+<polygon fill="black" stroke="black" points="1572.66,-473.73 1563.68,-468.1 1567.2,-478.1 1572.66,-473.73"/>
+</g>
+<!-- xercesxercesImpl -->
+<g id="node45" class="node">
+<title>xercesxercesImpl</title>
+<polygon fill="none" stroke="black" points="2305.5,-396 2220.5,-396 2220.5,-360 2305.5,-360 2305.5,-396"/>
+<text text-anchor="middle" x="2263" y="-374.3" font-family="Times New Roman" font-size="14.00">xercesImpl</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;xercesxercesImpl -->
+<g id="edge60" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;xercesxercesImpl</title>
+<path fill="none" stroke="black" d="M1640.44,-506.31C1643.3,-505.42 1646.18,-504.63 1649,-504 1772.87,-476.33 2113.35,-538.33 2219,-468 2240.11,-453.95 2251.49,-426.65 2257.35,-405.97"/>
+<polygon fill="black" stroke="black" points="2260.77,-406.71 2259.87,-396.15 2253.99,-404.97 2260.77,-406.71"/>
+</g>
+<!-- netsourceforgenekohtmlnekohtml -->
+<g id="node46" class="node">
+<title>netsourceforgenekohtmlnekohtml</title>
+<polygon fill="none" stroke="black" points="1700,-468 1626,-468 1626,-432 1700,-432 1700,-468"/>
+<text text-anchor="middle" x="1663" y="-446.3" font-family="Times New Roman" font-size="14.00">nekohtml</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;netsourceforgenekohtmlnekohtml -->
+<g id="edge61" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;netsourceforgenekohtmlnekohtml</title>
+<path fill="none" stroke="black" d="M1620.09,-503.7C1626.92,-495.3 1635.26,-485.07 1642.76,-475.86"/>
+<polygon fill="black" stroke="black" points="1645.47,-478.07 1649.07,-468.1 1640.04,-473.65 1645.47,-478.07"/>
+</g>
+<!-- netsourceforgecssparsercssparser -->
+<g id="node47" class="node">
+<title>netsourceforgecssparsercssparser</title>
+<polygon fill="none" stroke="black" points="1793.5,-468 1718.5,-468 1718.5,-432 1793.5,-432 1793.5,-468"/>
+<text text-anchor="middle" x="1756" y="-446.3" font-family="Times New Roman" font-size="14.00">cssparser</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;netsourceforgecssparsercssparser -->
+<g id="edge62" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;netsourceforgecssparsercssparser</title>
+<path fill="none" stroke="black" d="M1640.04,-505.12C1660.85,-495.4 1687.74,-482.85 1710.39,-472.29"/>
+<polygon fill="black" stroke="black" points="1711.89,-475.44 1719.48,-468.04 1708.93,-469.1 1711.89,-475.44"/>
+</g>
+<!-- orgeclipsejettywebsocketwebsocketclient -->
+<g id="node49" class="node">
+<title>orgeclipsejettywebsocketwebsocketclient</title>
+<polygon fill="none" stroke="black" points="1524,-252 1404,-252 1404,-216 1524,-216 1524,-252"/>
+<text text-anchor="middle" x="1464" y="-230.3" font-family="Times New Roman" font-size="14.00">websocket&#45;client</text>
+</g>
+<!-- netsourceforgehtmlunithtmlunit&#45;&gt;orgeclipsejettywebsocketwebsocketclient -->
+<g id="edge64" class="edge">
+<title>netsourceforgehtmlunithtmlunit&#45;&gt;orgeclipsejettywebsocketwebsocketclient</title>
+<path fill="none" stroke="black" d="M1571.8,-516.08C1543.11,-510.01 1503.61,-496.71 1483,-468 1438.42,-405.91 1449.15,-309.07 1457.94,-262.22"/>
+<polygon fill="black" stroke="black" points="1461.41,-262.71 1459.93,-252.22 1454.54,-261.34 1461.41,-262.71"/>
+</g>
+<!-- xalanserializer -->
+<g id="node36" class="node">
+<title>xalanserializer</title>
+<polygon fill="none" stroke="black" points="2202.5,-396 2131.5,-396 2131.5,-360 2202.5,-360 2202.5,-396"/>
+<text text-anchor="middle" x="2167" y="-374.3" font-family="Times New Roman" font-size="14.00">serializer</text>
+</g>
+<!-- xalanxalan&#45;&gt;xalanserializer -->
+<g id="edge65" class="edge">
+<title>xalanxalan&#45;&gt;xalanserializer</title>
+<path fill="none" stroke="black" d="M2179.04,-431.7C2177.28,-423.98 2175.16,-414.71 2173.2,-406.11"/>
+<polygon fill="black" stroke="black" points="2176.55,-405.07 2170.91,-396.1 2169.73,-406.63 2176.55,-405.07"/>
+</g>
+<!-- xmlapisxmlapis -->
+<g id="node37" class="node">
+<title>xmlapisxmlapis</title>
+<polygon fill="none" stroke="black" points="2239,-324 2171,-324 2171,-288 2239,-288 2239,-324"/>
+<text text-anchor="middle" x="2205" y="-302.3" font-family="Times New Roman" font-size="14.00">xml&#45;apis</text>
+</g>
+<!-- xalanserializer&#45;&gt;xmlapisxmlapis -->
+<g id="edge66" class="edge">
+<title>xalanserializer&#45;&gt;xmlapisxmlapis</title>
+<path fill="none" stroke="black" d="M2176.39,-359.7C2180.76,-351.64 2186.06,-341.89 2190.9,-332.98"/>
+<polygon fill="black" stroke="black" points="2194.02,-334.56 2195.71,-324.1 2187.87,-331.22 2194.02,-334.56"/>
+</g>
+<!-- orgapachehttpcomponentshttpmime&#45;&gt;orgapachehttpcomponentshttpclient -->
+<g id="edge67" class="edge">
+<title>orgapachehttpcomponentshttpmime&#45;&gt;orgapachehttpcomponentshttpclient</title>
+<path fill="none" stroke="black" d="M2082.44,-431.7C2074.32,-423.22 2064.41,-412.86 2055.53,-403.58"/>
+<polygon fill="black" stroke="black" points="2057.81,-400.91 2048.37,-396.1 2052.76,-405.75 2057.81,-400.91"/>
+</g>
+<!-- orgapachehttpcomponentshttpclient&#45;&gt;commonscodeccommonscodec -->
+<g id="edge68" class="edge">
+<title>orgapachehttpcomponentshttpclient&#45;&gt;commonscodeccommonscodec</title>
+<path fill="none" stroke="black" d="M2015.19,-359.7C2006.87,-351.14 1996.69,-340.66 1987.61,-331.3"/>
+<polygon fill="black" stroke="black" points="1990.09,-328.84 1980.62,-324.1 1985.07,-333.72 1990.09,-328.84"/>
+</g>
+<!-- orgapachehttpcomponentshttpclient&#45;&gt;commonsloggingcommonslogging -->
+<g id="edge69" class="edge">
+<title>orgapachehttpcomponentshttpclient&#45;&gt;commonsloggingcommonslogging</title>
+<path fill="none" stroke="black" d="M1994.46,-364.49C1963.51,-354.17 1919,-339.33 1882.95,-327.32"/>
+<polygon fill="black" stroke="black" points="1883.62,-323.85 1873.03,-324.01 1881.41,-330.49 1883.62,-323.85"/>
+</g>
+<!-- orgapachehttpcomponentshttpcore -->
+<g id="node43" class="node">
+<title>orgapachehttpcomponentshttpcore</title>
+<polygon fill="none" stroke="black" points="2110.5,-324 2041.5,-324 2041.5,-288 2110.5,-288 2110.5,-324"/>
+<text text-anchor="middle" x="2076" y="-302.3" font-family="Times New Roman" font-size="14.00">httpcore</text>
+</g>
+<!-- orgapachehttpcomponentshttpclient&#45;&gt;orgapachehttpcomponentshttpcore -->
+<g id="edge70" class="edge">
+<title>orgapachehttpcomponentshttpclient&#45;&gt;orgapachehttpcomponentshttpcore</title>
+<path fill="none" stroke="black" d="M2042.88,-359.7C2047.99,-351.56 2054.2,-341.69 2059.84,-332.7"/>
+<polygon fill="black" stroke="black" points="2062.89,-334.43 2065.25,-324.1 2056.96,-330.71 2062.89,-334.43"/>
+</g>
+<!-- xercesxercesImpl&#45;&gt;xmlapisxmlapis -->
+<g id="edge71" class="edge">
+<title>xercesxercesImpl&#45;&gt;xmlapisxmlapis</title>
+<path fill="none" stroke="black" d="M2248.66,-359.7C2241.71,-351.3 2233.23,-341.07 2225.6,-331.86"/>
+<polygon fill="black" stroke="black" points="2228.25,-329.57 2219.17,-324.1 2222.86,-334.04 2228.25,-329.57"/>
+</g>
+<!-- orgw3ccsssac -->
+<g id="node48" class="node">
+<title>orgw3ccsssac</title>
+<polygon fill="none" stroke="black" points="1783,-396 1729,-396 1729,-360 1783,-360 1783,-396"/>
+<text text-anchor="middle" x="1756" y="-374.3" font-family="Times New Roman" font-size="14.00">sac</text>
+</g>
+<!-- netsourceforgecssparsercssparser&#45;&gt;orgw3ccsssac -->
+<g id="edge72" class="edge">
+<title>netsourceforgecssparsercssparser&#45;&gt;orgw3ccsssac</title>
+<path fill="none" stroke="black" d="M1756,-431.7C1756,-423.98 1756,-414.71 1756,-406.11"/>
+<polygon fill="black" stroke="black" points="1759.5,-406.1 1756,-396.1 1752.5,-406.1 1759.5,-406.1"/>
+</g>
+<!-- orgeclipsejettywebsocketwebsocketclient&#45;&gt;orgeclipsejettyjettyutil -->
+<g id="edge75" class="edge">
+<title>orgeclipsejettywebsocketwebsocketclient&#45;&gt;orgeclipsejettyjettyutil</title>
+<path fill="none" stroke="black" d="M1501.05,-215.89C1516.35,-207.13 1533.03,-195.1 1544,-180 1572.69,-140.51 1595.93,-108.92 1564,-72 1523.15,-24.77 1332.32,-18.77 1244.47,-18.57"/>
+<polygon fill="black" stroke="black" points="1244.28,-15.07 1234.28,-18.57 1244.28,-22.07 1244.28,-15.07"/>
+</g>
+<!-- orgeclipsejettywebsocketwebsocketclient&#45;&gt;orgeclipsejettyjettyio -->
+<g id="edge74" class="edge">
+<title>orgeclipsejettywebsocketwebsocketclient&#45;&gt;orgeclipsejettyjettyio</title>
+<path fill="none" stroke="black" d="M1427.21,-215.94C1412.06,-207.19 1395.61,-195.15 1385,-180 1372.27,-161.83 1366.88,-137.05 1364.61,-118.26"/>
+<polygon fill="black" stroke="black" points="1368.09,-117.85 1363.62,-108.24 1361.12,-118.54 1368.09,-117.85"/>
+</g>
+<!-- orgeclipsejettywebsocketwebsocketcommon -->
+<g id="node50" class="node">
+<title>orgeclipsejettywebsocketwebsocketcommon</title>
+<polygon fill="none" stroke="black" points="1534.5,-180 1393.5,-180 1393.5,-144 1534.5,-144 1534.5,-180"/>
+<text text-anchor="middle" x="1464" y="-158.3" font-family="Times New Roman" font-size="14.00">websocket&#45;common</text>
+</g>
+<!-- orgeclipsejettywebsocketwebsocketclient&#45;&gt;orgeclipsejettywebsocketwebsocketcommon -->
+<g id="edge73" class="edge">
+<title>orgeclipsejettywebsocketwebsocketclient&#45;&gt;orgeclipsejettywebsocketwebsocketcommon</title>
+<path fill="none" stroke="black" d="M1464,-215.7C1464,-207.98 1464,-198.71 1464,-190.11"/>
+<polygon fill="black" stroke="black" points="1467.5,-190.1 1464,-180.1 1460.5,-190.1 1467.5,-190.1"/>
+</g>
+<!-- orgeclipsejettywebsocketwebsocketcommon&#45;&gt;orgeclipsejettyjettyutil -->
+<g id="edge77" class="edge">
+<title>orgeclipsejettywebsocketwebsocketcommon&#45;&gt;orgeclipsejettyjettyutil</title>
+<path fill="none" stroke="black" d="M1456.6,-143.82C1446.98,-123.56 1428.25,-90.32 1402,-72 1354.52,-38.86 1287.67,-26.44 1244.09,-21.79"/>
+<polygon fill="black" stroke="black" points="1244.38,-18.3 1234.08,-20.81 1243.7,-25.26 1244.38,-18.3"/>
+</g>
+<!-- orgeclipsejettywebsocketwebsocketcommon&#45;&gt;orgeclipsejettyjettyio -->
+<g id="edge76" class="edge">
+<title>orgeclipsejettywebsocketwebsocketcommon&#45;&gt;orgeclipsejettyjettyio</title>
+<path fill="none" stroke="black" d="M1439.29,-143.88C1426.33,-134.89 1410.27,-123.76 1396.23,-114.03"/>
+<polygon fill="black" stroke="black" points="1398.02,-111.01 1387.8,-108.19 1394.03,-116.76 1398.02,-111.01"/>
+</g>
+<!-- orgeclipsejettywebsocketwebsocketapi -->
+<g id="node51" class="node">
+<title>orgeclipsejettywebsocketwebsocketapi</title>
+<polygon fill="none" stroke="black" points="1555,-108 1449,-108 1449,-72 1555,-72 1555,-108"/>
+<text text-anchor="middle" x="1502" y="-86.3" font-family="Times New Roman" font-size="14.00">websocket&#45;api</text>
+</g>
+<!-- orgeclipsejettywebsocketwebsocketcommon&#45;&gt;orgeclipsejettywebsocketwebsocketapi -->
+<g id="edge78" class="edge">
+<title>orgeclipsejettywebsocketwebsocketcommon&#45;&gt;orgeclipsejettywebsocketwebsocketapi</title>
+<path fill="none" stroke="black" d="M1473.39,-143.7C1477.76,-135.64 1483.06,-125.89 1487.9,-116.98"/>
+<polygon fill="black" stroke="black" points="1491.02,-118.56 1492.71,-108.1 1484.87,-115.22 1491.02,-118.56"/>
+</g>
+<!-- orgeclipsejettyjettyservlets&#45;&gt;orgeclipsejettyjettyutil -->
+<g id="edge82" class="edge">
+<title>orgeclipsejettyjettyservlets&#45;&gt;orgeclipsejettyjettyutil</title>
+<path fill="none" stroke="black" d="M1250.03,-143.81C1263.92,-135.16 1278.3,-123.24 1286,-108 1293.22,-93.72 1293.8,-85.97 1286,-72 1276.78,-55.49 1260.07,-43.48 1243.81,-35.12"/>
+<polygon fill="black" stroke="black" points="1244.89,-31.75 1234.35,-30.6 1241.87,-38.07 1244.89,-31.75"/>
+</g>
+<!-- orgeclipsejettyjettyservlets&#45;&gt;orgeclipsejettyjettyhttp -->
+<g id="edge80" class="edge">
+<title>orgeclipsejettyjettyservlets&#45;&gt;orgeclipsejettyjettyhttp</title>
+<path fill="none" stroke="black" d="M1185.13,-143.88C1169.71,-134.72 1150.52,-123.34 1133.9,-113.48"/>
+<polygon fill="black" stroke="black" points="1135.36,-110.28 1124.98,-108.19 1131.79,-116.3 1135.36,-110.28"/>
+</g>
+<!-- orgeclipsejettyjettyservlets&#45;&gt;orgeclipsejettyjettyio -->
+<g id="edge81" class="edge">
+<title>orgeclipsejettyjettyservlets&#45;&gt;orgeclipsejettyjettyio</title>
+<path fill="none" stroke="black" d="M1250.45,-143.88C1272.86,-133.35 1301.56,-119.87 1324.36,-109.15"/>
+<polygon fill="black" stroke="black" points="1325.86,-112.32 1333.42,-104.9 1322.88,-105.98 1325.86,-112.32"/>
+</g>
+<!-- orgeclipsejettyjettycontinuation -->
+<g id="node55" class="node">
+<title>orgeclipsejettyjettycontinuation</title>
+<polygon fill="none" stroke="black" points="1277,-108 1151,-108 1151,-72 1277,-72 1277,-108"/>
+<text text-anchor="middle" x="1214" y="-86.3" font-family="Times New Roman" font-size="14.00">jetty&#45;continuation</text>
+</g>
+<!-- orgeclipsejettyjettyservlets&#45;&gt;orgeclipsejettyjettycontinuation -->
+<g id="edge79" class="edge">
+<title>orgeclipsejettyjettyservlets&#45;&gt;orgeclipsejettyjettycontinuation</title>
+<path fill="none" stroke="black" d="M1214,-143.7C1214,-135.98 1214,-126.71 1214,-118.11"/>
+<polygon fill="black" stroke="black" points="1217.5,-118.1 1214,-108.1 1210.5,-118.1 1217.5,-118.1"/>
+</g>
+<!-- orgeclipsejettyapachejsp&#45;&gt;orgeclipsejettyjettyutil -->
+<g id="edge84" class="edge">
+<title>orgeclipsejettyapachejsp&#45;&gt;orgeclipsejettyjettyutil</title>
+<path fill="none" stroke="black" d="M745,-215.84C767.34,-178.13 821.6,-89.97 851,-72 901.4,-41.2 1073.76,-26.73 1155.85,-21.47"/>
+<polygon fill="black" stroke="black" points="1156.11,-24.96 1165.87,-20.84 1155.67,-17.97 1156.11,-24.96"/>
+</g>
+<!-- orgeclipsejettyapachejsp&#45;&gt;orgeclipsejettyjettyserver -->
+<g id="edge83" class="edge">
+<title>orgeclipsejettyapachejsp&#45;&gt;orgeclipsejettyjettyserver</title>
+<path fill="none" stroke="black" d="M778.19,-219.5C814.52,-208.15 866.63,-191.87 905.58,-179.69"/>
+<polygon fill="black" stroke="black" points="906.68,-183.02 915.18,-176.69 904.59,-176.34 906.68,-183.02"/>
+</g>
+<!-- orgeclipsejettyapachejsp&#45;&gt;javaxservletjavaxservletapi -->
+<g id="edge87" class="edge">
+<title>orgeclipsejettyapachejsp&#45;&gt;javaxservletjavaxservletapi</title>
+<path fill="none" stroke="black" d="M760.21,-215.87C797.71,-190.39 868.27,-142.45 910.21,-113.96"/>
+<polygon fill="black" stroke="black" points="912.4,-116.7 918.7,-108.19 908.46,-110.91 912.4,-116.7"/>
+</g>
+<!-- orgmortbayjasperapachejsp -->
+<g id="node57" class="node">
+<title>orgmortbayjasperapachejsp</title>
+<polygon fill="none" stroke="black" points="753,-180 667,-180 667,-144 753,-144 753,-180"/>
+<text text-anchor="middle" x="710" y="-158.3" font-family="Times New Roman" font-size="14.00">apache&#45;jsp</text>
+</g>
+<!-- orgeclipsejettyapachejsp&#45;&gt;orgmortbayjasperapachejsp -->
+<g id="edge85" class="edge">
+<title>orgeclipsejettyapachejsp&#45;&gt;orgmortbayjasperapachejsp</title>
+<path fill="none" stroke="black" d="M728.82,-215.7C726,-207.81 722.61,-198.3 719.48,-189.55"/>
+<polygon fill="black" stroke="black" points="722.77,-188.34 716.11,-180.1 716.18,-190.7 722.77,-188.34"/>
+</g>
+<!-- orgeclipsejettytoolchainjettyschemas -->
+<g id="node58" class="node">
+<title>orgeclipsejettytoolchainjettyschemas</title>
+<polygon fill="none" stroke="black" points="656.5,-108 553.5,-108 553.5,-72 656.5,-72 656.5,-108"/>
+<text text-anchor="middle" x="605" y="-86.3" font-family="Times New Roman" font-size="14.00">jetty&#45;schemas</text>
+</g>
+<!-- orgeclipsejettyapachejsp&#45;&gt;orgeclipsejettytoolchainjettyschemas -->
+<g id="edge86" class="edge">
+<title>orgeclipsejettyapachejsp&#45;&gt;orgeclipsejettytoolchainjettyschemas</title>
+<path fill="none" stroke="black" d="M703.79,-215.82C688.77,-206.54 671.2,-194.1 658,-180 640.62,-161.44 626.28,-136.24 616.91,-117.39"/>
+<polygon fill="black" stroke="black" points="619.97,-115.68 612.48,-108.19 613.66,-118.71 619.97,-115.68"/>
+</g>
+<!-- orgmortbayjasperapachejsp&#45;&gt;orgeclipsejettytoolchainjettyschemas -->
+<g id="edge88" class="edge">
+<title>orgmortbayjasperapachejsp&#45;&gt;orgeclipsejettytoolchainjettyschemas</title>
+<path fill="none" stroke="black" d="M684.31,-143.88C670.71,-134.81 653.83,-123.55 639.14,-113.76"/>
+<polygon fill="black" stroke="black" points="641.05,-110.82 630.78,-108.19 637.16,-116.65 641.05,-110.82"/>
+</g>
+<!-- orgmortbayjasperapacheel -->
+<g id="node59" class="node">
+<title>orgmortbayjasperapacheel</title>
+<polygon fill="none" stroke="black" points="753,-108 675,-108 675,-72 753,-72 753,-108"/>
+<text text-anchor="middle" x="714" y="-86.3" font-family="Times New Roman" font-size="14.00">apache&#45;el</text>
+</g>
+<!-- orgmortbayjasperapachejsp&#45;&gt;orgmortbayjasperapacheel -->
+<g id="edge89" class="edge">
+<title>orgmortbayjasperapachejsp&#45;&gt;orgmortbayjasperapacheel</title>
+<path fill="none" stroke="black" d="M710.99,-143.7C711.43,-135.98 711.96,-126.71 712.45,-118.11"/>
+<polygon fill="black" stroke="black" points="715.95,-118.29 713.02,-108.1 708.96,-117.89 715.95,-118.29"/>
+</g>
+<!-- comgooglejsinteropbase -->
+<g id="node61" class="node">
+<title>comgooglejsinteropbase</title>
+<polygon fill="none" stroke="black" points="210,-540 156,-540 156,-504 210,-504 210,-540"/>
+<text text-anchor="middle" x="183" y="-518.3" font-family="Times New Roman" font-size="14.00">base</text>
+</g>
+<!-- comgoogleelemental2elemental2promise&#45;&gt;comgooglejsinteropbase -->
+<g id="edge90" class="edge">
+<title>comgoogleelemental2elemental2promise&#45;&gt;comgooglejsinteropbase</title>
+<path fill="none" stroke="black" d="M183,-575.7C183,-567.98 183,-558.71 183,-550.11"/>
+<polygon fill="black" stroke="black" points="186.5,-550.1 183,-540.1 179.5,-550.1 186.5,-550.1"/>
+</g>
+<!-- comgooglejsinteropjsinteropannotations -->
+<g id="node62" class="node">
+<title>comgooglejsinteropjsinteropannotations</title>
+<polygon fill="none" stroke="black" points="230.5,-468 81.5,-468 81.5,-432 230.5,-432 230.5,-468"/>
+<text text-anchor="middle" x="156" y="-446.3" font-family="Times New Roman" font-size="14.00">jsinterop&#45;annotations</text>
+</g>
+<!-- comgoogleelemental2elemental2promise&#45;&gt;comgooglejsinteropjsinteropannotations -->
+<g id="edge91" class="edge">
+<title>comgoogleelemental2elemental2promise&#45;&gt;comgooglejsinteropjsinteropannotations</title>
+<path fill="none" stroke="black" d="M167.39,-575.77C159.63,-566.03 151.05,-553.18 147,-540 140.78,-519.77 143.73,-495.87 147.85,-477.92"/>
+<polygon fill="black" stroke="black" points="151.27,-478.68 150.35,-468.12 144.49,-476.95 151.27,-478.68"/>
+</g>
+<!-- comgooglejsinteropbase&#45;&gt;comgooglejsinteropjsinteropannotations -->
+<g id="edge92" class="edge">
+<title>comgooglejsinteropbase&#45;&gt;comgooglejsinteropjsinteropannotations</title>
+<path fill="none" stroke="black" d="M176.33,-503.7C173.29,-495.81 169.62,-486.3 166.24,-477.55"/>
+<polygon fill="black" stroke="black" points="169.46,-476.17 162.6,-468.1 162.93,-478.69 169.46,-476.17"/>
+</g>
+<!-- comgoogleguavaguavatestlib -->
+<g id="node63" class="node">
+<title>comgoogleguavaguavatestlib</title>
+<polygon fill="none" stroke="black" points="2202.5,-684 2105.5,-684 2105.5,-648 2202.5,-648 2202.5,-684"/>
+<text text-anchor="middle" x="2154" y="-662.3" font-family="Times New Roman" font-size="14.00">guava&#45;testlib</text>
+</g>
+<!-- comgoogleguavaguavatestlib&#45;&gt;comgoogleguavaguava -->
+<g id="edge97" class="edge">
+<title>comgoogleguavaguavatestlib&#45;&gt;comgoogleguavaguava</title>
+<path fill="none" stroke="black" d="M2105.3,-652.26C2068.4,-642.26 2016.62,-627.48 1972,-612 1970.56,-611.5 1969.1,-610.98 1967.62,-610.44"/>
+<polygon fill="black" stroke="black" points="1968.46,-607.01 1957.86,-606.74 1965.97,-613.56 1968.46,-607.01"/>
+</g>
+<!-- comgoogleguavaguavatestlib&#45;&gt;comgooglecodefindbugsjsr305 -->
+<g id="edge93" class="edge">
+<title>comgoogleguavaguavatestlib&#45;&gt;comgooglecodefindbugsjsr305</title>
+<path fill="none" stroke="black" d="M2123.37,-647.83C2105.57,-637.69 2082.82,-624.44 2063,-612 2028.71,-590.49 1990.46,-564.46 1963.99,-546.13"/>
+<polygon fill="black" stroke="black" points="1965.7,-543.06 1955.49,-540.22 1961.71,-548.8 1965.7,-543.06"/>
+</g>
+<!-- comgoogleguavaguavatestlib&#45;&gt;orgcheckerframeworkcheckerqual -->
+<g id="edge94" class="edge">
+<title>comgoogleguavaguavatestlib&#45;&gt;orgcheckerframeworkcheckerqual</title>
+<path fill="none" stroke="black" d="M2187.36,-647.86C2200.71,-639.09 2214.64,-627.06 2222,-612 2231.43,-592.7 2228.6,-568.22 2224.02,-549.82"/>
+<polygon fill="black" stroke="black" points="2227.34,-548.72 2221.28,-540.03 2220.6,-550.61 2227.34,-548.72"/>
+</g>
+<!-- comgoogleguavaguavatestlib&#45;&gt;comgoogleerrorproneerror_prone_annotations -->
+<g id="edge95" class="edge">
+<title>comgoogleguavaguavatestlib&#45;&gt;comgoogleerrorproneerror_prone_annotations</title>
+<path fill="none" stroke="black" d="M2121.05,-647.84C2107.01,-638.94 2091.68,-626.81 2082,-612 2069.98,-593.6 2065.12,-569 2063.18,-550.32"/>
+<polygon fill="black" stroke="black" points="2066.65,-549.79 2062.35,-540.1 2059.67,-550.36 2066.65,-549.79"/>
+</g>
+<!-- comgoogleguavaguavatestlib&#45;&gt;comgooglej2objcj2objcannotations -->
+<g id="edge96" class="edge">
+<title>comgoogleguavaguavatestlib&#45;&gt;comgooglej2objcj2objcannotations</title>
+<path fill="none" stroke="black" d="M2183.32,-647.98C2199.98,-638 2221.04,-624.85 2239,-612 2267.89,-591.32 2299.13,-565.42 2320.73,-546.9"/>
+<polygon fill="black" stroke="black" points="2323.22,-549.37 2328.51,-540.19 2318.65,-544.07 2323.22,-549.37"/>
+</g>
+<!-- junitjunit -->
+<g id="node64" class="node">
+<title>junitjunit</title>
+<polygon fill="none" stroke="black" points="2455,-612 2401,-612 2401,-576 2455,-576 2455,-612"/>
+<text text-anchor="middle" x="2428" y="-590.3" font-family="Times New Roman" font-size="14.00">junit</text>
+</g>
+<!-- comgoogleguavaguavatestlib&#45;&gt;junitjunit -->
+<g id="edge98" class="edge">
+<title>comgoogleguavaguavatestlib&#45;&gt;junitjunit</title>
+<path fill="none" stroke="black" d="M2202.67,-652.57C2256.65,-638.77 2342.53,-616.84 2391.2,-604.4"/>
+<polygon fill="black" stroke="black" points="2392.17,-607.77 2400.99,-601.9 2390.43,-600.98 2392.17,-607.77"/>
+</g>
+<!-- orghamcresthamcrestcore -->
+<g id="node65" class="node">
+<title>orghamcresthamcrestcore</title>
+<polygon fill="none" stroke="black" points="2539.5,-540 2432.5,-540 2432.5,-504 2539.5,-504 2539.5,-540"/>
+<text text-anchor="middle" x="2486" y="-518.3" font-family="Times New Roman" font-size="14.00">hamcrest&#45;core</text>
+</g>
+<!-- junitjunit&#45;&gt;orghamcresthamcrestcore -->
+<g id="edge99" class="edge">
+<title>junitjunit&#45;&gt;orghamcresthamcrestcore</title>
+<path fill="none" stroke="black" d="M2442.34,-575.7C2449.29,-567.3 2457.77,-557.07 2465.4,-547.86"/>
+<polygon fill="black" stroke="black" points="2468.14,-550.04 2471.83,-540.1 2462.75,-545.57 2468.14,-550.04"/>
+</g>
+<!-- comgoogleguavaguavatests -->
+<g id="node66" class="node">
+<title>comgoogleguavaguavatests</title>
+<polygon fill="none" stroke="black" points="2179.5,-612 2090.5,-612 2090.5,-576 2179.5,-576 2179.5,-612"/>
+<text text-anchor="middle" x="2135" y="-590.3" font-family="Times New Roman" font-size="14.00">guava&#45;tests</text>
+</g>
+<!-- comgoogleguavaguavatests&#45;&gt;comgooglecodefindbugsjsr305 -->
+<g id="edge100" class="edge">
+<title>comgoogleguavaguavatests&#45;&gt;comgooglecodefindbugsjsr305</title>
+<path fill="none" stroke="black" d="M2090.21,-580.67C2058.24,-571.46 2014.14,-557.95 1967.93,-540.13"/>
+<polygon fill="black" stroke="black" points="1968.94,-536.76 1958.35,-536.38 1966.39,-543.28 1968.94,-536.76"/>
+</g>
+<!-- comgoogleguavaguavatests&#45;&gt;orgcheckerframeworkcheckerqual -->
+<g id="edge101" class="edge">
+<title>comgoogleguavaguavatests&#45;&gt;orgcheckerframeworkcheckerqual</title>
+<path fill="none" stroke="black" d="M2154.78,-575.7C2164.75,-566.97 2177.01,-556.24 2187.86,-546.75"/>
+<polygon fill="black" stroke="black" points="2190.23,-549.32 2195.45,-540.1 2185.62,-544.06 2190.23,-549.32"/>
+</g>
+<!-- comgoogleguavaguavatests&#45;&gt;comgoogleerrorproneerror_prone_annotations -->
+<g id="edge102" class="edge">
+<title>comgoogleguavaguavatests&#45;&gt;comgoogleerrorproneerror_prone_annotations</title>
+<path fill="none" stroke="black" d="M2116.96,-575.7C2107.94,-567.05 2096.88,-556.45 2087.06,-547.03"/>
+<polygon fill="black" stroke="black" points="2089.48,-544.5 2079.84,-540.1 2084.63,-549.55 2089.48,-544.5"/>
+</g>
+</g>
+</svg>
