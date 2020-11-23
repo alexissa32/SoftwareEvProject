@@ -7,6 +7,15 @@ Although there are few automated tools available to convert Maven or Gradle to B
 
 Once we have these representative codebases being built using all possible tools, we will explore making changes to the code and comparing rebuild time, CPU usage, and memory usage. Further, we seek to explore the code through visual representations of dependencies [6]. This will help us choose interesting places in code to make those changes that will showcase differences in the tools.
 
+### 11/22 Update
+In this update, we successfully implemented our own basic math class called Calculator (which adds, subtracts, multiplies, and divides) with Maven as our build management tool. Each of those math functions is its own Maven package, with Multiply and Divide also depending on Add and Subtract. After creating this project, we used the same techniques we previously talked about to convert Calculator to a Gradle and Bazel project. We also generated a dependency graph for Calculator. You can access that repository here: https://github.com/dfbray/swevolutioncalculator/tree/master/gradle/Calculator
+
+The main observation we had from doing this is that Gradle seems to over-promise and under-deliver on converting Maven projects to Gradle projects. Some examples of this are that Gradle does not pick up on our Maven specification of our main class, nor does it pickup on the dependency+jar plugins we use to create the Calculator jar. This means after Gradle generates our build.gradle, we must still manually add the main class specification, as well as equivelent plugins to generate the dependency jars that we need to create the Calculator jar.
+
+Bazel thoughts TBD ???
+
+Our final step is to document how long it takes to build our 3 code bases, as well as track the memory and CPU usage to do so. After that, we will modify different files/parts of the dependency trees for each code base, then see how these changes affect our speed, memoru, and CPU usage for each of Bazel, Maven, and Gradle.
+
 ### 11/13 Update
 In this update, we successfully created visualizations of dependency trees for all of our build tools. Below are instructions on how to accomplish this.
 
