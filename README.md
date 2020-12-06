@@ -20,11 +20,10 @@ Our final step is to document how long it takes to build our 3 code bases, as we
 In this update, we successfully created visualizations of dependency trees for all of our build tools. Below are instructions on how to accomplish this.
 
 ##### Bazel
-bazel query 'deps(//:main)' --output graph > graph.in\
-open graph.in using Notepad++ and replace all /r/n with /n\
-change encoding to ANSI\
+bazel query 'deps(//:Calculator)' --notool_deps --noimplicit_deps --output graph > graph.in\
+open graph.in using Notepad++ and change encoding to ANSI\
 save file\
-dot -Tpng < graph.in > -o graph.png\
+dot "-Tpng" "graph.in" -o "graph.png"
 
 ##### Gradle
 Add\
