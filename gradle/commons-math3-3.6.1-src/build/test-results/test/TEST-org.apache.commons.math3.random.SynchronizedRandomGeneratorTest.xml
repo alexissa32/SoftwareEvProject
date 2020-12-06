@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.random.SynchronizedRandomGeneratorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:16:00" hostname="DESKTOP-C0495IR" time="2.45">
-  <properties/>
-  <testcase name="testAdapter" classname="org.apache.commons.math3.random.SynchronizedRandomGeneratorTest" time="0.001"/>
-  <testcase name="testMath899Sync" classname="org.apache.commons.math3.random.SynchronizedRandomGeneratorTest" time="2.449"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

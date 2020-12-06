@@ -54,4 +54,13 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+<build>
+    <plugins>
+      <plugin>
+        <groupId>com.github.ferstl</groupId>
+        <artifactId>depgraph-maven-plugin</artifactId>
+        <version>3.3.0</version>
+      </plugin>
+</plugins>
+</build>
 </project>

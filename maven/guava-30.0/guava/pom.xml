@@ -51,6 +51,11 @@
         <groupId>com.github.ferstl</groupId>
         <artifactId>depgraph-maven-plugin</artifactId>
         <version>3.3.0</version>
+          <configuration>
+            <graphFormat>dot</graphFormat>
+            <createImage>true</createImage>
+            <showDuplicates>true</showDuplicates>
+          </configuration>
       </plugin>
       <plugin>
         <artifactId>maven-jar-plugin</artifactId>

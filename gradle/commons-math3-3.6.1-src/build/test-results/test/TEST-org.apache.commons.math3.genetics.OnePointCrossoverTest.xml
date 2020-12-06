@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.genetics.OnePointCrossoverTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:16" hostname="DESKTOP-C0495IR" time="0.0">
-  <properties/>
-  <testcase name="testCrossover" classname="org.apache.commons.math3.genetics.OnePointCrossoverTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -13,6 +13,8 @@ dependencies {
 
 description = 'Guava: Google Core Libraries for Java'
 
+apply plugin: "com.vanniktech.dependency.graph.generator"
+
 java {
     withJavadocJar()
 }

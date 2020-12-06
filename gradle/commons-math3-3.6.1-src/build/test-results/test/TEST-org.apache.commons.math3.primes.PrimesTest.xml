@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.primes.PrimesTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:15:25" hostname="DESKTOP-C0495IR" time="0.021">
-  <properties/>
-  <testcase name="testPrimeFactors" classname="org.apache.commons.math3.primes.PrimesTest" time="0.005"/>
-  <testcase name="testIsPrime" classname="org.apache.commons.math3.primes.PrimesTest" time="0.006"/>
-  <testcase name="testNextPrime" classname="org.apache.commons.math3.primes.PrimesTest" time="0.01"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

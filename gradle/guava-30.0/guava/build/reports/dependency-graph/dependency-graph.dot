@@ -1,0 +1,16 @@
+digraph "G" {
+node ["fontname"="Times New Roman"]
+"comgoogleguavaguava" ["shape"="rectangle","label"="guava"]
+"comgoogleguavafailureaccess" ["shape"="rectangle","label"="failureaccess"]
+"comgoogleguavalistenablefuture" ["shape"="rectangle","label"="listenablefuture"]
+"comgooglecodefindbugsjsr305" ["shape"="rectangle","label"="jsr305"]
+"orgcheckerframeworkcheckerqual" ["shape"="rectangle","label"="checker-qual"]
+"comgoogleerrorproneerror_prone_annotations" ["shape"="rectangle","label"="error_prone_annotations"]
+"comgooglej2objcj2objcannotations" ["shape"="rectangle","label"="j2objc-annotations"]
+"comgoogleguavaguava" -> "comgoogleguavafailureaccess"
+"comgoogleguavaguava" -> "comgoogleguavalistenablefuture"
+"comgoogleguavaguava" -> "comgooglecodefindbugsjsr305"
+"comgoogleguavaguava" -> "orgcheckerframeworkcheckerqual"
+"comgoogleguavaguava" -> "comgoogleerrorproneerror_prone_annotations"
+"comgoogleguavaguava" -> "comgooglej2objcj2objcannotations"
+}

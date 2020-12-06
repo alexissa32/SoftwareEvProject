@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ode.sampling.NordsieckStepInterpolatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:35" hostname="DESKTOP-C0495IR" time="0.046">
-  <properties/>
-  <testcase name="derivativesConsistency" classname="org.apache.commons.math3.ode.sampling.NordsieckStepInterpolatorTest" time="0.032"/>
-  <testcase name="serialization" classname="org.apache.commons.math3.ode.sampling.NordsieckStepInterpolatorTest" time="0.013"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

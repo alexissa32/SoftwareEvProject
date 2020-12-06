@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:32" hostname="DESKTOP-C0495IR" time="0.068">
-  <properties/>
-  <testcase name="derivativesConsistency" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest" time="0.012"/>
-  <testcase name="serialization" classname="org.apache.commons.math3.ode.nonstiff.ClassicalRungeKuttaStepInterpolatorTest" time="0.055"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

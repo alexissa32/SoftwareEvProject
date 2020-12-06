@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.math3.ode.events.CloseEventsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-02T01:14:30" hostname="DESKTOP-C0495IR" time="0.004">
-  <properties/>
-  <testcase name="testSimultaneousEvents" classname="org.apache.commons.math3.ode.events.CloseEventsTest" time="0.003"/>
-  <testcase name="testCloseEvents" classname="org.apache.commons.math3.ode.events.CloseEventsTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
