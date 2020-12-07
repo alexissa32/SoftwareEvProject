@@ -609,6 +609,7 @@ guava/src/com/google/thirdparty/publicsuffix/TrieParser.java
 -XDskipDuplicateBridges=true
 -g
 -parameters
+-XepDisableAllChecks
 --
 --target_label
 //:everything

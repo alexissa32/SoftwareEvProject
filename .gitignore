@@ -3,3 +3,5 @@ bazel/commons-math3-3.6.1-src/bazel-bin/external/bazel_tools/tools/jdk/platformc
 bazel/commons-math3-3.6.1-src/bazel-commons-math3-3.6.1-src/external/local_jdk/jre/lib/rt.jar
 bazel/commons-math3-3.6.1-src/bazel-commons-math3-3.6.1-src/external/remotejdk11_win/lib/src.zip
 bazel/guava-30.0/bazel-guava-30.0/external/remotejdk11_win/lib/modules
+bazel/commons-math3-3.6.1-src/bazel-commons-math3-3.6.1-src/external
+bazel/guava-30.0/bazel-guava-30.0/external
