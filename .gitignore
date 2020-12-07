@@ -5,3 +5,6 @@ bazel/commons-math3-3.6.1-src/bazel-commons-math3-3.6.1-src/external/remotejdk11
 bazel/guava-30.0/bazel-guava-30.0/external/remotejdk11_win/lib/modules
 bazel/commons-math3-3.6.1-src/bazel-commons-math3-3.6.1-src/external
 bazel/guava-30.0/bazel-guava-30.0/external
+bazel/commons-math3-3.6.1-src/bazel-out
+bazel/commons-math3-3.6.1-src/bazel-commons-math3-3.6.1-src
+bazel/commons-math3-3.6.1-src/bazel-bin

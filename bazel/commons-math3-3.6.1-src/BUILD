@@ -7,5 +7,6 @@ java_library(
       "@maven//:org_apache_commons_commons_lang3",
       "@maven//:com_xeiam_xchart_xchart",
       "@maven//:org_hamcrest_hamcrest_core",
+      "@maven//:org_hamcrest_hamcrest",
     ],
 )

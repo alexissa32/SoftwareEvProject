@@ -1,3 +1,0 @@
-src\test\java\org\apache\commons\math3\fitting\leastsquares\AbstractLeastSquaresOptimizerAbstractTest.java:42: error: [strict] Using type org.hamcrest.CoreMatchers from an indirect dependency (TOOL_INFO: "external\maven\v1\https\repo1.maven.org\maven2\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar").
-import static org.hamcrest.CoreMatchers.is;
-                          ^
