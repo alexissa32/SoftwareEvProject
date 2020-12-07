@@ -682,8 +682,9 @@ com/google/common/io/ByteArrayDataInput.java
  com.google.common.io.ByteArrayDataInput
 com/google/common/io/MultiInputStream.java
  com.google.common.io.MultiInputStream
-com/google/common/graph/StandardMutableValueGraph.java
- com.google.common.graph.StandardMutableValueGraph
+com/google/common/collect/ImmutableMapKeySet.java
+ com.google.common.collect.ImmutableMapKeySet
+ com.google.common.collect.ImmutableMapKeySet$KeySetSerializedForm
 com/google/common/annotations/package-info.java
  com.google.common.annotations.package-info
 com/google/common/collect/BoundType.java
@@ -994,10 +995,8 @@ com/google/common/io/CountingInputStream.java
 com/google/common/collect/MoreCollectors.java
  com.google.common.collect.MoreCollectors
  com.google.common.collect.MoreCollectors$ToOptionalState
-com/google/common/graph/ImmutableValueGraph.java
- com.google.common.graph.ImmutableValueGraph
- com.google.common.graph.ImmutableValueGraph$1
- com.google.common.graph.ImmutableValueGraph$Builder
+com/google/common/escape/ArrayBasedEscaperMap.java
+ com.google.common.escape.ArrayBasedEscaperMap
 com/google/common/collect/SparseImmutableTable.java
  com.google.common.collect.SparseImmutableTable
 com/google/common/graph/Traverser.java
@@ -1080,9 +1079,8 @@ com/google/common/hash/FarmHashFingerprint64.java
  com.google.common.hash.FarmHashFingerprint64
 com/google/common/collect/UnmodifiableSortedMultiset.java
  com.google.common.collect.UnmodifiableSortedMultiset
-com/google/common/graph/ImmutableGraph.java
- com.google.common.graph.ImmutableGraph
- com.google.common.graph.ImmutableGraph$Builder
+com/google/common/annotations/GwtCompatible.java
+ com.google.common.annotations.GwtCompatible
 com/google/common/io/Closeables.java
  com.google.common.io.Closeables
 com/google/common/graph/DirectedMultiNetworkConnections.java
@@ -1262,25 +1260,8 @@ com/google/common/cache/LoadingCache.java
  com.google.common.cache.LoadingCache
 com/google/common/cache/Weigher.java
  com.google.common.cache.Weigher
-com/google/common/graph/DirectedGraphConnections.java
- com.google.common.graph.DirectedGraphConnections
- com.google.common.graph.DirectedGraphConnections$1
- com.google.common.graph.DirectedGraphConnections$1$1
- com.google.common.graph.DirectedGraphConnections$2
- com.google.common.graph.DirectedGraphConnections$2$1
- com.google.common.graph.DirectedGraphConnections$2$2
- com.google.common.graph.DirectedGraphConnections$3
- com.google.common.graph.DirectedGraphConnections$3$1
- com.google.common.graph.DirectedGraphConnections$3$2
- com.google.common.graph.DirectedGraphConnections$4
- com.google.common.graph.DirectedGraphConnections$5
- com.google.common.graph.DirectedGraphConnections$6
- com.google.common.graph.DirectedGraphConnections$7
- com.google.common.graph.DirectedGraphConnections$8
- com.google.common.graph.DirectedGraphConnections$NodeConnection
- com.google.common.graph.DirectedGraphConnections$NodeConnection$Pred
- com.google.common.graph.DirectedGraphConnections$NodeConnection$Succ
- com.google.common.graph.DirectedGraphConnections$PredAndSucc
+com/google/common/primitives/ShortsMethodsForWeb.java
+ com.google.common.primitives.ShortsMethodsForWeb
 com/google/common/collect/RegularImmutableAsList.java
  com.google.common.collect.RegularImmutableAsList
 com/google/common/collect/ForwardingQueue.java
@@ -2600,12 +2581,31 @@ com/google/common/base/CaseFormat.java
  com.google.common.base.CaseFormat$4
  com.google.common.base.CaseFormat$5
  com.google.common.base.CaseFormat$StringConverter
-com/google/common/escape/ArrayBasedEscaperMap.java
- com.google.common.escape.ArrayBasedEscaperMap
-com/google/common/collect/ImmutableMapKeySet.java
- com.google.common.collect.ImmutableMapKeySet
- com.google.common.collect.ImmutableMapKeySet$KeySetSerializedForm
-com/google/common/annotations/GwtCompatible.java
- com.google.common.annotations.GwtCompatible
-com/google/common/primitives/ShortsMethodsForWeb.java
- com.google.common.primitives.ShortsMethodsForWeb
+com/google/common/graph/DirectedGraphConnections.java
+ com.google.common.graph.DirectedGraphConnections
+ com.google.common.graph.DirectedGraphConnections$1
+ com.google.common.graph.DirectedGraphConnections$1$1
+ com.google.common.graph.DirectedGraphConnections$2
+ com.google.common.graph.DirectedGraphConnections$2$1
+ com.google.common.graph.DirectedGraphConnections$2$2
+ com.google.common.graph.DirectedGraphConnections$3
+ com.google.common.graph.DirectedGraphConnections$3$1
+ com.google.common.graph.DirectedGraphConnections$3$2
+ com.google.common.graph.DirectedGraphConnections$4
+ com.google.common.graph.DirectedGraphConnections$5
+ com.google.common.graph.DirectedGraphConnections$6
+ com.google.common.graph.DirectedGraphConnections$7
+ com.google.common.graph.DirectedGraphConnections$8
+ com.google.common.graph.DirectedGraphConnections$NodeConnection
+ com.google.common.graph.DirectedGraphConnections$NodeConnection$Pred
+ com.google.common.graph.DirectedGraphConnections$NodeConnection$Succ
+ com.google.common.graph.DirectedGraphConnections$PredAndSucc
+com/google/common/graph/ImmutableGraph.java
+ com.google.common.graph.ImmutableGraph
+ com.google.common.graph.ImmutableGraph$Builder
+com/google/common/graph/StandardMutableValueGraph.java
+ com.google.common.graph.StandardMutableValueGraph
+com/google/common/graph/ImmutableValueGraph.java
+ com.google.common.graph.ImmutableValueGraph
+ com.google.common.graph.ImmutableValueGraph$1
+ com.google.common.graph.ImmutableValueGraph$Builder

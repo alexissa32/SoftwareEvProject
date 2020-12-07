@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1607229489516
+Bnd-LastModified: 1607323296939
 Build-Jdk: 1.8.0_262
 Built-By: dfbra
 Bundle-Description: The Apache Commons Math project is a library of ligh

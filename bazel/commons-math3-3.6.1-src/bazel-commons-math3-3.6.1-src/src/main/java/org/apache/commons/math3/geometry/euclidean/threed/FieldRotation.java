@@ -148,6 +148,7 @@ public class FieldRotation<T extends RealFieldElement<T>> implements Serializabl
 
         final T norm = axis.getNorm();
         if (norm.getReal() == 0) {
+			System.out.println("wow!");
             throw new MathIllegalArgumentException(LocalizedFormats.ZERO_NORM_FOR_ROTATION_AXIS);
         }
 

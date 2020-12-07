@@ -1,0 +1,19 @@
+guava\src\com\google\common\graph\DirectedNetworkConnections.java:53: error: duplicate class: com.google.common.graph.DirectedGraphConnections
+final class DirectedGraphConnections<N, V> implements GraphConnections<N, V> {
+      ^
+guava\src\com\google\common\graph\ImmutableNetwork.java:107: error: cannot find symbol
+          : DirectedNetworkConnections.ofImmutable(inEdgeMap, outEdgeMap, selfLoopCount);
+            ^
+  symbol:   variable DirectedNetworkConnections
+  location: class ImmutableNetwork<N,E>
+  where N,E are type-variables:
+    N extends Object declared in class ImmutableNetwork
+    E extends Object declared in class ImmutableNetwork
+guava\src\com\google\common\graph\StandardMutableNetwork.java:168: error: cannot find symbol
+            : DirectedNetworkConnections.<N, E>of()
+              ^
+  symbol:   variable DirectedNetworkConnections
+  location: class StandardMutableNetwork<N,E>
+  where N,E are type-variables:
+    N extends Object declared in class StandardMutableNetwork
+    E extends Object declared in class StandardMutableNetwork

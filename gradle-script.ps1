@@ -1,12 +1,15 @@
 $path = $args[0]
 $name = $args[1]
-$iterations = $args[2]
+$remove = $args[2]
+$iterations = $args[3]
 $script_home = Get-Location
 $process = 0
 cd $path
 
 for ($i = 0; $i -lt $iterations; $i++ ) {
-    rm -r -Force .\build
+	if($remove -eq "remove") {
+		rm -r -Force .\build
+	}
     $gradle_id = (Start-Process gradle -ArgumentList "build -x test" -passthru).ID
     sleep(0.5)
 	echo gradle id":" $gradle_id

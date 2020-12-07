@@ -187,6 +187,7 @@ final class DirectedGraphConnections<N, V> implements GraphConnections<N, V> {
     int successorCount = 0;
 
     for (EndpointPair<N> incidentEdge : incidentEdges) {
+	  System.out.println("hi");
       if (incidentEdge.nodeU().equals(thisNode) && incidentEdge.nodeV().equals(thisNode)) {
         // incidentEdge is a self-loop
 
