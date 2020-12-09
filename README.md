@@ -103,45 +103,39 @@ Other things to note were that we have found different options for Python script
   add to BUILD and WORKSPACE\
   solve for dependency issues until done\
   bazel\guava-30.0\bazel-out\x64_windows-fastbuild\bin
-  
-##### TBD
-  TODO
 
 ### 10/13 Update
 
 We downloaded Maven, Guava, Tensorflow, and Apache Commons Math, and built each of these codebases with Maven, then installed Gradle, and performed automatic conversion using the Gradle init tool [4]. We are using Java 1.8, Maven 3.6, Gradle 6.6.1, and Bazel 3.7.0 for these tasks. We plan next to play around with Bazel and convert the Commons Math library first, since it is the smallest and likely easiest to get started with.
 
 #### Maven Builds (often needed to use this for it work-https://stackoverflow.com/questions/30181154/skipping-some-license-tests-in-maven):
-##### Maven (built from scratch using mvn package)
-  maven/apache-maven-3.6.3/maven-[component]/target
-##### Gradle
-  TBD
-##### Commons Math (built from scratch using mvn package)
-  maven/commons-math3-3.6.1-src/target
-##### Guava (built from scratch using mvn install -DskipTests then mvn package -DskipTests)
-  maven/guava-30.0/guava/target
-##### Tensorflow
-  N/A
+##### Commons Math
+  1. Clone the Commons Math repository
+  1. Check out the commit corresponding to version 3.6.1 (otherwise your build may fail)
+  1. Run ```mvn package``` (add ```-DskipTests``` to skip tests)
+  1. Find the built files in ```commons-math3-3.6.1-src/target```
+##### Guava
+  1. Clone the Guava repository
+  1. Check out the commit corresponding to version 30.0 (otherwise your build may fail)
+  1. Run ```mvn package``` (add ```-DskipTests``` to skip tests)
+  1. Find the built files in ```apache-maven-3.6.3/maven-[component]/target```
 
 #### Gradle Builds (with slight adjustments):
-##### Maven
-  not possible?
-##### Gradle
-  gradle build\
-  needs Java 9-11 (ugh)
 ##### Commons Math
-  gradle init\
-  gradle build\
-  success!\
-  gradle/commons-math3-3.6.1-src/build
+  1. Clone the Commons Math repository
+  1. Check out the commit corresponding to version 3.6.1 (otherwise your build may fail)
+  1. Run ```gradle init```
+  1. Run ```gradle build``` (add ```-x tests``` to skip tests)
+  1. Success!
+  1. Find the built file in ```commons-math3-3.6.1-src/build```
 ##### Guava
-  gradle init\
-  remove line "system 'jdk:srczip:999'" from gradle/guava-30.0/guava/build.gradle\
-  gradle build\
-  success!\
-  gradle/guava-30.0/guava/build
-##### Tensorflow
-  N/A
+  1. Clone the Guava repository
+  1. Check out the commit corresponding to version 30.0 (otherwise your build may fail)
+  1. Run ```gradle init```
+  1. Remove the lines ```withJavadocJar()``` and ```system 'jdk:srczip:999'``` from ```gradle/guava-30.0/guava/build.gradle```
+  1. Run ```gradle build``` (add ```-x tests``` to skip tests)
+  1. Success!
+  1. Find the built files in ```guava-30.0/[component]/build```
 
 ### References
 1. https://docs.bazel.build/versions/master/migrate-maven.html
