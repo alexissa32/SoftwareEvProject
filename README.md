@@ -31,19 +31,24 @@ plugins {\
   id "com.vanniktech.dependency.graph.generator" version "0.5.0"\
 }\
 to each root buildfile\
-then run gradle generateDependencyGraph\
+then run gradle generateDependencyGraph
 
 ##### Maven
 Add\
-<plugin>\
-  <groupId>com.github.ferstl</groupId>\
-  <artifactId>depgraph-maven-plugin</artifactId>\
-  <version>3.3.0</version>\
-</plugin>\
+        <plugin>\
+          <groupId>com.github.ferstl</groupId>\
+          <artifactId>depgraph-maven-plugin</artifactId>\
+          <version>3.3.0</version>\
+          <configuration>\
+            <graphFormat>dot</graphFormat>\
+            <createImage>true</createImage>\
+            <showDuplicates>true</showDuplicates>\
+          </configuration>\
+        </plugin>\
 to pom.xml\
 then run mvn depgraph:graph\
 then go to /target and run\
-dot -Tpng dependency-graph.dot -o graph.png\
+dot -Tpng dependency-graph.dot -o graph.png
 
 We also used source code from https://github.com/astrofrog/psrecord to make a python script that records our CPU and memory usage for PID(s) over time. We do need to refine it some more, then we can move towards actually testing our projects.
 
