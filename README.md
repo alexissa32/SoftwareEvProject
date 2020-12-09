@@ -35,16 +35,18 @@ then run gradle generateDependencyGraph
 
 ##### Maven
 Add\
-        <plugin>\
-          <groupId>com.github.ferstl</groupId>\
-          <artifactId>depgraph-maven-plugin</artifactId>\
-          <version>3.3.0</version>\
-          <configuration>\
-            <graphFormat>dot</graphFormat>\
-            <createImage>true</createImage>\
-            <showDuplicates>true</showDuplicates>\
-          </configuration>\
-        </plugin>\
+```
+<plugin>
+  <groupId>com.github.ferstl</groupId>
+  <artifactId>depgraph-maven-plugin</artifactId>
+  <version>3.3.0</version>
+  <configuration>
+    <graphFormat>dot</graphFormat>
+    <createImage>true</createImage>
+    <showDuplicates>true</showDuplicates>
+  </configuration>
+</plugin>
+```
 to pom.xml\
 then run mvn depgraph:graph\
 then go to /target and run\
