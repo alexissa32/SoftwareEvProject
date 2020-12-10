@@ -7,6 +7,9 @@ Although there are few automated tools available to convert Maven or Gradle to B
 
 Once we have these representative codebases being built using all possible tools, we will explore making changes to the code and comparing rebuild time, CPU usage, and memory usage. Further, we seek to explore the code through visual representations of dependencies [6]. This will help us choose interesting places in code to make those changes that will showcase differences in the tools.
 
+### 12/10 Update
+Final paper is now in the Git repository! It should help navigate the repo, find result images, and so on!
+
 ### 11/22 Update
 In this update, we successfully implemented our own basic math class called Calculator (which adds, subtracts, multiplies, and divides) with Maven as our build management tool. Each of those math functions is its own Maven package, with Multiply and Divide also depending on Add and Subtract. After creating this project, we used the same techniques we previously talked about to convert Calculator to a Gradle and Bazel project. We also generated a dependency graph for Calculator. You can access that repository here: https://github.com/dfbray/swevolutioncalculator
 
